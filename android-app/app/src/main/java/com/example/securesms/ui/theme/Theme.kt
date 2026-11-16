@@ -1,58 +1,46 @@
+/** Tema Material 3 con contraste y adaptación al modo del sistema. */
 package com.example.securesms.ui.theme
 
-import android.app.Activity
-import android.os.Build
 import androidx.compose.foundation.isSystemInDarkTheme
 import androidx.compose.material3.MaterialTheme
 import androidx.compose.material3.darkColorScheme
-import androidx.compose.material3.dynamicDarkColorScheme
-import androidx.compose.material3.dynamicLightColorScheme
 import androidx.compose.material3.lightColorScheme
 import androidx.compose.runtime.Composable
-import androidx.compose.ui.platform.LocalContext
+import androidx.compose.ui.graphics.Color
 
-private val DarkColorScheme = darkColorScheme(
-    primary = Purple80,
-    secondary = PurpleGrey80,
-    tertiary = Pink80
+private val Light = lightColorScheme(
+    primary = Color(0xFF006957),
+    onPrimary = Color.White,
+    primaryContainer = Color(0xFFBCECDD),
+    onPrimaryContainer = Color(0xFF07382E),
+    secondary = Color(0xFF355E62),
+    secondaryContainer = Color(0xFFD0EBED),
+    onSecondaryContainer = Color(0xFF14383C),
+    background = Color(0xFFF7FBFA),
+    surface = Color(0xFFF7FBFA),
+    onSurface = Color(0xFF162D30),
+    surfaceVariant = Color(0xFFE5F0ED),
+    onSurfaceVariant = Color(0xFF3F5857),
+    outline = Color(0xFF65827D)
 )
 
-private val LightColorScheme = lightColorScheme(
-    primary = Purple40,
-    secondary = PurpleGrey40,
-    tertiary = Pink40
-
-    /* Other default colors to override
-    background = Color(0xFFFFFBFE),
-    surface = Color(0xFFFFFBFE),
-    onPrimary = Color.White,
-    onSecondary = Color.White,
-    onTertiary = Color.White,
-    onBackground = Color(0xFF1C1B1F),
-    onSurface = Color(0xFF1C1B1F),
-    */
+private val Dark = darkColorScheme(
+    primary = Mint,
+    onPrimary = Color(0xFF00382D),
+    primaryContainer = Color(0xFF174F43),
+    onPrimaryContainer = Color(0xFFC4F4E7),
+    secondary = Color(0xFFA9D0D2),
+    secondaryContainer = Color(0xFF25474B),
+    onSecondaryContainer = Color(0xFFCEECEE),
+    background = Color(0xFF101F21),
+    surface = Color(0xFF101F21),
+    onSurface = Color(0xFFE0EEEC),
+    surfaceVariant = Color(0xFF233738),
+    onSurfaceVariant = Color(0xFFBDCDCA),
+    outline = Color(0xFF8BA5A0)
 )
 
 @Composable
-fun SecureSMSTheme(
-    darkTheme: Boolean = isSystemInDarkTheme(),
-    // Dynamic color is available on Android 12+
-    dynamicColor: Boolean = true,
-    content: @Composable () -> Unit
-) {
-    val colorScheme = when {
-        dynamicColor && Build.VERSION.SDK_INT >= Build.VERSION_CODES.S -> {
-            val context = LocalContext.current
-            if (darkTheme) dynamicDarkColorScheme(context) else dynamicLightColorScheme(context)
-        }
-
-        darkTheme -> DarkColorScheme
-        else -> LightColorScheme
-    }
-
-    MaterialTheme(
-        colorScheme = colorScheme,
-        typography = Typography,
-        content = content
-    )
+fun SecureSMSTheme(darkTheme: Boolean = isSystemInDarkTheme(), content: @Composable () -> Unit) {
+    MaterialTheme(colorScheme = if (darkTheme) Dark else Light, typography = SecureTypography, content = content)
 }
