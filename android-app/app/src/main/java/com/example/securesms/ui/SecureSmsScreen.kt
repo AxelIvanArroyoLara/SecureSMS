@@ -50,6 +50,7 @@ import androidx.compose.runtime.saveable.rememberSaveable
 import androidx.compose.runtime.setValue
 import androidx.compose.ui.Alignment
 import androidx.compose.ui.Modifier
+import androidx.compose.ui.platform.LocalSoftwareKeyboardController
 import androidx.compose.ui.text.font.FontFamily
 import androidx.compose.ui.text.font.FontWeight
 import androidx.compose.ui.text.input.KeyboardType
@@ -262,10 +263,10 @@ private fun ColumnScope.Chat(
     inspect: (String) -> Unit,
     send: (String, () -> Unit) -> Unit
 ) {
-    var draft by rememberSaveable(chat.id) { mutableStateOf("") }
+    var draft by remember(chat.id) { mutableStateOf("") }
     val list = rememberLazyListState()
     LaunchedEffect(chat.id, messages.size) {
-        if (messages.isNotEmpty()) list.scrollToItem(messages.lastIndex)
+        if (messages.isNotEmpty()) list.requestScrollToItem(messages.lastIndex)
     }
     Column(Modifier.fillMaxWidth().padding(horizontal = 16.dp, vertical = 6.dp)) {
         Row(verticalAlignment = Alignment.CenterVertically) {
@@ -323,6 +324,7 @@ private fun ColumnScope.Chat(
         }
     }
     val bytes = draft.encodeToByteArray().size
+    val keyboard = LocalSoftwareKeyboardController.current
     val canSend = chat.mode == Mode.DEMO || (availability == null && contact?.verified == true)
     Row(
         Modifier.fillMaxWidth().padding(horizontal = 12.dp, vertical = 8.dp),
@@ -335,6 +337,7 @@ private fun ColumnScope.Chat(
         Button(enabled = !busy && canSend && profile != null && draft.isNotBlank() &&
             bytes <= SmsProtocol.maxPlaintextBytes, onClick = {
             val sent = draft
+            keyboard?.hide()
             send(sent) { if (draft == sent) draft = "" }
         }) { Text("Send") }
     }
