@@ -139,40 +139,53 @@ class Messaging(
     suspend fun receive(mode: Mode, from: String, to: String, text: String) {
         val chat = conversation(mode, to, from)
         assembler.accept(chat.id, text, { store.contains(rowId(chat, it, false)) }) { envelope, count ->
-            val context = envelope.context
-            val suite = mode.suite()
-            if (context.suite != suite) return@accept
-            val engine = crypto.find(suite, context.profile)
-            val alias = if (mode == Mode.DEMO) to else store.identity(context.profile)
-                ?.takeIf { fingerprint(it.spki).contentEquals(context.recipientFingerprint) }?.alias
-            val result = if (engine != null && alias != null) engine.decrypt(context, alias, envelope.payload) else null
-            val id = rowId(chat, context.id.toString(), false)
-            val plaintext = (result as? CryptoResult.Ok)?.value
-            val valid = plaintext?.takeIf {
-                it.size in 1..SmsProtocol.maxPlaintextBytes &&
-                    runCatching { it.decodeToString(throwOnInvalidSequence = true) }.isSuccess
-            }
-            val sealed = valid?.let { history.seal(id, it) }
-            val error = when {
-                engine == null -> "Crypto engine unavailable"
-                alias == null -> "No matching private key on this device"
-                result is CryptoResult.Failure -> result.error.description
-                valid == null -> "Invalid decrypted message"
-                sealed == null -> "Could not protect local message history"
-                else -> null
-            }
-            store.save(chat)
-            store.save(
-                Message(
-                    id, chat.id, context.id.toString(), false, System.currentTimeMillis(),
-                    if (error == null) Status.RECEIVED else Status.DECRYPTION_FAILED,
-                    suite.smsCapable, fingerprintText(context.recipientFingerprint),
-                    Diagnostics(context.profile, count, SmsProtocol.encode(envelope).size,
-                        valid?.size, decryptionNanos = (result as? CryptoResult.Ok)?.elapsedNanos),
-                    sealed, error
-                )
-            )
+            receive(chat, envelope, count)
         }
+    }
+
+    /** Reanuda lotes completos guardados antes de una interrupción del proceso. */
+    suspend fun recover() = assembler.recover { route, envelope, count ->
+        val (mode, owner, peer) = route.split(':', limit = 3)
+        val chat = conversation(Mode.valueOf(mode), owner, peer)
+        if (!store.contains(rowId(chat, envelope.context.id.toString(), false))) {
+            receive(chat, envelope, count)
+        }
+    }
+
+    private suspend fun receive(chat: Conversation, envelope: Envelope, count: Int) {
+        val context = envelope.context
+        val suite = chat.mode.suite()
+        if (context.suite != suite) return
+        val engine = crypto.find(suite, context.profile)
+        val alias = if (chat.mode == Mode.DEMO) chat.owner else store.identity(context.profile)
+            ?.takeIf { fingerprint(it.spki).contentEquals(context.recipientFingerprint) }?.alias
+        val result = if (engine != null && alias != null) engine.decrypt(context, alias, envelope.payload) else null
+        val id = rowId(chat, context.id.toString(), false)
+        val plaintext = (result as? CryptoResult.Ok)?.value
+        val valid = plaintext?.takeIf {
+            it.size in 1..SmsProtocol.maxPlaintextBytes &&
+                runCatching { it.decodeToString(throwOnInvalidSequence = true) }.isSuccess
+        }
+        val sealed = valid?.let { history.seal(id, it) }
+        val error = when {
+            engine == null -> "Crypto engine unavailable"
+            alias == null -> "No matching private key on this device"
+            result is CryptoResult.Failure -> result.error.description
+            valid == null -> "Invalid decrypted message"
+            sealed == null -> "Could not protect local message history"
+            else -> null
+        }
+        store.save(chat)
+        store.save(
+            Message(
+                id, chat.id, context.id.toString(), false, System.currentTimeMillis(),
+                if (error == null) Status.RECEIVED else Status.DECRYPTION_FAILED,
+                suite.smsCapable, fingerprintText(context.recipientFingerprint),
+                Diagnostics(context.profile, count, SmsProtocol.encode(envelope).size,
+                    valid?.size, decryptionNanos = (result as? CryptoResult.Ok)?.elapsedNanos),
+                sealed, error
+            )
+        )
     }
 
     fun body(message: Message): String? = message.sealedBody?.let { history.open(message.rowId, it) }

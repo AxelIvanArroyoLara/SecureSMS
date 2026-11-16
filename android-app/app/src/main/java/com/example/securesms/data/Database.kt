@@ -50,6 +50,8 @@ data class PendingRow(
     val route: String, val wireId: String, val part: Int, val total: Int, val chunk: String, val firstSeen: Long
 )
 
+data class PendingBatch(val route: String, val wireId: String)
+
 @Entity(tableName = "receipts", primaryKeys = ["wireId", "part"])
 data class ReceiptRow(val wireId: String, val part: Int, val status: Status)
 
@@ -85,6 +87,9 @@ interface MessageDao {
     suspend fun pending(route: String, id: String): List<PendingRow>
 
     @Query("SELECT COUNT(*) FROM (SELECT route, wireId FROM pending GROUP BY route, wireId)") suspend fun batches(): Int
+    @Query("SELECT route, wireId FROM pending GROUP BY route, wireId HAVING COUNT(*) = MAX(total)")
+    suspend fun ready(): List<PendingBatch>
+
     @Query("DELETE FROM pending WHERE firstSeen <= :before") suspend fun expire(before: Long)
     @Query("DELETE FROM pending WHERE route = :route AND wireId = :id") suspend fun remove(route: String, id: String)
 }

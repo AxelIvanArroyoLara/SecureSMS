@@ -48,6 +48,7 @@ class SecureSmsApplication : Application() {
         super.onCreate()
         scope.launch {
             while (isActive) {
+                messaging.recover()
                 val now = System.currentTimeMillis()
                 store.expireSends(now - 5 * 60 * 1000L)
                 delay(60_000)

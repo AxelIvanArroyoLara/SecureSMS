@@ -83,6 +83,7 @@ class RoomStore(private val db: SecureDatabase) : MessageStore, PendingStore {
     suspend fun expireSends(before: Long) = dao.expireSends(before)
     override suspend fun expire(before: Long) = dao.expire(before)
     override suspend fun batches() = dao.batches()
+    override suspend fun ready() = dao.ready().map { it.route to it.wireId }
     override suspend fun load(route: String, id: String) = dao.pending(route, id).map {
         PendingFrame(it.route, Frame(UUID.fromString(it.wireId), it.part, it.total, it.chunk), it.firstSeen)
     }

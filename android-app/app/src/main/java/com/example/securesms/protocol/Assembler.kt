@@ -9,6 +9,7 @@ data class PendingFrame(val route: String, val frame: Frame, val firstSeen: Long
 interface PendingStore {
     suspend fun expire(before: Long)
     suspend fun batches(): Int
+    suspend fun ready(): List<Pair<String, String>>
     suspend fun load(route: String, id: String): List<PendingFrame>
     suspend fun add(frame: PendingFrame)
     suspend fun remove(route: String, id: String)
@@ -43,10 +44,26 @@ class Assembler(private val store: PendingStore, private val now: () -> Long = S
                 store.add(PendingFrame(route, frame, pending.firstOrNull()?.firstSeen ?: time))
                 frames.add(frame)
             }
-            if (frames.size == frame.total) {
-                SmsProtocol.reassemble(frames)?.let { onComplete(it, frames.size) }
-                store.remove(route, id)
-            }
+            if (frames.size == frame.total) finish(route, id, frames, onComplete)
         }
+    }
+
+    /** Recupera lotes escritos justo antes de que Android cerrara el proceso. */
+    suspend fun recover(onComplete: suspend (String, Envelope, Int) -> Unit) = lock.withLock {
+        store.expire(now() - SmsProtocol.ttlMillis)
+        for ((route, id) in store.ready()) {
+            val frames = store.load(route, id).map(PendingFrame::frame)
+            finish(route, id, frames) { envelope, size -> onComplete(route, envelope, size) }
+        }
+    }
+
+    private suspend fun finish(
+        route: String,
+        id: String,
+        frames: List<Frame>,
+        onComplete: suspend (Envelope, Int) -> Unit
+    ) {
+        SmsProtocol.reassemble(frames)?.let { onComplete(it, frames.size) }
+        store.remove(route, id)
     }
 }
