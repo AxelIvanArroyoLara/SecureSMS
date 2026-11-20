@@ -1,0 +1,39 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="560" viewBox="0 0 960.0 560.0">
+<rect width="100%" height="100%" fill="#ffffff"/>
+<text x="480.0" y="32" text-anchor="middle" font-family="sans-serif" font-size="18">Isolated asymmetric operations, median of 30 runs</text>
+<text x="18" y="242.0" text-anchor="middle" transform="rotate(-90 18 242.0)" font-family="sans-serif" font-size="13">Median time (ms, logarithmic scale)</text>
+<line x1="88.0" y1="56.0" x2="88.0" y2="428.0" stroke="#222" stroke-width="1"/>
+<line x1="88.0" y1="428.0" x2="936.0" y2="428.0" stroke="#222" stroke-width="1"/>
+<line x1="88.0" y1="428.0" x2="936.0" y2="428.0" stroke="#dddddd"/>
+<text x="80.0" y="432.0" text-anchor="end" font-family="sans-serif" font-size="11">0.102</text>
+<line x1="88.0" y1="335.0" x2="936.0" y2="335.0" stroke="#dddddd"/>
+<text x="80.0" y="339.0" text-anchor="end" font-family="sans-serif" font-size="11">0.448</text>
+<line x1="88.0" y1="242.0" x2="936.0" y2="242.0" stroke="#dddddd"/>
+<text x="80.0" y="246.0" text-anchor="end" font-family="sans-serif" font-size="11">1.97</text>
+<line x1="88.0" y1="149.0" x2="936.0" y2="149.0" stroke="#dddddd"/>
+<text x="80.0" y="153.0" text-anchor="end" font-family="sans-serif" font-size="11">8.69</text>
+<line x1="88.0" y1="56.0" x2="936.0" y2="56.0" stroke="#dddddd"/>
+<text x="80.0" y="60.0" text-anchor="end" font-family="sans-serif" font-size="11">38.3</text>
+<text x="158.66666666666669" y="450.0" text-anchor="middle" font-family="sans-serif" font-size="12">RSA-2048</text>
+<rect x="111.55555555555556" y="428.0" width="37.68888888888889" height="0.0" fill="#1b4f72"/>
+<rect x="158.66666666666669" y="279.62945475021365" width="37.68888888888889" height="148.37054524978635" fill="#148f77"/>
+<text x="300.0" y="450.0" text-anchor="middle" font-family="sans-serif" font-size="12">P-224</text>
+<rect x="252.8888888888889" y="368.535164933442" width="37.68888888888889" height="59.46483506655801" fill="#1b4f72"/>
+<rect x="300.0" y="371.4739419890542" width="37.68888888888889" height="56.5260580109458" fill="#148f77"/>
+<text x="441.33333333333337" y="450.0" text-anchor="middle" font-family="sans-serif" font-size="12">RSA-3072</text>
+<rect x="394.22222222222223" y="416.76965105328793" width="37.68888888888889" height="11.23034894671207" fill="#1b4f72"/>
+<rect x="441.33333333333337" y="218.31317168205157" width="37.68888888888889" height="209.68682831794843" fill="#148f77"/>
+<text x="582.6666666666666" y="450.0" text-anchor="middle" font-family="sans-serif" font-size="12">P-256</text>
+<rect x="535.5555555555555" y="364.54940531939445" width="37.68888888888889" height="63.45059468060555" fill="#1b4f72"/>
+<rect x="582.6666666666666" y="364.9423721459507" width="37.68888888888889" height="63.057627854049315" fill="#148f77"/>
+<text x="724.0" y="450.0" text-anchor="middle" font-family="sans-serif" font-size="12">RSA-7680</text>
+<rect x="676.8888888888889" y="336.62363804481214" width="37.68888888888889" height="91.37636195518786" fill="#1b4f72"/>
+<rect x="724.0" y="60.82917116433151" width="37.68888888888889" height="367.1708288356685" fill="#148f77"/>
+<text x="865.3333333333334" y="450.0" text-anchor="middle" font-family="sans-serif" font-size="12">P-384</text>
+<rect x="818.2222222222223" y="298.3232353839698" width="37.68888888888889" height="129.6767646160302" fill="#1b4f72"/>
+<rect x="865.3333333333334" y="297.27545695010315" width="37.68888888888889" height="130.72454304989685" fill="#148f77"/>
+<rect x="88.0" y="524.0" width="14" height="14" fill="#1b4f72"/>
+<text x="108.0" y="536.0" font-family="sans-serif" font-size="12">encrypt</text>
+<rect x="238.0" y="524.0" width="14" height="14" fill="#148f77"/>
+<text x="258.0" y="536.0" font-family="sans-serif" font-size="12">decrypt</text>
+</svg>

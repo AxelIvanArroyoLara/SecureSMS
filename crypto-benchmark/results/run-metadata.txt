@@ -1,0 +1,13 @@
+date=2026-11-19T22:27:14.356997015-06:00
+os=Linux 7.0.0-42-generic amd64
+jvm=Eclipse Adoptium 25.0.3
+processors=16
+cpu=AMD Ryzen 7 5800H with Radeon Graphics
+repetitions=30
+warmup_discarded=2
+dispersion=sample standard deviation (n-1)
+hybrid_provider=platform JCA through EmilioRsaEngine and EmilioEccEngine, keys in memory
+hybrid_scope=key generation, AES-256-GCM plus RSA-OAEP or ECDH-HKDF, envelope bytes, SMS segments
+isolated_provider=BouncyCastle 1.78.1
+isolated_scope=key generation; RSA-OAEP of a 32-byte key; one ECDH on each side; no AES-GCM
+keystore=not used; these figures are not Android Keystore timings

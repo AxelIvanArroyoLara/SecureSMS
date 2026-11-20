@@ -1,0 +1,1621 @@
+block,pair,profile,operation,plaintext_bytes,repetition,elapsed_ns,envelope_bytes,sms_segments
+hybrid,app,RSA-2048,keygen,,1,92381681,,
+hybrid,app,RSA-2048,keygen,,2,54971765,,
+hybrid,app,RSA-2048,keygen,,3,109350251,,
+hybrid,app,RSA-2048,keygen,,4,110075509,,
+hybrid,app,RSA-2048,keygen,,5,34432383,,
+hybrid,app,RSA-2048,keygen,,6,78441331,,
+hybrid,app,RSA-2048,keygen,,7,39721904,,
+hybrid,app,RSA-2048,keygen,,8,54631662,,
+hybrid,app,RSA-2048,keygen,,9,70318896,,
+hybrid,app,RSA-2048,keygen,,10,117250722,,
+hybrid,app,RSA-2048,keygen,,11,50927800,,
+hybrid,app,RSA-2048,keygen,,12,75691595,,
+hybrid,app,RSA-2048,keygen,,13,62645921,,
+hybrid,app,RSA-2048,keygen,,14,84068046,,
+hybrid,app,RSA-2048,keygen,,15,44712071,,
+hybrid,app,RSA-2048,keygen,,16,61378532,,
+hybrid,app,RSA-2048,keygen,,17,40570374,,
+hybrid,app,RSA-2048,keygen,,18,71010830,,
+hybrid,app,RSA-2048,keygen,,19,65997970,,
+hybrid,app,RSA-2048,keygen,,20,68785885,,
+hybrid,app,RSA-2048,keygen,,21,108117394,,
+hybrid,app,RSA-2048,keygen,,22,167740793,,
+hybrid,app,RSA-2048,keygen,,23,151576309,,
+hybrid,app,RSA-2048,keygen,,24,65173284,,
+hybrid,app,RSA-2048,keygen,,25,92614375,,
+hybrid,app,RSA-2048,keygen,,26,45142763,,
+hybrid,app,RSA-2048,keygen,,27,129119124,,
+hybrid,app,RSA-2048,keygen,,28,119456558,,
+hybrid,app,RSA-2048,keygen,,29,62608719,,
+hybrid,app,RSA-2048,keygen,,30,39011875,,
+hybrid,app,RSA-2048,encrypt,0,1,433547,337,4
+hybrid,app,RSA-2048,decrypt,0,1,1424505,,
+hybrid,app,RSA-2048,encrypt,0,2,280188,337,4
+hybrid,app,RSA-2048,decrypt,0,2,1181468,,
+hybrid,app,RSA-2048,encrypt,0,3,233781,337,4
+hybrid,app,RSA-2048,decrypt,0,3,1167681,,
+hybrid,app,RSA-2048,encrypt,0,4,211619,337,4
+hybrid,app,RSA-2048,decrypt,0,4,1101607,,
+hybrid,app,RSA-2048,encrypt,0,5,200248,337,4
+hybrid,app,RSA-2048,decrypt,0,5,1061391,,
+hybrid,app,RSA-2048,encrypt,0,6,192342,337,4
+hybrid,app,RSA-2048,decrypt,0,6,1088632,,
+hybrid,app,RSA-2048,encrypt,0,7,186120,337,4
+hybrid,app,RSA-2048,decrypt,0,7,1060389,,
+hybrid,app,RSA-2048,encrypt,0,8,193134,337,4
+hybrid,app,RSA-2048,decrypt,0,8,1108320,,
+hybrid,app,RSA-2048,encrypt,0,9,194667,337,4
+hybrid,app,RSA-2048,decrypt,0,9,1149557,,
+hybrid,app,RSA-2048,encrypt,0,10,189236,337,4
+hybrid,app,RSA-2048,decrypt,0,10,1085626,,
+hybrid,app,RSA-2048,encrypt,0,11,209505,337,4
+hybrid,app,RSA-2048,decrypt,0,11,1068745,,
+hybrid,app,RSA-2048,encrypt,0,12,198004,337,4
+hybrid,app,RSA-2048,decrypt,0,12,1085145,,
+hybrid,app,RSA-2048,encrypt,0,13,192423,337,4
+hybrid,app,RSA-2048,decrypt,0,13,1175837,,
+hybrid,app,RSA-2048,encrypt,0,14,209374,337,4
+hybrid,app,RSA-2048,decrypt,0,14,1103340,,
+hybrid,app,RSA-2048,encrypt,0,15,183556,337,4
+hybrid,app,RSA-2048,decrypt,0,15,1105164,,
+hybrid,app,RSA-2048,encrypt,0,16,202842,337,4
+hybrid,app,RSA-2048,decrypt,0,16,1145560,,
+hybrid,app,RSA-2048,encrypt,0,17,177765,337,4
+hybrid,app,RSA-2048,decrypt,0,17,1120252,,
+hybrid,app,RSA-2048,encrypt,0,18,178236,337,4
+hybrid,app,RSA-2048,decrypt,0,18,1066741,,
+hybrid,app,RSA-2048,encrypt,0,19,183797,337,4
+hybrid,app,RSA-2048,decrypt,0,19,1158184,,
+hybrid,app,RSA-2048,encrypt,0,20,178155,337,4
+hybrid,app,RSA-2048,decrypt,0,20,1076369,,
+hybrid,app,RSA-2048,encrypt,0,21,170963,337,4
+hybrid,app,RSA-2048,decrypt,0,21,1235389,,
+hybrid,app,RSA-2048,encrypt,0,22,176693,337,4
+hybrid,app,RSA-2048,decrypt,0,22,1074636,,
+hybrid,app,RSA-2048,encrypt,0,23,165942,337,4
+hybrid,app,RSA-2048,decrypt,0,23,1039530,,
+hybrid,app,RSA-2048,encrypt,0,24,174168,337,4
+hybrid,app,RSA-2048,decrypt,0,24,1039540,,
+hybrid,app,RSA-2048,encrypt,0,25,165211,337,4
+hybrid,app,RSA-2048,decrypt,0,25,1061411,,
+hybrid,app,RSA-2048,encrypt,0,26,157016,337,4
+hybrid,app,RSA-2048,decrypt,0,26,1126624,,
+hybrid,app,RSA-2048,encrypt,0,27,156775,337,4
+hybrid,app,RSA-2048,decrypt,0,27,1036113,,
+hybrid,app,RSA-2048,encrypt,0,28,153149,337,4
+hybrid,app,RSA-2048,decrypt,0,28,1027166,,
+hybrid,app,RSA-2048,encrypt,0,29,161324,337,4
+hybrid,app,RSA-2048,decrypt,0,29,1063605,,
+hybrid,app,RSA-2048,encrypt,0,30,186402,337,4
+hybrid,app,RSA-2048,decrypt,0,30,1594807,,
+hybrid,app,RSA-2048,encrypt,5,1,155924,342,4
+hybrid,app,RSA-2048,decrypt,5,1,1039940,,
+hybrid,app,RSA-2048,encrypt,5,2,155153,342,4
+hybrid,app,RSA-2048,decrypt,5,2,1046453,,
+hybrid,app,RSA-2048,encrypt,5,3,153720,342,4
+hybrid,app,RSA-2048,decrypt,5,3,1133767,,
+hybrid,app,RSA-2048,encrypt,5,4,167586,342,4
+hybrid,app,RSA-2048,decrypt,5,4,1014472,,
+hybrid,app,RSA-2048,encrypt,5,5,139443,342,4
+hybrid,app,RSA-2048,decrypt,5,5,1015274,,
+hybrid,app,RSA-2048,encrypt,5,6,143861,342,4
+hybrid,app,RSA-2048,decrypt,5,6,1019331,,
+hybrid,app,RSA-2048,encrypt,5,7,163267,342,4
+hybrid,app,RSA-2048,decrypt,5,7,1133006,,
+hybrid,app,RSA-2048,encrypt,5,8,154050,342,4
+hybrid,app,RSA-2048,decrypt,5,8,1012819,,
+hybrid,app,RSA-2048,encrypt,5,9,138531,342,4
+hybrid,app,RSA-2048,decrypt,5,9,1038488,,
+hybrid,app,RSA-2048,encrypt,5,10,136928,342,4
+hybrid,app,RSA-2048,decrypt,5,10,1045932,,
+hybrid,app,RSA-2048,encrypt,5,11,142609,342,4
+hybrid,app,RSA-2048,decrypt,5,11,1005766,,
+hybrid,app,RSA-2048,encrypt,5,12,146847,342,4
+hybrid,app,RSA-2048,decrypt,5,12,1005896,,
+hybrid,app,RSA-2048,encrypt,5,13,139202,342,4
+hybrid,app,RSA-2048,decrypt,5,13,1012549,,
+hybrid,app,RSA-2048,encrypt,5,14,131789,342,4
+hybrid,app,RSA-2048,decrypt,5,14,1045040,,
+hybrid,app,RSA-2048,encrypt,5,15,145725,342,4
+hybrid,app,RSA-2048,decrypt,5,15,1028289,,
+hybrid,app,RSA-2048,encrypt,5,16,142449,342,4
+hybrid,app,RSA-2048,decrypt,5,16,1036193,,
+hybrid,app,RSA-2048,encrypt,5,17,130997,342,4
+hybrid,app,RSA-2048,decrypt,5,17,1004573,,
+hybrid,app,RSA-2048,encrypt,5,18,131668,342,4
+hybrid,app,RSA-2048,decrypt,5,18,997270,,
+hybrid,app,RSA-2048,encrypt,5,19,124615,342,4
+hybrid,app,RSA-2048,decrypt,5,19,994034,,
+hybrid,app,RSA-2048,encrypt,5,20,138832,342,4
+hybrid,app,RSA-2048,decrypt,5,20,1079254,,
+hybrid,app,RSA-2048,encrypt,5,21,126479,342,4
+hybrid,app,RSA-2048,decrypt,5,21,1003692,,
+hybrid,app,RSA-2048,encrypt,5,22,129565,342,4
+hybrid,app,RSA-2048,decrypt,5,22,992130,,
+hybrid,app,RSA-2048,encrypt,5,23,126528,342,4
+hybrid,app,RSA-2048,decrypt,5,23,999604,,
+hybrid,app,RSA-2048,encrypt,5,24,123704,342,4
+hybrid,app,RSA-2048,decrypt,5,24,986420,,
+hybrid,app,RSA-2048,encrypt,5,25,117953,342,4
+hybrid,app,RSA-2048,decrypt,5,25,1015535,,
+hybrid,app,RSA-2048,encrypt,5,26,127701,342,4
+hybrid,app,RSA-2048,decrypt,5,26,994284,,
+hybrid,app,RSA-2048,encrypt,5,27,129174,342,4
+hybrid,app,RSA-2048,decrypt,5,27,993723,,
+hybrid,app,RSA-2048,encrypt,5,28,763339,342,4
+hybrid,app,RSA-2048,decrypt,5,28,1002189,,
+hybrid,app,RSA-2048,encrypt,5,29,124374,342,4
+hybrid,app,RSA-2048,decrypt,5,29,991188,,
+hybrid,app,RSA-2048,encrypt,5,30,130355,342,4
+hybrid,app,RSA-2048,decrypt,5,30,1038237,,
+hybrid,app,RSA-2048,encrypt,200,1,133622,537,6
+hybrid,app,RSA-2048,decrypt,200,1,1009312,,
+hybrid,app,RSA-2048,encrypt,200,2,141206,537,6
+hybrid,app,RSA-2048,decrypt,200,2,1019643,,
+hybrid,app,RSA-2048,encrypt,200,3,124264,537,6
+hybrid,app,RSA-2048,decrypt,200,3,1020093,,
+hybrid,app,RSA-2048,encrypt,200,4,131508,537,6
+hybrid,app,RSA-2048,decrypt,200,4,1002911,,
+hybrid,app,RSA-2048,encrypt,200,5,122611,537,6
+hybrid,app,RSA-2048,decrypt,200,5,1005776,,
+hybrid,app,RSA-2048,encrypt,200,6,123983,537,6
+hybrid,app,RSA-2048,decrypt,200,6,1000957,,
+hybrid,app,RSA-2048,encrypt,200,7,119304,537,6
+hybrid,app,RSA-2048,decrypt,200,7,1055390,,
+hybrid,app,RSA-2048,encrypt,200,8,128692,537,6
+hybrid,app,RSA-2048,decrypt,200,8,995937,,
+hybrid,app,RSA-2048,encrypt,200,9,130486,537,6
+hybrid,app,RSA-2048,decrypt,200,9,1002880,,
+hybrid,app,RSA-2048,encrypt,200,10,138080,537,6
+hybrid,app,RSA-2048,decrypt,200,10,1011176,,
+hybrid,app,RSA-2048,encrypt,200,11,127601,537,6
+hybrid,app,RSA-2048,decrypt,200,11,1097539,,
+hybrid,app,RSA-2048,encrypt,200,12,121138,537,6
+hybrid,app,RSA-2048,decrypt,200,12,989715,,
+hybrid,app,RSA-2048,encrypt,200,13,117662,537,6
+hybrid,app,RSA-2048,decrypt,200,13,996920,,
+hybrid,app,RSA-2048,encrypt,200,14,127010,537,6
+hybrid,app,RSA-2048,decrypt,200,14,1046172,,
+hybrid,app,RSA-2048,encrypt,200,15,130255,537,6
+hybrid,app,RSA-2048,decrypt,200,15,1023069,,
+hybrid,app,RSA-2048,encrypt,200,16,125887,537,6
+hybrid,app,RSA-2048,decrypt,200,16,991068,,
+hybrid,app,RSA-2048,encrypt,200,17,127931,537,6
+hybrid,app,RSA-2048,decrypt,200,17,1142303,,
+hybrid,app,RSA-2048,encrypt,200,18,124685,537,6
+hybrid,app,RSA-2048,decrypt,200,18,1027397,,
+hybrid,app,RSA-2048,encrypt,200,19,119295,537,6
+hybrid,app,RSA-2048,decrypt,200,19,997440,,
+hybrid,app,RSA-2048,encrypt,200,20,144442,537,6
+hybrid,app,RSA-2048,decrypt,200,20,1105714,,
+hybrid,app,RSA-2048,encrypt,200,21,133141,537,6
+hybrid,app,RSA-2048,decrypt,200,21,1016847,,
+hybrid,app,RSA-2048,encrypt,200,22,136036,537,6
+hybrid,app,RSA-2048,decrypt,200,22,1053386,,
+hybrid,app,RSA-2048,encrypt,200,23,140104,537,6
+hybrid,app,RSA-2048,decrypt,200,23,1017187,,
+hybrid,app,RSA-2048,encrypt,200,24,133812,537,6
+hybrid,app,RSA-2048,decrypt,200,24,1103971,,
+hybrid,app,RSA-2048,encrypt,200,25,126469,537,6
+hybrid,app,RSA-2048,decrypt,200,25,1003472,,
+hybrid,app,RSA-2048,encrypt,200,26,123573,537,6
+hybrid,app,RSA-2048,decrypt,200,26,1003241,,
+hybrid,app,RSA-2048,encrypt,200,27,116599,537,6
+hybrid,app,RSA-2048,decrypt,200,27,1028268,,
+hybrid,app,RSA-2048,encrypt,200,28,118444,537,6
+hybrid,app,RSA-2048,decrypt,200,28,986279,,
+hybrid,app,RSA-2048,encrypt,200,29,129403,537,6
+hybrid,app,RSA-2048,decrypt,200,29,1001278,,
+hybrid,app,RSA-2048,encrypt,200,30,123272,537,6
+hybrid,app,RSA-2048,decrypt,200,30,1097989,,
+hybrid,app,RSA-2048,encrypt,1024,1,150334,1361,15
+hybrid,app,RSA-2048,decrypt,1024,1,988223,,
+hybrid,app,RSA-2048,encrypt,1024,2,229022,1361,15
+hybrid,app,RSA-2048,decrypt,1024,2,1010796,,
+hybrid,app,RSA-2048,encrypt,1024,3,162917,1361,15
+hybrid,app,RSA-2048,decrypt,1024,3,1001478,,
+hybrid,app,RSA-2048,encrypt,1024,4,197412,1361,15
+hybrid,app,RSA-2048,decrypt,1024,4,1036164,,
+hybrid,app,RSA-2048,encrypt,1024,5,146557,1361,15
+hybrid,app,RSA-2048,decrypt,1024,5,1045631,,
+hybrid,app,RSA-2048,encrypt,1024,6,210798,1361,15
+hybrid,app,RSA-2048,decrypt,1024,6,994054,,
+hybrid,app,RSA-2048,encrypt,1024,7,156735,1361,15
+hybrid,app,RSA-2048,decrypt,1024,7,1006407,,
+hybrid,app,RSA-2048,encrypt,1024,8,132640,1361,15
+hybrid,app,RSA-2048,decrypt,1024,8,993292,,
+hybrid,app,RSA-2048,encrypt,1024,9,158309,1361,15
+hybrid,app,RSA-2048,decrypt,1024,9,988654,,
+hybrid,app,RSA-2048,encrypt,1024,10,166965,1361,15
+hybrid,app,RSA-2048,decrypt,1024,10,1013541,,
+hybrid,app,RSA-2048,encrypt,1024,11,151305,1361,15
+hybrid,app,RSA-2048,decrypt,1024,11,994535,,
+hybrid,app,RSA-2048,encrypt,1024,12,162757,1361,15
+hybrid,app,RSA-2048,decrypt,1024,12,987752,,
+hybrid,app,RSA-2048,encrypt,1024,13,148260,1361,15
+hybrid,app,RSA-2048,decrypt,1024,13,997981,,
+hybrid,app,RSA-2048,encrypt,1024,14,156606,1361,15
+hybrid,app,RSA-2048,decrypt,1024,14,1000065,,
+hybrid,app,RSA-2048,encrypt,1024,15,150463,1361,15
+hybrid,app,RSA-2048,decrypt,1024,15,1048216,,
+hybrid,app,RSA-2048,encrypt,1024,16,152918,1361,15
+hybrid,app,RSA-2048,decrypt,1024,16,983024,,
+hybrid,app,RSA-2048,encrypt,1024,17,163268,1361,15
+hybrid,app,RSA-2048,decrypt,1024,17,995596,,
+hybrid,app,RSA-2048,encrypt,1024,18,164690,1361,15
+hybrid,app,RSA-2048,decrypt,1024,18,1000245,,
+hybrid,app,RSA-2048,encrypt,1024,19,155003,1361,15
+hybrid,app,RSA-2048,decrypt,1024,19,986149,,
+hybrid,app,RSA-2048,encrypt,1024,20,164009,1361,15
+hybrid,app,RSA-2048,decrypt,1024,20,1004183,,
+hybrid,app,RSA-2048,encrypt,1024,21,144994,1361,15
+hybrid,app,RSA-2048,decrypt,1024,21,993282,,
+hybrid,app,RSA-2048,encrypt,1024,22,147428,1361,15
+hybrid,app,RSA-2048,decrypt,1024,22,986149,,
+hybrid,app,RSA-2048,encrypt,1024,23,155182,1361,15
+hybrid,app,RSA-2048,decrypt,1024,23,968947,,
+hybrid,app,RSA-2048,encrypt,1024,24,125387,1361,15
+hybrid,app,RSA-2048,decrypt,1024,24,967183,,
+hybrid,app,RSA-2048,encrypt,1024,25,117852,1361,15
+hybrid,app,RSA-2048,decrypt,1024,25,1113870,,
+hybrid,app,RSA-2048,encrypt,1024,26,147638,1361,15
+hybrid,app,RSA-2048,decrypt,1024,26,1000967,,
+hybrid,app,RSA-2048,encrypt,1024,27,115568,1361,15
+hybrid,app,RSA-2048,decrypt,1024,27,958618,,
+hybrid,app,RSA-2048,encrypt,1024,28,122691,1361,15
+hybrid,app,RSA-2048,decrypt,1024,28,971502,,
+hybrid,app,RSA-2048,encrypt,1024,29,118413,1361,15
+hybrid,app,RSA-2048,decrypt,1024,29,956543,,
+hybrid,app,RSA-2048,encrypt,1024,30,134273,1361,15
+hybrid,app,RSA-2048,decrypt,1024,30,1025444,,
+hybrid,app,RSA-3072,keygen,,1,308059199,,
+hybrid,app,RSA-3072,keygen,,2,321670152,,
+hybrid,app,RSA-3072,keygen,,3,279859444,,
+hybrid,app,RSA-3072,keygen,,4,231421031,,
+hybrid,app,RSA-3072,keygen,,5,605322704,,
+hybrid,app,RSA-3072,keygen,,6,139178437,,
+hybrid,app,RSA-3072,keygen,,7,582387300,,
+hybrid,app,RSA-3072,keygen,,8,637568744,,
+hybrid,app,RSA-3072,keygen,,9,434453325,,
+hybrid,app,RSA-3072,keygen,,10,291064376,,
+hybrid,app,RSA-3072,keygen,,11,370802998,,
+hybrid,app,RSA-3072,keygen,,12,119644214,,
+hybrid,app,RSA-3072,keygen,,13,227235739,,
+hybrid,app,RSA-3072,keygen,,14,529313518,,
+hybrid,app,RSA-3072,keygen,,15,549221626,,
+hybrid,app,RSA-3072,keygen,,16,373167918,,
+hybrid,app,RSA-3072,keygen,,17,217676324,,
+hybrid,app,RSA-3072,keygen,,18,401014890,,
+hybrid,app,RSA-3072,keygen,,19,82600190,,
+hybrid,app,RSA-3072,keygen,,20,505729817,,
+hybrid,app,RSA-3072,keygen,,21,316679781,,
+hybrid,app,RSA-3072,keygen,,22,262439049,,
+hybrid,app,RSA-3072,keygen,,23,522082838,,
+hybrid,app,RSA-3072,keygen,,24,86274613,,
+hybrid,app,RSA-3072,keygen,,25,231148903,,
+hybrid,app,RSA-3072,keygen,,26,109072055,,
+hybrid,app,RSA-3072,keygen,,27,282108859,,
+hybrid,app,RSA-3072,keygen,,28,288734466,,
+hybrid,app,RSA-3072,keygen,,29,208968920,,
+hybrid,app,RSA-3072,keygen,,30,355461296,,
+hybrid,app,RSA-3072,encrypt,0,1,260371,465,5
+hybrid,app,RSA-3072,decrypt,0,1,2927749,,
+hybrid,app,RSA-3072,encrypt,0,2,138671,465,5
+hybrid,app,RSA-3072,decrypt,0,2,2834803,,
+hybrid,app,RSA-3072,encrypt,0,3,158289,465,5
+hybrid,app,RSA-3072,decrypt,0,3,2765653,,
+hybrid,app,RSA-3072,encrypt,0,4,140766,465,5
+hybrid,app,RSA-3072,decrypt,0,4,2746276,,
+hybrid,app,RSA-3072,encrypt,0,5,129064,465,5
+hybrid,app,RSA-3072,decrypt,0,5,2825175,,
+hybrid,app,RSA-3072,encrypt,0,6,157237,465,5
+hybrid,app,RSA-3072,decrypt,0,6,2823403,,
+hybrid,app,RSA-3072,encrypt,0,7,127230,465,5
+hybrid,app,RSA-3072,decrypt,0,7,2809796,,
+hybrid,app,RSA-3072,encrypt,0,8,132650,465,5
+hybrid,app,RSA-3072,decrypt,0,8,2985207,,
+hybrid,app,RSA-3072,encrypt,0,9,168347,465,5
+hybrid,app,RSA-3072,decrypt,0,9,3328855,,
+hybrid,app,RSA-3072,encrypt,0,10,137058,465,5
+hybrid,app,RSA-3072,decrypt,0,10,2799356,,
+hybrid,app,RSA-3072,encrypt,0,11,137840,465,5
+hybrid,app,RSA-3072,decrypt,0,11,3058685,,
+hybrid,app,RSA-3072,encrypt,0,12,152397,465,5
+hybrid,app,RSA-3072,decrypt,0,12,2796922,,
+hybrid,app,RSA-3072,encrypt,0,13,128593,465,5
+hybrid,app,RSA-3072,decrypt,0,13,3059567,,
+hybrid,app,RSA-3072,encrypt,0,14,180770,465,5
+hybrid,app,RSA-3072,decrypt,0,14,2796161,,
+hybrid,app,RSA-3072,encrypt,0,15,132329,465,5
+hybrid,app,RSA-3072,decrypt,0,15,2761094,,
+hybrid,app,RSA-3072,encrypt,0,16,140095,465,5
+hybrid,app,RSA-3072,decrypt,0,16,3094954,,
+hybrid,app,RSA-3072,encrypt,0,17,131368,465,5
+hybrid,app,RSA-3072,decrypt,0,17,2748190,,
+hybrid,app,RSA-3072,encrypt,0,18,146857,465,5
+hybrid,app,RSA-3072,decrypt,0,18,2729725,,
+hybrid,app,RSA-3072,encrypt,0,19,160602,465,5
+hybrid,app,RSA-3072,decrypt,0,19,2882443,,
+hybrid,app,RSA-3072,encrypt,0,20,127801,465,5
+hybrid,app,RSA-3072,decrypt,0,20,2722091,,
+hybrid,app,RSA-3072,encrypt,0,21,125707,465,5
+hybrid,app,RSA-3072,decrypt,0,21,2830204,,
+hybrid,app,RSA-3072,encrypt,0,22,137429,465,5
+hybrid,app,RSA-3072,decrypt,0,22,2739254,,
+hybrid,app,RSA-3072,encrypt,0,23,117441,465,5
+hybrid,app,RSA-3072,decrypt,0,23,3104561,,
+hybrid,app,RSA-3072,encrypt,0,24,167506,465,5
+hybrid,app,RSA-3072,decrypt,0,24,3108038,,
+hybrid,app,RSA-3072,encrypt,0,25,202311,465,5
+hybrid,app,RSA-3072,decrypt,0,25,2779950,,
+hybrid,app,RSA-3072,encrypt,0,26,135576,465,5
+hybrid,app,RSA-3072,decrypt,0,26,3348511,,
+hybrid,app,RSA-3072,encrypt,0,27,227509,465,5
+hybrid,app,RSA-3072,decrypt,0,27,2868236,,
+hybrid,app,RSA-3072,encrypt,0,28,149983,465,5
+hybrid,app,RSA-3072,decrypt,0,28,3064246,,
+hybrid,app,RSA-3072,encrypt,0,29,142790,465,5
+hybrid,app,RSA-3072,decrypt,0,29,2779699,,
+hybrid,app,RSA-3072,encrypt,0,30,145895,465,5
+hybrid,app,RSA-3072,decrypt,0,30,2743091,,
+hybrid,app,RSA-3072,encrypt,5,1,151976,470,5
+hybrid,app,RSA-3072,decrypt,5,1,2698337,,
+hybrid,app,RSA-3072,encrypt,5,2,116870,470,5
+hybrid,app,RSA-3072,decrypt,5,2,2777966,,
+hybrid,app,RSA-3072,encrypt,5,3,121188,470,5
+hybrid,app,RSA-3072,decrypt,5,3,2838761,,
+hybrid,app,RSA-3072,encrypt,5,4,185801,470,5
+hybrid,app,RSA-3072,decrypt,5,4,2777736,,
+hybrid,app,RSA-3072,encrypt,5,5,134694,470,5
+hybrid,app,RSA-3072,decrypt,5,5,2726950,,
+hybrid,app,RSA-3072,encrypt,5,6,122451,470,5
+hybrid,app,RSA-3072,decrypt,5,6,2769039,,
+hybrid,app,RSA-3072,encrypt,5,7,182665,470,5
+hybrid,app,RSA-3072,decrypt,5,7,2725667,,
+hybrid,app,RSA-3072,encrypt,5,8,131528,470,5
+hybrid,app,RSA-3072,decrypt,5,8,2752769,,
+hybrid,app,RSA-3072,encrypt,5,9,151836,470,5
+hybrid,app,RSA-3072,decrypt,5,9,2825286,,
+hybrid,app,RSA-3072,encrypt,5,10,120868,470,5
+hybrid,app,RSA-3072,decrypt,5,10,2787414,,
+hybrid,app,RSA-3072,encrypt,5,11,120227,470,5
+hybrid,app,RSA-3072,decrypt,5,11,2868957,,
+hybrid,app,RSA-3072,encrypt,5,12,159852,470,5
+hybrid,app,RSA-3072,decrypt,5,12,2782475,,
+hybrid,app,RSA-3072,encrypt,5,13,113253,470,5
+hybrid,app,RSA-3072,decrypt,5,13,2738402,,
+hybrid,app,RSA-3072,encrypt,5,14,138261,470,5
+hybrid,app,RSA-3072,decrypt,5,14,2721149,,
+hybrid,app,RSA-3072,encrypt,5,15,112933,470,5
+hybrid,app,RSA-3072,decrypt,5,15,2688487,,
+hybrid,app,RSA-3072,encrypt,5,16,125727,470,5
+hybrid,app,RSA-3072,decrypt,5,16,2720418,,
+hybrid,app,RSA-3072,encrypt,5,17,125537,470,5
+hybrid,app,RSA-3072,decrypt,5,17,2732400,,
+hybrid,app,RSA-3072,encrypt,5,18,114817,470,5
+hybrid,app,RSA-3072,decrypt,5,18,2721009,,
+hybrid,app,RSA-3072,encrypt,5,19,117111,470,5
+hybrid,app,RSA-3072,decrypt,5,19,2699999,,
+hybrid,app,RSA-3072,encrypt,5,20,127229,470,5
+hybrid,app,RSA-3072,decrypt,5,20,2706161,,
+hybrid,app,RSA-3072,encrypt,5,21,122611,470,5
+hybrid,app,RSA-3072,decrypt,5,21,2692004,,
+hybrid,app,RSA-3072,encrypt,5,22,110719,470,5
+hybrid,app,RSA-3072,decrypt,5,22,2713625,,
+hybrid,app,RSA-3072,encrypt,5,23,196821,470,5
+hybrid,app,RSA-3072,decrypt,5,23,2783075,,
+hybrid,app,RSA-3072,encrypt,5,24,126719,470,5
+hybrid,app,RSA-3072,decrypt,5,24,2721320,,
+hybrid,app,RSA-3072,encrypt,5,25,154081,470,5
+hybrid,app,RSA-3072,decrypt,5,25,2736468,,
+hybrid,app,RSA-3072,encrypt,5,26,140765,470,5
+hybrid,app,RSA-3072,decrypt,5,26,2838200,,
+hybrid,app,RSA-3072,encrypt,5,27,117412,470,5
+hybrid,app,RSA-3072,decrypt,5,27,2711541,,
+hybrid,app,RSA-3072,encrypt,5,28,128442,470,5
+hybrid,app,RSA-3072,decrypt,5,28,2748240,,
+hybrid,app,RSA-3072,encrypt,5,29,156986,470,5
+hybrid,app,RSA-3072,decrypt,5,29,2721931,,
+hybrid,app,RSA-3072,encrypt,5,30,113984,470,5
+hybrid,app,RSA-3072,decrypt,5,30,2758019,,
+hybrid,app,RSA-3072,encrypt,200,1,166894,665,7
+hybrid,app,RSA-3072,decrypt,200,1,2749874,,
+hybrid,app,RSA-3072,encrypt,200,2,111860,665,7
+hybrid,app,RSA-3072,decrypt,200,2,2727591,,
+hybrid,app,RSA-3072,encrypt,200,3,113324,665,7
+hybrid,app,RSA-3072,decrypt,200,3,2719757,,
+hybrid,app,RSA-3072,encrypt,200,4,110328,665,7
+hybrid,app,RSA-3072,decrypt,200,4,2692956,,
+hybrid,app,RSA-3072,encrypt,200,5,108896,665,7
+hybrid,app,RSA-3072,decrypt,200,5,3381724,,
+hybrid,app,RSA-3072,encrypt,200,6,212220,665,7
+hybrid,app,RSA-3072,decrypt,200,6,3723118,,
+hybrid,app,RSA-3072,encrypt,200,7,206540,665,7
+hybrid,app,RSA-3072,decrypt,200,7,3044148,,
+hybrid,app,RSA-3072,encrypt,200,8,218973,665,7
+hybrid,app,RSA-3072,decrypt,200,8,2777866,,
+hybrid,app,RSA-3072,encrypt,200,9,188205,665,7
+hybrid,app,RSA-3072,decrypt,200,9,2934792,,
+hybrid,app,RSA-3072,encrypt,200,10,147628,665,7
+hybrid,app,RSA-3072,decrypt,200,10,2750324,,
+hybrid,app,RSA-3072,encrypt,200,11,134123,665,7
+hybrid,app,RSA-3072,decrypt,200,11,3109230,,
+hybrid,app,RSA-3072,encrypt,200,12,173727,665,7
+hybrid,app,RSA-3072,decrypt,200,12,2848870,,
+hybrid,app,RSA-3072,encrypt,200,13,186982,665,7
+hybrid,app,RSA-3072,decrypt,200,13,2794407,,
+hybrid,app,RSA-3072,encrypt,200,14,127089,665,7
+hybrid,app,RSA-3072,decrypt,200,14,2789578,,
+hybrid,app,RSA-3072,encrypt,200,15,130126,665,7
+hybrid,app,RSA-3072,decrypt,200,15,2898723,,
+hybrid,app,RSA-3072,encrypt,200,16,143080,665,7
+hybrid,app,RSA-3072,decrypt,200,16,3393016,,
+hybrid,app,RSA-3072,encrypt,200,17,138551,665,7
+hybrid,app,RSA-3072,decrypt,200,17,2783146,,
+hybrid,app,RSA-3072,encrypt,200,18,156575,665,7
+hybrid,app,RSA-3072,decrypt,200,18,2703866,,
+hybrid,app,RSA-3072,encrypt,200,19,113734,665,7
+hybrid,app,RSA-3072,decrypt,200,19,2664493,,
+hybrid,app,RSA-3072,encrypt,200,20,117431,665,7
+hybrid,app,RSA-3072,decrypt,200,20,2771143,,
+hybrid,app,RSA-3072,encrypt,200,21,138431,665,7
+hybrid,app,RSA-3072,decrypt,200,21,2705759,,
+hybrid,app,RSA-3072,encrypt,200,22,118483,665,7
+hybrid,app,RSA-3072,decrypt,200,22,2681545,,
+hybrid,app,RSA-3072,encrypt,200,23,115097,665,7
+hybrid,app,RSA-3072,decrypt,200,23,2723534,,
+hybrid,app,RSA-3072,encrypt,200,24,123272,665,7
+hybrid,app,RSA-3072,decrypt,200,24,2703987,,
+hybrid,app,RSA-3072,encrypt,200,25,118884,665,7
+hybrid,app,RSA-3072,decrypt,200,25,2698887,,
+hybrid,app,RSA-3072,encrypt,200,26,125236,665,7
+hybrid,app,RSA-3072,decrypt,200,26,2693507,,
+hybrid,app,RSA-3072,encrypt,200,27,118793,665,7
+hybrid,app,RSA-3072,decrypt,200,27,2679511,,
+hybrid,app,RSA-3072,encrypt,200,28,112032,665,7
+hybrid,app,RSA-3072,decrypt,200,28,2656798,,
+hybrid,app,RSA-3072,encrypt,200,29,102012,665,7
+hybrid,app,RSA-3072,decrypt,200,29,2673079,,
+hybrid,app,RSA-3072,encrypt,200,30,101612,665,7
+hybrid,app,RSA-3072,decrypt,200,30,2683408,,
+hybrid,app,RSA-3072,encrypt,1024,1,138812,1489,16
+hybrid,app,RSA-3072,decrypt,1024,1,2700791,,
+hybrid,app,RSA-3072,encrypt,1024,2,118433,1489,16
+hybrid,app,RSA-3072,decrypt,1024,2,2672147,,
+hybrid,app,RSA-3072,encrypt,1024,3,137149,1489,16
+hybrid,app,RSA-3072,decrypt,1024,3,2747669,,
+hybrid,app,RSA-3072,encrypt,1024,4,130987,1489,16
+hybrid,app,RSA-3072,decrypt,1024,4,2711962,,
+hybrid,app,RSA-3072,encrypt,1024,5,142378,1489,16
+hybrid,app,RSA-3072,decrypt,1024,5,2729234,,
+hybrid,app,RSA-3072,encrypt,1024,6,132220,1489,16
+hybrid,app,RSA-3072,decrypt,1024,6,2755374,,
+hybrid,app,RSA-3072,encrypt,1024,7,127099,1489,16
+hybrid,app,RSA-3072,decrypt,1024,7,2736778,,
+hybrid,app,RSA-3072,encrypt,1024,8,114055,1489,16
+hybrid,app,RSA-3072,decrypt,1024,8,2707754,,
+hybrid,app,RSA-3072,encrypt,1024,9,115868,1489,16
+hybrid,app,RSA-3072,decrypt,1024,9,2708746,,
+hybrid,app,RSA-3072,encrypt,1024,10,115448,1489,16
+hybrid,app,RSA-3072,decrypt,1024,10,2683989,,
+hybrid,app,RSA-3072,encrypt,1024,11,124625,1489,16
+hybrid,app,RSA-3072,decrypt,1024,11,2709377,,
+hybrid,app,RSA-3072,encrypt,1024,12,116660,1489,16
+hybrid,app,RSA-3072,decrypt,1024,12,2694459,,
+hybrid,app,RSA-3072,encrypt,1024,13,120307,1489,16
+hybrid,app,RSA-3072,decrypt,1024,13,2706842,,
+hybrid,app,RSA-3072,encrypt,1024,14,116920,1489,16
+hybrid,app,RSA-3072,decrypt,1024,14,2721950,,
+hybrid,app,RSA-3072,encrypt,1024,15,123694,1489,16
+hybrid,app,RSA-3072,decrypt,1024,15,2835254,,
+hybrid,app,RSA-3072,encrypt,1024,16,124645,1489,16
+hybrid,app,RSA-3072,decrypt,1024,16,2703496,,
+hybrid,app,RSA-3072,encrypt,1024,17,115748,1489,16
+hybrid,app,RSA-3072,decrypt,1024,17,2702805,,
+hybrid,app,RSA-3072,encrypt,1024,18,118634,1489,16
+hybrid,app,RSA-3072,decrypt,1024,18,2720859,,
+hybrid,app,RSA-3072,encrypt,1024,19,112532,1489,16
+hybrid,app,RSA-3072,decrypt,1024,19,2683959,,
+hybrid,app,RSA-3072,encrypt,1024,20,114696,1489,16
+hybrid,app,RSA-3072,decrypt,1024,20,2821378,,
+hybrid,app,RSA-3072,encrypt,1024,21,140044,1489,16
+hybrid,app,RSA-3072,decrypt,1024,21,2749723,,
+hybrid,app,RSA-3072,encrypt,1024,22,118514,1489,16
+hybrid,app,RSA-3072,decrypt,1024,22,2946454,,
+hybrid,app,RSA-3072,encrypt,1024,23,150423,1489,16
+hybrid,app,RSA-3072,decrypt,1024,23,2783146,,
+hybrid,app,RSA-3072,encrypt,1024,24,136948,1489,16
+hybrid,app,RSA-3072,decrypt,1024,24,2764501,,
+hybrid,app,RSA-3072,encrypt,1024,25,122681,1489,16
+hybrid,app,RSA-3072,decrypt,1024,25,2703275,,
+hybrid,app,RSA-3072,encrypt,1024,26,128242,1489,16
+hybrid,app,RSA-3072,decrypt,1024,26,2783917,,
+hybrid,app,RSA-3072,encrypt,1024,27,126689,1489,16
+hybrid,app,RSA-3072,decrypt,1024,27,2836597,,
+hybrid,app,RSA-3072,encrypt,1024,28,127901,1489,16
+hybrid,app,RSA-3072,decrypt,1024,28,2783046,,
+hybrid,app,RSA-3072,encrypt,1024,29,141406,1489,16
+hybrid,app,RSA-3072,decrypt,1024,29,2725757,,
+hybrid,app,RSA-3072,encrypt,1024,30,125707,1489,16
+hybrid,app,RSA-3072,decrypt,1024,30,2856093,,
+hybrid,app,ECC P-256,keygen,,1,372352,,
+hybrid,app,ECC P-256,keygen,,2,391207,,
+hybrid,app,ECC P-256,keygen,,3,345982,,
+hybrid,app,ECC P-256,keygen,,4,296889,,
+hybrid,app,ECC P-256,keygen,,5,284637,,
+hybrid,app,ECC P-256,keygen,,6,273395,,
+hybrid,app,ECC P-256,keygen,,7,286881,,
+hybrid,app,ECC P-256,keygen,,8,286440,,
+hybrid,app,ECC P-256,keygen,,9,273876,,
+hybrid,app,ECC P-256,keygen,,10,285769,,
+hybrid,app,ECC P-256,keygen,,11,398050,,
+hybrid,app,ECC P-256,keygen,,12,274898,,
+hybrid,app,ECC P-256,keygen,,13,270721,,
+hybrid,app,ECC P-256,keygen,,14,265781,,
+hybrid,app,ECC P-256,keygen,,15,272083,,
+hybrid,app,ECC P-256,keygen,,16,270910,,
+hybrid,app,ECC P-256,keygen,,17,265050,,
+hybrid,app,ECC P-256,keygen,,18,270580,,
+hybrid,app,ECC P-256,keygen,,19,271662,,
+hybrid,app,ECC P-256,keygen,,20,278044,,
+hybrid,app,ECC P-256,keygen,,21,280800,,
+hybrid,app,ECC P-256,keygen,,22,278605,,
+hybrid,app,ECC P-256,keygen,,23,285698,,
+hybrid,app,ECC P-256,keygen,,24,276702,,
+hybrid,app,ECC P-256,keygen,,25,270530,,
+hybrid,app,ECC P-256,keygen,,26,347405,,
+hybrid,app,ECC P-256,keygen,,27,286750,,
+hybrid,app,ECC P-256,keygen,,28,286099,,
+hybrid,app,ECC P-256,keygen,,29,279387,,
+hybrid,app,ECC P-256,keygen,,30,270560,,
+hybrid,app,ECC P-256,encrypt,0,1,2204486,172,2
+hybrid,app,ECC P-256,decrypt,0,1,1886867,,
+hybrid,app,ECC P-256,encrypt,0,2,2192833,172,2
+hybrid,app,ECC P-256,decrypt,0,2,1795735,,
+hybrid,app,ECC P-256,encrypt,0,3,2180060,172,2
+hybrid,app,ECC P-256,decrypt,0,3,1357017,,
+hybrid,app,ECC P-256,encrypt,0,4,1799082,172,2
+hybrid,app,ECC P-256,decrypt,0,4,1173953,,
+hybrid,app,ECC P-256,encrypt,0,5,1357939,172,2
+hybrid,app,ECC P-256,decrypt,0,5,1095385,,
+hybrid,app,ECC P-256,encrypt,0,6,1328193,172,2
+hybrid,app,ECC P-256,decrypt,0,6,1110112,,
+hybrid,app,ECC P-256,encrypt,0,7,1365674,172,2
+hybrid,app,ECC P-256,decrypt,0,7,1132575,,
+hybrid,app,ECC P-256,encrypt,0,8,1373268,172,2
+hybrid,app,ECC P-256,decrypt,0,8,1179834,,
+hybrid,app,ECC P-256,encrypt,0,9,1363791,172,2
+hybrid,app,ECC P-256,decrypt,0,9,1085696,,
+hybrid,app,ECC P-256,encrypt,0,10,1363751,172,2
+hybrid,app,ECC P-256,decrypt,0,10,1104582,,
+hybrid,app,ECC P-256,encrypt,0,11,1312224,172,2
+hybrid,app,ECC P-256,decrypt,0,11,1059347,,
+hybrid,app,ECC P-256,encrypt,0,12,1284141,172,2
+hybrid,app,ECC P-256,decrypt,0,12,1084814,,
+hybrid,app,ECC P-256,encrypt,0,13,1354503,172,2
+hybrid,app,ECC P-256,decrypt,0,13,1141071,,
+hybrid,app,ECC P-256,encrypt,0,14,1346548,172,2
+hybrid,app,ECC P-256,decrypt,0,14,1058555,,
+hybrid,app,ECC P-256,encrypt,0,15,1271216,172,2
+hybrid,app,ECC P-256,decrypt,0,15,1037245,,
+hybrid,app,ECC P-256,encrypt,0,16,1276095,172,2
+hybrid,app,ECC P-256,decrypt,0,16,1076759,,
+hybrid,app,ECC P-256,encrypt,0,17,1310801,172,2
+hybrid,app,ECC P-256,decrypt,0,17,1060179,,
+hybrid,app,ECC P-256,encrypt,0,18,1279141,172,2
+hybrid,app,ECC P-256,decrypt,0,18,1071190,,
+hybrid,app,ECC P-256,encrypt,0,19,1394929,172,2
+hybrid,app,ECC P-256,decrypt,0,19,1090686,,
+hybrid,app,ECC P-256,encrypt,0,20,1336229,172,2
+hybrid,app,ECC P-256,decrypt,0,20,1060519,,
+hybrid,app,ECC P-256,encrypt,0,21,1274312,172,2
+hybrid,app,ECC P-256,decrypt,0,21,1053435,,
+hybrid,app,ECC P-256,encrypt,0,22,1232914,172,2
+hybrid,app,ECC P-256,decrypt,0,22,1036784,,
+hybrid,app,ECC P-256,encrypt,0,23,1272658,172,2
+hybrid,app,ECC P-256,decrypt,0,23,1051011,,
+hybrid,app,ECC P-256,encrypt,0,24,1243213,172,2
+hybrid,app,ECC P-256,decrypt,0,24,1021675,,
+hybrid,app,ECC P-256,encrypt,0,25,1207887,172,2
+hybrid,app,ECC P-256,decrypt,0,25,1013962,,
+hybrid,app,ECC P-256,encrypt,0,26,1234687,172,2
+hybrid,app,ECC P-256,decrypt,0,26,1042355,,
+hybrid,app,ECC P-256,encrypt,0,27,1282568,172,2
+hybrid,app,ECC P-256,decrypt,0,27,1030162,,
+hybrid,app,ECC P-256,encrypt,0,28,1218086,172,2
+hybrid,app,ECC P-256,decrypt,0,28,1009723,,
+hybrid,app,ECC P-256,encrypt,0,29,1224388,172,2
+hybrid,app,ECC P-256,decrypt,0,29,1024160,,
+hybrid,app,ECC P-256,encrypt,0,30,1281375,172,2
+hybrid,app,ECC P-256,decrypt,0,30,1163153,,
+hybrid,app,ECC P-256,encrypt,5,1,1218757,177,2
+hybrid,app,ECC P-256,decrypt,5,1,1014072,,
+hybrid,app,ECC P-256,encrypt,5,2,1235499,177,2
+hybrid,app,ECC P-256,decrypt,5,2,1016857,,
+hybrid,app,ECC P-256,encrypt,5,3,1221061,177,2
+hybrid,app,ECC P-256,decrypt,5,3,1052975,,
+hybrid,app,ECC P-256,encrypt,5,4,1219940,177,2
+hybrid,app,ECC P-256,decrypt,5,4,1018280,,
+hybrid,app,ECC P-256,encrypt,5,5,1232493,177,2
+hybrid,app,ECC P-256,decrypt,5,5,1047154,,
+hybrid,app,ECC P-256,encrypt,5,6,1245047,177,2
+hybrid,app,ECC P-256,decrypt,5,6,1008331,,
+hybrid,app,ECC P-256,encrypt,5,7,1202316,177,2
+hybrid,app,ECC P-256,decrypt,5,7,1000025,,
+hybrid,app,ECC P-256,encrypt,5,8,1211844,177,2
+hybrid,app,ECC P-256,decrypt,5,8,1028158,,
+hybrid,app,ECC P-256,encrypt,5,9,1244726,177,2
+hybrid,app,ECC P-256,decrypt,5,9,1020173,,
+hybrid,app,ECC P-256,encrypt,5,10,1228075,177,2
+hybrid,app,ECC P-256,decrypt,5,10,1015925,,
+hybrid,app,ECC P-256,encrypt,5,11,1222314,177,2
+hybrid,app,ECC P-256,decrypt,5,11,1025333,,
+hybrid,app,ECC P-256,encrypt,5,12,1250547,177,2
+hybrid,app,ECC P-256,decrypt,5,12,1035242,,
+hybrid,app,ECC P-256,encrypt,5,13,1238615,177,2
+hybrid,app,ECC P-256,decrypt,5,13,1054187,,
+hybrid,app,ECC P-256,encrypt,5,14,1245378,177,2
+hybrid,app,ECC P-256,decrypt,5,14,1001398,,
+hybrid,app,ECC P-256,encrypt,5,15,1201565,177,2
+hybrid,app,ECC P-256,decrypt,5,15,1001849,,
+hybrid,app,ECC P-256,encrypt,5,16,1200072,177,2
+hybrid,app,ECC P-256,decrypt,5,16,995076,,
+hybrid,app,ECC P-256,encrypt,5,17,1205472,177,2
+hybrid,app,ECC P-256,decrypt,5,17,1006397,,
+hybrid,app,ECC P-256,encrypt,5,18,1240498,177,2
+hybrid,app,ECC P-256,decrypt,5,18,997349,,
+hybrid,app,ECC P-256,encrypt,5,19,1218307,177,2
+hybrid,app,ECC P-256,decrypt,5,19,1002660,,
+hybrid,app,ECC P-256,encrypt,5,20,1231923,177,2
+hybrid,app,ECC P-256,decrypt,5,20,1062603,,
+hybrid,app,ECC P-256,encrypt,5,21,1293959,177,2
+hybrid,app,ECC P-256,decrypt,5,21,1019292,,
+hybrid,app,ECC P-256,encrypt,5,22,1203168,177,2
+hybrid,app,ECC P-256,decrypt,5,22,1000857,,
+hybrid,app,ECC P-256,encrypt,5,23,1224738,177,2
+hybrid,app,ECC P-256,decrypt,5,23,1008912,,
+hybrid,app,ECC P-256,encrypt,5,24,1229447,177,2
+hybrid,app,ECC P-256,decrypt,5,24,1019081,,
+hybrid,app,ECC P-256,encrypt,5,25,1256589,177,2
+hybrid,app,ECC P-256,decrypt,5,25,1008230,,
+hybrid,app,ECC P-256,encrypt,5,26,1205382,177,2
+hybrid,app,ECC P-256,decrypt,5,26,1000385,,
+hybrid,app,ECC P-256,encrypt,5,27,1236902,177,2
+hybrid,app,ECC P-256,decrypt,5,27,1036564,,
+hybrid,app,ECC P-256,encrypt,5,28,1253423,177,2
+hybrid,app,ECC P-256,decrypt,5,28,1097318,,
+hybrid,app,ECC P-256,encrypt,5,29,1235449,177,2
+hybrid,app,ECC P-256,decrypt,5,29,1000636,,
+hybrid,app,ECC P-256,encrypt,5,30,1208037,177,2
+hybrid,app,ECC P-256,decrypt,5,30,1521748,,
+hybrid,app,ECC P-256,encrypt,200,1,1227603,372,4
+hybrid,app,ECC P-256,decrypt,200,1,1022658,,
+hybrid,app,ECC P-256,encrypt,200,2,1268882,372,4
+hybrid,app,ECC P-256,decrypt,200,2,1017758,,
+hybrid,app,ECC P-256,encrypt,200,3,1264564,372,4
+hybrid,app,ECC P-256,decrypt,200,3,1072011,,
+hybrid,app,ECC P-256,encrypt,200,4,1252862,372,4
+hybrid,app,ECC P-256,decrypt,200,4,1008281,,
+hybrid,app,ECC P-256,encrypt,200,5,1224318,372,4
+hybrid,app,ECC P-256,decrypt,200,5,1022427,,
+hybrid,app,ECC P-256,encrypt,200,6,1281395,372,4
+hybrid,app,ECC P-256,decrypt,200,6,1038327,,
+hybrid,app,ECC P-256,encrypt,200,7,1197958,372,4
+hybrid,app,ECC P-256,decrypt,200,7,991950,,
+hybrid,app,ECC P-256,encrypt,200,8,1213989,372,4
+hybrid,app,ECC P-256,decrypt,200,8,1004633,,
+hybrid,app,ECC P-256,encrypt,200,9,1299029,372,4
+hybrid,app,ECC P-256,decrypt,200,9,1041593,,
+hybrid,app,ECC P-256,encrypt,200,10,1303527,372,4
+hybrid,app,ECC P-256,decrypt,200,10,1005325,,
+hybrid,app,ECC P-256,encrypt,200,11,1198419,372,4
+hybrid,app,ECC P-256,decrypt,200,11,990647,,
+hybrid,app,ECC P-256,encrypt,200,12,1184193,372,4
+hybrid,app,ECC P-256,decrypt,200,12,998912,,
+hybrid,app,ECC P-256,encrypt,200,13,1204029,372,4
+hybrid,app,ECC P-256,decrypt,200,13,1006737,,
+hybrid,app,ECC P-256,encrypt,200,14,1238996,372,4
+hybrid,app,ECC P-256,decrypt,200,14,1001447,,
+hybrid,app,ECC P-256,encrypt,200,15,1241901,372,4
+hybrid,app,ECC P-256,decrypt,200,15,916347,,
+hybrid,app,ECC P-256,encrypt,200,16,1127835,372,4
+hybrid,app,ECC P-256,decrypt,200,16,911899,,
+hybrid,app,ECC P-256,encrypt,200,17,1130170,372,4
+hybrid,app,ECC P-256,decrypt,200,17,920064,,
+hybrid,app,ECC P-256,encrypt,200,18,1119129,372,4
+hybrid,app,ECC P-256,decrypt,200,18,914133,,
+hybrid,app,ECC P-256,encrypt,200,19,1078784,372,4
+hybrid,app,ECC P-256,decrypt,200,19,906990,,
+hybrid,app,ECC P-256,encrypt,200,20,1107477,372,4
+hybrid,app,ECC P-256,decrypt,200,20,938089,,
+hybrid,app,ECC P-256,encrypt,200,21,1121634,372,4
+hybrid,app,ECC P-256,decrypt,200,21,924473,,
+hybrid,app,ECC P-256,encrypt,200,22,1122726,372,4
+hybrid,app,ECC P-256,decrypt,200,22,911488,,
+hybrid,app,ECC P-256,encrypt,200,23,1075637,372,4
+hybrid,app,ECC P-256,decrypt,200,23,908402,,
+hybrid,app,ECC P-256,encrypt,200,24,1082971,372,4
+hybrid,app,ECC P-256,decrypt,200,24,931646,,
+hybrid,app,ECC P-256,encrypt,200,25,1095916,372,4
+hybrid,app,ECC P-256,decrypt,200,25,926747,,
+hybrid,app,ECC P-256,encrypt,200,26,1081799,372,4
+hybrid,app,ECC P-256,decrypt,200,26,922399,,
+hybrid,app,ECC P-256,encrypt,200,27,1094002,372,4
+hybrid,app,ECC P-256,decrypt,200,27,910456,,
+hybrid,app,ECC P-256,encrypt,200,28,1090195,372,4
+hybrid,app,ECC P-256,decrypt,200,28,912410,,
+hybrid,app,ECC P-256,encrypt,200,29,1154977,372,4
+hybrid,app,ECC P-256,decrypt,200,29,933680,,
+hybrid,app,ECC P-256,encrypt,200,30,1140389,372,4
+hybrid,app,ECC P-256,decrypt,200,30,905467,,
+hybrid,app,ECC P-256,encrypt,1024,1,1093361,1196,13
+hybrid,app,ECC P-256,decrypt,1024,1,961252,,
+hybrid,app,ECC P-256,encrypt,1024,2,1166499,1196,13
+hybrid,app,ECC P-256,decrypt,1024,2,934872,,
+hybrid,app,ECC P-256,encrypt,1024,3,1093942,1196,13
+hybrid,app,ECC P-256,decrypt,1024,3,924051,,
+hybrid,app,ECC P-256,encrypt,1024,4,1090144,1196,13
+hybrid,app,ECC P-256,decrypt,1024,4,921787,,
+hybrid,app,ECC P-256,encrypt,1024,5,1118228,1196,13
+hybrid,app,ECC P-256,decrypt,1024,5,959568,,
+hybrid,app,ECC P-256,encrypt,1024,6,1114390,1196,13
+hybrid,app,ECC P-256,decrypt,1024,6,923711,,
+hybrid,app,ECC P-256,encrypt,1024,7,1101967,1196,13
+hybrid,app,ECC P-256,decrypt,1024,7,930594,,
+hybrid,app,ECC P-256,encrypt,1024,8,1099252,1196,13
+hybrid,app,ECC P-256,decrypt,1024,8,965650,,
+hybrid,app,ECC P-256,encrypt,1024,9,1105224,1196,13
+hybrid,app,ECC P-256,decrypt,1024,9,926626,,
+hybrid,app,ECC P-256,encrypt,1024,10,1096086,1196,13
+hybrid,app,ECC P-256,decrypt,1024,10,926066,,
+hybrid,app,ECC P-256,encrypt,1024,11,1104362,1196,13
+hybrid,app,ECC P-256,decrypt,1024,11,918822,,
+hybrid,app,ECC P-256,encrypt,1024,12,1107377,1196,13
+hybrid,app,ECC P-256,decrypt,1024,12,917870,,
+hybrid,app,ECC P-256,encrypt,1024,13,1127204,1196,13
+hybrid,app,ECC P-256,decrypt,1024,13,927769,,
+hybrid,app,ECC P-256,encrypt,1024,14,1121194,1196,13
+hybrid,app,ECC P-256,decrypt,1024,14,928701,,
+hybrid,app,ECC P-256,encrypt,1024,15,1096897,1196,13
+hybrid,app,ECC P-256,decrypt,1024,15,918452,,
+hybrid,app,ECC P-256,encrypt,1024,16,1096497,1196,13
+hybrid,app,ECC P-256,decrypt,1024,16,942477,,
+hybrid,app,ECC P-256,encrypt,1024,17,1164775,1196,13
+hybrid,app,ECC P-256,decrypt,1024,17,958768,,
+hybrid,app,ECC P-256,encrypt,1024,18,1166889,1196,13
+hybrid,app,ECC P-256,decrypt,1024,18,935704,,
+hybrid,app,ECC P-256,encrypt,1024,19,1106225,1196,13
+hybrid,app,ECC P-256,decrypt,1024,19,922709,,
+hybrid,app,ECC P-256,encrypt,1024,20,1096467,1196,13
+hybrid,app,ECC P-256,decrypt,1024,20,943398,,
+hybrid,app,ECC P-256,encrypt,1024,21,1171167,1196,13
+hybrid,app,ECC P-256,decrypt,1024,21,971411,,
+hybrid,app,ECC P-256,encrypt,1024,22,1210111,1196,13
+hybrid,app,ECC P-256,decrypt,1024,22,938239,,
+hybrid,app,ECC P-256,encrypt,1024,23,1125652,1196,13
+hybrid,app,ECC P-256,decrypt,1024,23,939531,,
+hybrid,app,ECC P-256,encrypt,1024,24,1150499,1196,13
+hybrid,app,ECC P-256,decrypt,1024,24,939381,,
+hybrid,app,ECC P-256,encrypt,1024,25,1165436,1196,13
+hybrid,app,ECC P-256,decrypt,1024,25,960219,,
+hybrid,app,ECC P-256,encrypt,1024,26,1150850,1196,13
+hybrid,app,ECC P-256,decrypt,1024,26,962765,,
+hybrid,app,ECC P-256,encrypt,1024,27,1145760,1196,13
+hybrid,app,ECC P-256,decrypt,1024,27,939471,,
+hybrid,app,ECC P-256,encrypt,1024,28,1132554,1196,13
+hybrid,app,ECC P-256,decrypt,1024,28,929803,,
+hybrid,app,ECC P-256,encrypt,1024,29,1134638,1196,13
+hybrid,app,ECC P-256,decrypt,1024,29,961372,,
+hybrid,app,ECC P-256,encrypt,1024,30,1185885,1196,13
+hybrid,app,ECC P-256,decrypt,1024,30,985207,,
+hybrid,app,ECC P-384,keygen,,1,2395205,,
+hybrid,app,ECC P-384,keygen,,2,2415242,,
+hybrid,app,ECC P-384,keygen,,3,2367933,,
+hybrid,app,ECC P-384,keygen,,4,2387330,,
+hybrid,app,ECC P-384,keygen,,5,2492759,,
+hybrid,app,ECC P-384,keygen,,6,2326004,,
+hybrid,app,ECC P-384,keygen,,7,2326866,,
+hybrid,app,ECC P-384,keygen,,8,2360960,,
+hybrid,app,ECC P-384,keygen,,9,2364517,,
+hybrid,app,ECC P-384,keygen,,10,2322437,,
+hybrid,app,ECC P-384,keygen,,11,2359217,,
+hybrid,app,ECC P-384,keygen,,12,2373965,,
+hybrid,app,ECC P-384,keygen,,13,2329220,,
+hybrid,app,ECC P-384,keygen,,14,2338789,,
+hybrid,app,ECC P-384,keygen,,15,2375979,,
+hybrid,app,ECC P-384,keygen,,16,2351433,,
+hybrid,app,ECC P-384,keygen,,17,2340091,,
+hybrid,app,ECC P-384,keygen,,18,2402789,,
+hybrid,app,ECC P-384,keygen,,19,2386599,,
+hybrid,app,ECC P-384,keygen,,20,2344660,,
+hybrid,app,ECC P-384,keygen,,21,2351372,,
+hybrid,app,ECC P-384,keygen,,22,2383572,,
+hybrid,app,ECC P-384,keygen,,23,2337576,,
+hybrid,app,ECC P-384,keygen,,24,2337086,,
+hybrid,app,ECC P-384,keygen,,25,2341844,,
+hybrid,app,ECC P-384,keygen,,26,2353857,,
+hybrid,app,ECC P-384,keygen,,27,2349839,,
+hybrid,app,ECC P-384,keygen,,28,2353065,,
+hybrid,app,ECC P-384,keygen,,29,2323570,,
+hybrid,app,ECC P-384,keygen,,30,2316667,,
+hybrid,app,ECC P-384,encrypt,0,1,7061831,201,3
+hybrid,app,ECC P-384,decrypt,0,1,4715609,,
+hybrid,app,ECC P-384,encrypt,0,2,7051050,201,3
+hybrid,app,ECC P-384,decrypt,0,2,4651327,,
+hybrid,app,ECC P-384,encrypt,0,3,7084694,201,3
+hybrid,app,ECC P-384,decrypt,0,3,4742630,,
+hybrid,app,ECC P-384,encrypt,0,4,7081769,201,3
+hybrid,app,ECC P-384,decrypt,0,4,4711070,,
+hybrid,app,ECC P-384,encrypt,0,5,7174673,201,3
+hybrid,app,ECC P-384,decrypt,0,5,4683078,,
+hybrid,app,ECC P-384,encrypt,0,6,7102377,201,3
+hybrid,app,ECC P-384,decrypt,0,6,3712788,,
+hybrid,app,ECC P-384,encrypt,0,7,5407363,201,3
+hybrid,app,ECC P-384,decrypt,0,7,3557957,,
+hybrid,app,ECC P-384,encrypt,0,8,5183129,201,3
+hybrid,app,ECC P-384,decrypt,0,8,3545112,,
+hybrid,app,ECC P-384,encrypt,0,9,5107838,201,3
+hybrid,app,ECC P-384,decrypt,0,9,3423563,,
+hybrid,app,ECC P-384,encrypt,0,10,5148014,201,3
+hybrid,app,ECC P-384,decrypt,0,10,3443221,,
+hybrid,app,ECC P-384,encrypt,0,11,5168572,201,3
+hybrid,app,ECC P-384,decrypt,0,11,3541595,,
+hybrid,app,ECC P-384,encrypt,0,12,5408044,201,3
+hybrid,app,ECC P-384,decrypt,0,12,3449652,,
+hybrid,app,ECC P-384,encrypt,0,13,5162591,201,3
+hybrid,app,ECC P-384,decrypt,0,13,3492072,,
+hybrid,app,ECC P-384,encrypt,0,14,5216072,201,3
+hybrid,app,ECC P-384,decrypt,0,14,3441607,,
+hybrid,app,ECC P-384,encrypt,0,15,5170386,201,3
+hybrid,app,ECC P-384,decrypt,0,15,3411310,,
+hybrid,app,ECC P-384,encrypt,0,16,5285432,201,3
+hybrid,app,ECC P-384,decrypt,0,16,3403956,,
+hybrid,app,ECC P-384,encrypt,0,17,5154195,201,3
+hybrid,app,ECC P-384,decrypt,0,17,3382296,,
+hybrid,app,ECC P-384,encrypt,0,18,5251348,201,3
+hybrid,app,ECC P-384,decrypt,0,18,3400139,,
+hybrid,app,ECC P-384,encrypt,0,19,5327842,201,3
+hybrid,app,ECC P-384,decrypt,0,19,3529462,,
+hybrid,app,ECC P-384,encrypt,0,20,5186105,201,3
+hybrid,app,ECC P-384,decrypt,0,20,3421128,,
+hybrid,app,ECC P-384,encrypt,0,21,5181056,201,3
+hybrid,app,ECC P-384,decrypt,0,21,2769460,,
+hybrid,app,ECC P-384,encrypt,0,22,3234727,201,3
+hybrid,app,ECC P-384,decrypt,0,22,2094938,,
+hybrid,app,ECC P-384,encrypt,0,23,3114681,201,3
+hybrid,app,ECC P-384,decrypt,0,23,2123423,,
+hybrid,app,ECC P-384,encrypt,0,24,3135310,201,3
+hybrid,app,ECC P-384,decrypt,0,24,2048781,,
+hybrid,app,ECC P-384,encrypt,0,25,3180075,201,3
+hybrid,app,ECC P-384,decrypt,0,25,2140515,,
+hybrid,app,ECC P-384,encrypt,0,26,3199561,201,3
+hybrid,app,ECC P-384,decrypt,0,26,2054923,,
+hybrid,app,ECC P-384,encrypt,0,27,3092229,201,3
+hybrid,app,ECC P-384,decrypt,0,27,2097363,,
+hybrid,app,ECC P-384,encrypt,0,28,3059226,201,3
+hybrid,app,ECC P-384,decrypt,0,28,2109236,,
+hybrid,app,ECC P-384,encrypt,0,29,3102729,201,3
+hybrid,app,ECC P-384,decrypt,0,29,2033804,,
+hybrid,app,ECC P-384,encrypt,0,30,3193059,201,3
+hybrid,app,ECC P-384,decrypt,0,30,2067727,,
+hybrid,app,ECC P-384,encrypt,5,1,3102799,206,3
+hybrid,app,ECC P-384,decrypt,5,1,2097834,,
+hybrid,app,ECC P-384,encrypt,5,2,3092349,206,3
+hybrid,app,ECC P-384,decrypt,5,2,2021891,,
+hybrid,app,ECC P-384,encrypt,5,3,3154806,206,3
+hybrid,app,ECC P-384,decrypt,5,3,2022492,,
+hybrid,app,ECC P-384,encrypt,5,4,3080746,206,3
+hybrid,app,ECC P-384,decrypt,5,4,2046457,,
+hybrid,app,ECC P-384,encrypt,5,5,3200754,206,3
+hybrid,app,ECC P-384,decrypt,5,5,2022582,,
+hybrid,app,ECC P-384,encrypt,5,6,3078082,206,3
+hybrid,app,ECC P-384,decrypt,5,6,2037931,,
+hybrid,app,ECC P-384,encrypt,5,7,3045710,206,3
+hybrid,app,ECC P-384,decrypt,5,7,2085842,,
+hybrid,app,ECC P-384,encrypt,5,8,3114159,206,3
+hybrid,app,ECC P-384,decrypt,5,8,2000431,,
+hybrid,app,ECC P-384,encrypt,5,9,3088552,206,3
+hybrid,app,ECC P-384,decrypt,5,9,2065744,,
+hybrid,app,ECC P-384,encrypt,5,10,3054808,206,3
+hybrid,app,ECC P-384,decrypt,5,10,2027862,,
+hybrid,app,ECC P-384,encrypt,5,11,3169374,206,3
+hybrid,app,ECC P-384,decrypt,5,11,2022883,,
+hybrid,app,ECC P-384,encrypt,5,12,3101817,206,3
+hybrid,app,ECC P-384,decrypt,5,12,2118292,,
+hybrid,app,ECC P-384,encrypt,5,13,3091436,206,3
+hybrid,app,ECC P-384,decrypt,5,13,2021791,,
+hybrid,app,ECC P-384,encrypt,5,14,3173942,206,3
+hybrid,app,ECC P-384,decrypt,5,14,2066886,,
+hybrid,app,ECC P-384,encrypt,5,15,3094853,206,3
+hybrid,app,ECC P-384,decrypt,5,15,2065233,,
+hybrid,app,ECC P-384,encrypt,5,16,3113589,206,3
+hybrid,app,ECC P-384,decrypt,5,16,2034625,,
+hybrid,app,ECC P-384,encrypt,5,17,3115603,206,3
+hybrid,app,ECC P-384,decrypt,5,17,2090200,,
+hybrid,app,ECC P-384,encrypt,5,18,3075046,206,3
+hybrid,app,ECC P-384,decrypt,5,18,2093537,,
+hybrid,app,ECC P-384,encrypt,5,19,3113639,206,3
+hybrid,app,ECC P-384,decrypt,5,19,2030166,,
+hybrid,app,ECC P-384,encrypt,5,20,3073883,206,3
+hybrid,app,ECC P-384,decrypt,5,20,2112362,,
+hybrid,app,ECC P-384,encrypt,5,21,3163313,206,3
+hybrid,app,ECC P-384,decrypt,5,21,2074510,,
+hybrid,app,ECC P-384,encrypt,5,22,3194692,206,3
+hybrid,app,ECC P-384,decrypt,5,22,2067407,,
+hybrid,app,ECC P-384,encrypt,5,23,3099883,206,3
+hybrid,app,ECC P-384,decrypt,5,23,2048932,,
+hybrid,app,ECC P-384,encrypt,5,24,3115022,206,3
+hybrid,app,ECC P-384,decrypt,5,24,2057488,,
+hybrid,app,ECC P-384,encrypt,5,25,3136122,206,3
+hybrid,app,ECC P-384,decrypt,5,25,2050024,,
+hybrid,app,ECC P-384,encrypt,5,26,3112427,206,3
+hybrid,app,ECC P-384,decrypt,5,26,2072527,,
+hybrid,app,ECC P-384,encrypt,5,27,3180715,206,3
+hybrid,app,ECC P-384,decrypt,5,27,2036749,,
+hybrid,app,ECC P-384,encrypt,5,28,3196996,206,3
+hybrid,app,ECC P-384,decrypt,5,28,2066014,,
+hybrid,app,ECC P-384,encrypt,5,29,3177991,206,3
+hybrid,app,ECC P-384,decrypt,5,29,2049192,,
+hybrid,app,ECC P-384,encrypt,5,30,3141671,206,3
+hybrid,app,ECC P-384,decrypt,5,30,2076925,,
+hybrid,app,ECC P-384,encrypt,200,1,3144597,401,5
+hybrid,app,ECC P-384,decrypt,200,1,2036819,,
+hybrid,app,ECC P-384,encrypt,200,2,3021666,401,5
+hybrid,app,ECC P-384,decrypt,200,2,2006311,,
+hybrid,app,ECC P-384,encrypt,200,3,3098070,401,5
+hybrid,app,ECC P-384,decrypt,200,3,2026660,,
+hybrid,app,ECC P-384,encrypt,200,4,2913621,401,5
+hybrid,app,ECC P-384,decrypt,200,4,1995872,,
+hybrid,app,ECC P-384,encrypt,200,5,2912419,401,5
+hybrid,app,ECC P-384,decrypt,200,5,1893529,,
+hybrid,app,ECC P-384,encrypt,200,6,2939581,401,5
+hybrid,app,ECC P-384,decrypt,200,6,1941459,,
+hybrid,app,ECC P-384,encrypt,200,7,2921186,401,5
+hybrid,app,ECC P-384,decrypt,200,7,1939205,,
+hybrid,app,ECC P-384,encrypt,200,8,2930383,401,5
+hybrid,app,ECC P-384,decrypt,200,8,1899841,,
+hybrid,app,ECC P-384,encrypt,200,9,2921627,401,5
+hybrid,app,ECC P-384,decrypt,200,9,1955866,,
+hybrid,app,ECC P-384,encrypt,200,10,3193149,401,5
+hybrid,app,ECC P-384,decrypt,200,10,2000371,,
+hybrid,app,ECC P-384,encrypt,200,11,2994745,401,5
+hybrid,app,ECC P-384,decrypt,200,11,1963802,,
+hybrid,app,ECC P-384,encrypt,200,12,2961963,401,5
+hybrid,app,ECC P-384,decrypt,200,12,1984311,,
+hybrid,app,ECC P-384,encrypt,200,13,3034840,401,5
+hybrid,app,ECC P-384,decrypt,200,13,1986855,,
+hybrid,app,ECC P-384,encrypt,200,14,2936434,401,5
+hybrid,app,ECC P-384,decrypt,200,14,1981495,,
+hybrid,app,ECC P-384,encrypt,200,15,2995146,401,5
+hybrid,app,ECC P-384,decrypt,200,15,1943794,,
+hybrid,app,ECC P-384,encrypt,200,16,2979176,401,5
+hybrid,app,ECC P-384,decrypt,200,16,2000842,,
+hybrid,app,ECC P-384,encrypt,200,17,2949871,401,5
+hybrid,app,ECC P-384,decrypt,200,17,1908377,,
+hybrid,app,ECC P-384,encrypt,200,18,2927578,401,5
+hybrid,app,ECC P-384,decrypt,200,18,1915951,,
+hybrid,app,ECC P-384,encrypt,200,19,2903823,401,5
+hybrid,app,ECC P-384,decrypt,200,19,1938474,,
+hybrid,app,ECC P-384,encrypt,200,20,2894145,401,5
+hybrid,app,ECC P-384,decrypt,200,20,1916833,,
+hybrid,app,ECC P-384,encrypt,200,21,2932066,401,5
+hybrid,app,ECC P-384,decrypt,200,21,1933765,,
+hybrid,app,ECC P-384,encrypt,200,22,2906989,401,5
+hybrid,app,ECC P-384,decrypt,200,22,1914919,,
+hybrid,app,ECC P-384,encrypt,200,23,2917198,401,5
+hybrid,app,ECC P-384,decrypt,200,23,1907716,,
+hybrid,app,ECC P-384,encrypt,200,24,2878486,401,5
+hybrid,app,ECC P-384,decrypt,200,24,1970003,,
+hybrid,app,ECC P-384,encrypt,200,25,2903273,401,5
+hybrid,app,ECC P-384,decrypt,200,25,1882708,,
+hybrid,app,ECC P-384,encrypt,200,26,3025062,401,5
+hybrid,app,ECC P-384,decrypt,200,26,1944315,,
+hybrid,app,ECC P-384,encrypt,200,27,2887402,401,5
+hybrid,app,ECC P-384,decrypt,200,27,1898268,,
+hybrid,app,ECC P-384,encrypt,200,28,2903182,401,5
+hybrid,app,ECC P-384,decrypt,200,28,1891696,,
+hybrid,app,ECC P-384,encrypt,200,29,2882984,401,5
+hybrid,app,ECC P-384,decrypt,200,29,1912735,,
+hybrid,app,ECC P-384,encrypt,200,30,2922007,401,5
+hybrid,app,ECC P-384,decrypt,200,30,1895021,,
+hybrid,app,ECC P-384,encrypt,1024,1,3016135,1225,13
+hybrid,app,ECC P-384,decrypt,1024,1,1977066,,
+hybrid,app,ECC P-384,encrypt,1024,2,2916347,1225,13
+hybrid,app,ECC P-384,decrypt,1024,2,1945106,,
+hybrid,app,ECC P-384,encrypt,1024,3,2997930,1225,13
+hybrid,app,ECC P-384,decrypt,1024,3,1963491,,
+hybrid,app,ECC P-384,encrypt,1024,4,2944580,1225,13
+hybrid,app,ECC P-384,decrypt,1024,4,1964012,,
+hybrid,app,ECC P-384,encrypt,1024,5,3025833,1225,13
+hybrid,app,ECC P-384,decrypt,1024,5,1932903,,
+hybrid,app,ECC P-384,encrypt,1024,6,2927929,1225,13
+hybrid,app,ECC P-384,decrypt,1024,6,1947401,,
+hybrid,app,ECC P-384,encrypt,1024,7,2919272,1225,13
+hybrid,app,ECC P-384,decrypt,1024,7,1944315,,
+hybrid,app,ECC P-384,encrypt,1024,8,3020343,1225,13
+hybrid,app,ECC P-384,decrypt,1024,8,1992456,,
+hybrid,app,ECC P-384,encrypt,1024,9,2979166,1225,13
+hybrid,app,ECC P-384,decrypt,1024,9,1974862,,
+hybrid,app,ECC P-384,encrypt,1024,10,2959178,1225,13
+hybrid,app,ECC P-384,decrypt,1024,10,1919328,,
+hybrid,app,ECC P-384,encrypt,1024,11,3008701,1225,13
+hybrid,app,ECC P-384,decrypt,1024,11,2018224,,
+hybrid,app,ECC P-384,encrypt,1024,12,2966792,1225,13
+hybrid,app,ECC P-384,decrypt,1024,12,1943694,,
+hybrid,app,ECC P-384,encrypt,1024,13,2974787,1225,13
+hybrid,app,ECC P-384,decrypt,1024,13,1935599,,
+hybrid,app,ECC P-384,encrypt,1024,14,2924462,1225,13
+hybrid,app,ECC P-384,decrypt,1024,14,1977247,,
+hybrid,app,ECC P-384,encrypt,1024,15,2944179,1225,13
+hybrid,app,ECC P-384,decrypt,1024,15,1924237,,
+hybrid,app,ECC P-384,encrypt,1024,16,2980198,1225,13
+hybrid,app,ECC P-384,decrypt,1024,16,1925730,,
+hybrid,app,ECC P-384,encrypt,1024,17,2891660,1225,13
+hybrid,app,ECC P-384,decrypt,1024,17,1915921,,
+hybrid,app,ECC P-384,encrypt,1024,18,2969737,1225,13
+hybrid,app,ECC P-384,decrypt,1024,18,1932523,,
+hybrid,app,ECC P-384,encrypt,1024,19,2921737,1225,13
+hybrid,app,ECC P-384,decrypt,1024,19,1963110,,
+hybrid,app,ECC P-384,encrypt,1024,20,2926636,1225,13
+hybrid,app,ECC P-384,decrypt,1024,20,1911242,,
+hybrid,app,ECC P-384,encrypt,1024,21,2927397,1225,13
+hybrid,app,ECC P-384,decrypt,1024,21,1956858,,
+hybrid,app,ECC P-384,encrypt,1024,22,2895067,1225,13
+hybrid,app,ECC P-384,decrypt,1024,22,1926251,,
+hybrid,app,ECC P-384,encrypt,1024,23,2963606,1225,13
+hybrid,app,ECC P-384,decrypt,1024,23,1903317,,
+hybrid,app,ECC P-384,encrypt,1024,24,2895437,1225,13
+hybrid,app,ECC P-384,decrypt,1024,24,1944976,,
+hybrid,app,ECC P-384,encrypt,1024,25,2921456,1225,13
+hybrid,app,ECC P-384,decrypt,1024,25,1875705,,
+hybrid,app,ECC P-384,encrypt,1024,26,2956473,1225,13
+hybrid,app,ECC P-384,decrypt,1024,26,1952530,,
+hybrid,app,ECC P-384,encrypt,1024,27,2947596,1225,13
+hybrid,app,ECC P-384,decrypt,1024,27,1931040,,
+hybrid,app,ECC P-384,encrypt,1024,28,2885459,1225,13
+hybrid,app,ECC P-384,decrypt,1024,28,1945988,,
+hybrid,app,ECC P-384,encrypt,1024,29,2891581,1225,13
+hybrid,app,ECC P-384,decrypt,1024,29,1926552,,
+hybrid,app,ECC P-384,encrypt,1024,30,3004753,1225,13
+hybrid,app,ECC P-384,decrypt,1024,30,1942992,,
+isolated,rsa2048-p224,RSA-2048,keygen,,1,68521584,,
+isolated,rsa2048-p224,RSA-2048,keygen,,2,119429025,,
+isolated,rsa2048-p224,RSA-2048,keygen,,3,87885611,,
+isolated,rsa2048-p224,RSA-2048,keygen,,4,148609767,,
+isolated,rsa2048-p224,RSA-2048,keygen,,5,206377190,,
+isolated,rsa2048-p224,RSA-2048,keygen,,6,109583419,,
+isolated,rsa2048-p224,RSA-2048,keygen,,7,221339341,,
+isolated,rsa2048-p224,RSA-2048,keygen,,8,22184896,,
+isolated,rsa2048-p224,RSA-2048,keygen,,9,129488816,,
+isolated,rsa2048-p224,RSA-2048,keygen,,10,165342141,,
+isolated,rsa2048-p224,RSA-2048,keygen,,11,174455969,,
+isolated,rsa2048-p224,RSA-2048,keygen,,12,62489151,,
+isolated,rsa2048-p224,RSA-2048,keygen,,13,178361120,,
+isolated,rsa2048-p224,RSA-2048,keygen,,14,198131142,,
+isolated,rsa2048-p224,RSA-2048,keygen,,15,107423524,,
+isolated,rsa2048-p224,RSA-2048,keygen,,16,163193829,,
+isolated,rsa2048-p224,RSA-2048,keygen,,17,79733061,,
+isolated,rsa2048-p224,RSA-2048,keygen,,18,64423275,,
+isolated,rsa2048-p224,RSA-2048,keygen,,19,184132153,,
+isolated,rsa2048-p224,RSA-2048,keygen,,20,347053647,,
+isolated,rsa2048-p224,RSA-2048,keygen,,21,152565105,,
+isolated,rsa2048-p224,RSA-2048,keygen,,22,77541279,,
+isolated,rsa2048-p224,RSA-2048,keygen,,23,89175315,,
+isolated,rsa2048-p224,RSA-2048,keygen,,24,27241474,,
+isolated,rsa2048-p224,RSA-2048,keygen,,25,137455734,,
+isolated,rsa2048-p224,RSA-2048,keygen,,26,128481639,,
+isolated,rsa2048-p224,RSA-2048,keygen,,27,234009045,,
+isolated,rsa2048-p224,RSA-2048,keygen,,28,37913719,,
+isolated,rsa2048-p224,RSA-2048,keygen,,29,46598327,,
+isolated,rsa2048-p224,RSA-2048,keygen,,30,20880966,,
+isolated,rsa2048-p224,RSA-2048,encrypt,32,1,341694,,
+isolated,rsa2048-p224,RSA-2048,decrypt,32,1,1355765,,
+isolated,rsa2048-p224,RSA-2048,encrypt,32,2,295026,,
+isolated,rsa2048-p224,RSA-2048,decrypt,32,2,1130019,,
+isolated,rsa2048-p224,RSA-2048,encrypt,32,3,123924,,
+isolated,rsa2048-p224,RSA-2048,decrypt,32,3,1091357,,
+isolated,rsa2048-p224,RSA-2048,encrypt,32,4,104577,,
+isolated,rsa2048-p224,RSA-2048,decrypt,32,4,1086418,,
+isolated,rsa2048-p224,RSA-2048,encrypt,32,5,100319,,
+isolated,rsa2048-p224,RSA-2048,decrypt,32,5,1072351,,
+isolated,rsa2048-p224,RSA-2048,encrypt,32,6,100659,,
+isolated,rsa2048-p224,RSA-2048,decrypt,32,6,1095374,,
+isolated,rsa2048-p224,RSA-2048,encrypt,32,7,104386,,
+isolated,rsa2048-p224,RSA-2048,decrypt,32,7,1116774,,
+isolated,rsa2048-p224,RSA-2048,encrypt,32,8,104868,,
+isolated,rsa2048-p224,RSA-2048,decrypt,32,8,1102398,,
+isolated,rsa2048-p224,RSA-2048,encrypt,32,9,109136,,
+isolated,rsa2048-p224,RSA-2048,decrypt,32,9,1075738,,
+isolated,rsa2048-p224,RSA-2048,encrypt,32,10,97414,,
+isolated,rsa2048-p224,RSA-2048,decrypt,32,10,1069837,,
+isolated,rsa2048-p224,RSA-2048,encrypt,32,11,96292,,
+isolated,rsa2048-p224,RSA-2048,decrypt,32,11,1106355,,
+isolated,rsa2048-p224,RSA-2048,encrypt,32,12,107072,,
+isolated,rsa2048-p224,RSA-2048,decrypt,32,12,1100784,,
+isolated,rsa2048-p224,RSA-2048,encrypt,32,13,103856,,
+isolated,rsa2048-p224,RSA-2048,decrypt,32,13,1083472,,
+isolated,rsa2048-p224,RSA-2048,encrypt,32,14,117512,,
+isolated,rsa2048-p224,RSA-2048,decrypt,32,14,1094934,,
+isolated,rsa2048-p224,RSA-2048,encrypt,32,15,126649,,
+isolated,rsa2048-p224,RSA-2048,decrypt,32,15,1084985,,
+isolated,rsa2048-p224,RSA-2048,encrypt,32,16,91593,,
+isolated,rsa2048-p224,RSA-2048,decrypt,32,16,1072341,,
+isolated,rsa2048-p224,RSA-2048,encrypt,32,17,111400,,
+isolated,rsa2048-p224,RSA-2048,decrypt,32,17,1109721,,
+isolated,rsa2048-p224,RSA-2048,encrypt,32,18,102573,,
+isolated,rsa2048-p224,RSA-2048,decrypt,32,18,1083112,,
+isolated,rsa2048-p224,RSA-2048,encrypt,32,19,99147,,
+isolated,rsa2048-p224,RSA-2048,decrypt,32,19,1087650,,
+isolated,rsa2048-p224,RSA-2048,encrypt,32,20,98215,,
+isolated,rsa2048-p224,RSA-2048,decrypt,32,20,1071570,,
+isolated,rsa2048-p224,RSA-2048,encrypt,32,21,101141,,
+isolated,rsa2048-p224,RSA-2048,decrypt,32,21,1069275,,
+isolated,rsa2048-p224,RSA-2048,encrypt,32,22,98276,,
+isolated,rsa2048-p224,RSA-2048,decrypt,32,22,1083863,,
+isolated,rsa2048-p224,RSA-2048,encrypt,32,23,91342,,
+isolated,rsa2048-p224,RSA-2048,decrypt,32,23,1080687,,
+isolated,rsa2048-p224,RSA-2048,encrypt,32,24,92564,,
+isolated,rsa2048-p224,RSA-2048,decrypt,32,24,1067212,,
+isolated,rsa2048-p224,RSA-2048,encrypt,32,25,93186,,
+isolated,rsa2048-p224,RSA-2048,decrypt,32,25,1139748,,
+isolated,rsa2048-p224,RSA-2048,encrypt,32,26,116510,,
+isolated,rsa2048-p224,RSA-2048,decrypt,32,26,1058806,,
+isolated,rsa2048-p224,RSA-2048,encrypt,32,27,110608,,
+isolated,rsa2048-p224,RSA-2048,decrypt,32,27,1071239,,
+isolated,rsa2048-p224,RSA-2048,encrypt,32,28,95239,,
+isolated,rsa2048-p224,RSA-2048,decrypt,32,28,1062964,,
+isolated,rsa2048-p224,RSA-2048,encrypt,32,29,85661,,
+isolated,rsa2048-p224,RSA-2048,decrypt,32,29,1066580,,
+isolated,rsa2048-p224,RSA-2048,encrypt,32,30,100830,,
+isolated,rsa2048-p224,RSA-2048,decrypt,32,30,1069766,,
+isolated,rsa2048-p224,P-224,keygen,,1,862495,,
+isolated,rsa2048-p224,P-224,keygen,,2,538635,,
+isolated,rsa2048-p224,P-224,keygen,,3,434469,,
+isolated,rsa2048-p224,P-224,keygen,,4,451000,,
+isolated,rsa2048-p224,P-224,keygen,,5,281951,,
+isolated,rsa2048-p224,P-224,keygen,,6,288263,,
+isolated,rsa2048-p224,P-224,keygen,,7,273626,,
+isolated,rsa2048-p224,P-224,keygen,,8,276201,,
+isolated,rsa2048-p224,P-224,keygen,,9,229723,,
+isolated,rsa2048-p224,P-224,keygen,,10,225395,,
+isolated,rsa2048-p224,P-224,keygen,,11,222169,,
+isolated,rsa2048-p224,P-224,keygen,,12,231907,,
+isolated,rsa2048-p224,P-224,keygen,,13,213553,,
+isolated,rsa2048-p224,P-224,keygen,,14,219494,,
+isolated,rsa2048-p224,P-224,keygen,,15,211569,,
+isolated,rsa2048-p224,P-224,keygen,,16,213071,,
+isolated,rsa2048-p224,P-224,keygen,,17,214785,,
+isolated,rsa2048-p224,P-224,keygen,,18,210837,,
+isolated,rsa2048-p224,P-224,keygen,,19,223561,,
+isolated,rsa2048-p224,P-224,keygen,,20,245363,,
+isolated,rsa2048-p224,P-224,keygen,,21,222149,,
+isolated,rsa2048-p224,P-224,keygen,,22,326315,,
+isolated,rsa2048-p224,P-224,keygen,,23,212701,,
+isolated,rsa2048-p224,P-224,keygen,,24,221487,,
+isolated,rsa2048-p224,P-224,keygen,,25,227890,,
+isolated,rsa2048-p224,P-224,keygen,,26,216418,,
+isolated,rsa2048-p224,P-224,keygen,,27,212711,,
+isolated,rsa2048-p224,P-224,keygen,,28,207591,,
+isolated,rsa2048-p224,P-224,keygen,,29,219213,,
+isolated,rsa2048-p224,P-224,keygen,,30,210807,,
+isolated,rsa2048-p224,P-224,encrypt,,1,315575,,
+isolated,rsa2048-p224,P-224,decrypt,,1,300416,,
+isolated,rsa2048-p224,P-224,encrypt,,2,352494,,
+isolated,rsa2048-p224,P-224,decrypt,,2,310115,,
+isolated,rsa2048-p224,P-224,encrypt,,3,430281,,
+isolated,rsa2048-p224,P-224,decrypt,,3,285298,,
+isolated,rsa2048-p224,P-224,encrypt,,4,300356,,
+isolated,rsa2048-p224,P-224,decrypt,,4,289396,,
+isolated,rsa2048-p224,P-224,encrypt,,5,302440,,
+isolated,rsa2048-p224,P-224,decrypt,,5,270690,,
+isolated,rsa2048-p224,P-224,encrypt,,6,262625,,
+isolated,rsa2048-p224,P-224,decrypt,,6,282222,,
+isolated,rsa2048-p224,P-224,encrypt,,7,311928,,
+isolated,rsa2048-p224,P-224,decrypt,,7,275359,,
+isolated,rsa2048-p224,P-224,encrypt,,8,271161,,
+isolated,rsa2048-p224,P-224,decrypt,,8,271322,,
+isolated,rsa2048-p224,P-224,encrypt,,9,274929,,
+isolated,rsa2048-p224,P-224,decrypt,,9,275058,,
+isolated,rsa2048-p224,P-224,encrypt,,10,262896,,
+isolated,rsa2048-p224,P-224,decrypt,,10,296699,,
+isolated,rsa2048-p224,P-224,encrypt,,11,256263,,
+isolated,rsa2048-p224,P-224,decrypt,,11,247898,,
+isolated,rsa2048-p224,P-224,encrypt,,12,243388,,
+isolated,rsa2048-p224,P-224,decrypt,,12,243860,,
+isolated,rsa2048-p224,P-224,encrypt,,13,304624,,
+isolated,rsa2048-p224,P-224,decrypt,,13,295306,,
+isolated,rsa2048-p224,P-224,encrypt,,14,254049,,
+isolated,rsa2048-p224,P-224,decrypt,,14,253578,,
+isolated,rsa2048-p224,P-224,encrypt,,15,253498,,
+isolated,rsa2048-p224,P-224,decrypt,,15,239742,,
+isolated,rsa2048-p224,P-224,encrypt,,16,276962,,
+isolated,rsa2048-p224,P-224,decrypt,,16,238138,,
+isolated,rsa2048-p224,P-224,encrypt,,17,275850,,
+isolated,rsa2048-p224,P-224,decrypt,,17,297040,,
+isolated,rsa2048-p224,P-224,encrypt,,18,273335,,
+isolated,rsa2048-p224,P-224,decrypt,,18,233690,,
+isolated,rsa2048-p224,P-224,encrypt,,19,241175,,
+isolated,rsa2048-p224,P-224,decrypt,,19,235754,,
+isolated,rsa2048-p224,P-224,encrypt,,20,261463,,
+isolated,rsa2048-p224,P-224,decrypt,,20,235604,,
+isolated,rsa2048-p224,P-224,encrypt,,21,247917,,
+isolated,rsa2048-p224,P-224,decrypt,,21,240213,,
+isolated,rsa2048-p224,P-224,encrypt,,22,233651,,
+isolated,rsa2048-p224,P-224,decrypt,,22,241155,,
+isolated,rsa2048-p224,P-224,encrypt,,23,251294,,
+isolated,rsa2048-p224,P-224,decrypt,,23,243800,,
+isolated,rsa2048-p224,P-224,encrypt,,24,239491,,
+isolated,rsa2048-p224,P-224,decrypt,,24,239712,,
+isolated,rsa2048-p224,P-224,encrypt,,25,241696,,
+isolated,rsa2048-p224,P-224,decrypt,,25,231887,,
+isolated,rsa2048-p224,P-224,encrypt,,26,259909,,
+isolated,rsa2048-p224,P-224,decrypt,,26,237447,,
+isolated,rsa2048-p224,P-224,encrypt,,27,262034,,
+isolated,rsa2048-p224,P-224,decrypt,,27,244131,,
+isolated,rsa2048-p224,P-224,encrypt,,28,253307,,
+isolated,rsa2048-p224,P-224,decrypt,,28,236837,,
+isolated,rsa2048-p224,P-224,encrypt,,29,263196,,
+isolated,rsa2048-p224,P-224,decrypt,,29,299455,,
+isolated,rsa2048-p224,P-224,encrypt,,30,326125,,
+isolated,rsa2048-p224,P-224,decrypt,,30,328810,,
+isolated,rsa3072-p256,RSA-3072,keygen,,1,993828472,,
+isolated,rsa3072-p256,RSA-3072,keygen,,2,786120079,,
+isolated,rsa3072-p256,RSA-3072,keygen,,3,276020287,,
+isolated,rsa3072-p256,RSA-3072,keygen,,4,225279634,,
+isolated,rsa3072-p256,RSA-3072,keygen,,5,316574332,,
+isolated,rsa3072-p256,RSA-3072,keygen,,6,908285081,,
+isolated,rsa3072-p256,RSA-3072,keygen,,7,815485218,,
+isolated,rsa3072-p256,RSA-3072,keygen,,8,473736981,,
+isolated,rsa3072-p256,RSA-3072,keygen,,9,262941879,,
+isolated,rsa3072-p256,RSA-3072,keygen,,10,666981484,,
+isolated,rsa3072-p256,RSA-3072,keygen,,11,531776099,,
+isolated,rsa3072-p256,RSA-3072,keygen,,12,539273258,,
+isolated,rsa3072-p256,RSA-3072,keygen,,13,479841081,,
+isolated,rsa3072-p256,RSA-3072,keygen,,14,620363866,,
+isolated,rsa3072-p256,RSA-3072,keygen,,15,569777296,,
+isolated,rsa3072-p256,RSA-3072,keygen,,16,400847694,,
+isolated,rsa3072-p256,RSA-3072,keygen,,17,290864887,,
+isolated,rsa3072-p256,RSA-3072,keygen,,18,91639898,,
+isolated,rsa3072-p256,RSA-3072,keygen,,19,380660352,,
+isolated,rsa3072-p256,RSA-3072,keygen,,20,1734709992,,
+isolated,rsa3072-p256,RSA-3072,keygen,,21,914914479,,
+isolated,rsa3072-p256,RSA-3072,keygen,,22,315600653,,
+isolated,rsa3072-p256,RSA-3072,keygen,,23,683853114,,
+isolated,rsa3072-p256,RSA-3072,keygen,,24,671197933,,
+isolated,rsa3072-p256,RSA-3072,keygen,,25,937136057,,
+isolated,rsa3072-p256,RSA-3072,keygen,,26,921737261,,
+isolated,rsa3072-p256,RSA-3072,keygen,,27,355875625,,
+isolated,rsa3072-p256,RSA-3072,keygen,,28,494727774,,
+isolated,rsa3072-p256,RSA-3072,keygen,,29,632144263,,
+isolated,rsa3072-p256,RSA-3072,keygen,,30,122294804,,
+isolated,rsa3072-p256,RSA-3072,encrypt,32,1,139382,,
+isolated,rsa3072-p256,RSA-3072,decrypt,32,1,2912788,,
+isolated,rsa3072-p256,RSA-3072,encrypt,32,2,121119,,
+isolated,rsa3072-p256,RSA-3072,decrypt,32,2,2905344,,
+isolated,rsa3072-p256,RSA-3072,encrypt,32,3,134242,,
+isolated,rsa3072-p256,RSA-3072,decrypt,32,3,2936243,,
+isolated,rsa3072-p256,RSA-3072,encrypt,32,4,140826,,
+isolated,rsa3072-p256,RSA-3072,decrypt,32,4,2896187,,
+isolated,rsa3072-p256,RSA-3072,encrypt,32,5,135636,,
+isolated,rsa3072-p256,RSA-3072,decrypt,32,5,2893522,,
+isolated,rsa3072-p256,RSA-3072,encrypt,32,6,144553,,
+isolated,rsa3072-p256,RSA-3072,decrypt,32,6,2881951,,
+isolated,rsa3072-p256,RSA-3072,encrypt,32,7,118042,,
+isolated,rsa3072-p256,RSA-3072,decrypt,32,7,2872593,,
+isolated,rsa3072-p256,RSA-3072,encrypt,32,8,131648,,
+isolated,rsa3072-p256,RSA-3072,decrypt,32,8,2946032,,
+isolated,rsa3072-p256,RSA-3072,encrypt,32,9,173026,,
+isolated,rsa3072-p256,RSA-3072,decrypt,32,9,3034468,,
+isolated,rsa3072-p256,RSA-3072,encrypt,32,10,158859,,
+isolated,rsa3072-p256,RSA-3072,decrypt,32,10,2867072,,
+isolated,rsa3072-p256,RSA-3072,encrypt,32,11,122521,,
+isolated,rsa3072-p256,RSA-3072,decrypt,32,11,2881330,,
+isolated,rsa3072-p256,RSA-3072,encrypt,32,12,130165,,
+isolated,rsa3072-p256,RSA-3072,decrypt,32,12,2914362,,
+isolated,rsa3072-p256,RSA-3072,encrypt,32,13,119304,,
+isolated,rsa3072-p256,RSA-3072,decrypt,32,13,2867934,,
+isolated,rsa3072-p256,RSA-3072,encrypt,32,14,145033,,
+isolated,rsa3072-p256,RSA-3072,decrypt,32,14,2879657,,
+isolated,rsa3072-p256,RSA-3072,encrypt,32,15,127410,,
+isolated,rsa3072-p256,RSA-3072,decrypt,32,15,2875178,,
+isolated,rsa3072-p256,RSA-3072,encrypt,32,16,108514,,
+isolated,rsa3072-p256,RSA-3072,decrypt,32,16,2878845,,
+isolated,rsa3072-p256,RSA-3072,encrypt,32,17,112893,,
+isolated,rsa3072-p256,RSA-3072,decrypt,32,17,2859979,,
+isolated,rsa3072-p256,RSA-3072,encrypt,32,18,110718,,
+isolated,rsa3072-p256,RSA-3072,decrypt,32,18,2853406,,
+isolated,rsa3072-p256,RSA-3072,encrypt,32,19,97604,,
+isolated,rsa3072-p256,RSA-3072,decrypt,32,19,2849269,,
+isolated,rsa3072-p256,RSA-3072,encrypt,32,20,131618,,
+isolated,rsa3072-p256,RSA-3072,decrypt,32,20,2919131,,
+isolated,rsa3072-p256,RSA-3072,encrypt,32,21,108455,,
+isolated,rsa3072-p256,RSA-3072,decrypt,32,21,2869116,,
+isolated,rsa3072-p256,RSA-3072,encrypt,32,22,103585,,
+isolated,rsa3072-p256,RSA-3072,decrypt,32,22,2877111,,
+isolated,rsa3072-p256,RSA-3072,encrypt,32,23,109987,,
+isolated,rsa3072-p256,RSA-3072,decrypt,32,23,2877572,,
+isolated,rsa3072-p256,RSA-3072,encrypt,32,24,94198,,
+isolated,rsa3072-p256,RSA-3072,decrypt,32,24,2853086,,
+isolated,rsa3072-p256,RSA-3072,encrypt,32,25,96662,,
+isolated,rsa3072-p256,RSA-3072,decrypt,32,25,2870279,,
+isolated,rsa3072-p256,RSA-3072,encrypt,32,26,174900,,
+isolated,rsa3072-p256,RSA-3072,decrypt,32,26,2881450,,
+isolated,rsa3072-p256,RSA-3072,encrypt,32,27,104397,,
+isolated,rsa3072-p256,RSA-3072,decrypt,32,27,2854760,,
+isolated,rsa3072-p256,RSA-3072,encrypt,32,28,112743,,
+isolated,rsa3072-p256,RSA-3072,decrypt,32,28,2899233,,
+isolated,rsa3072-p256,RSA-3072,encrypt,32,29,129183,,
+isolated,rsa3072-p256,RSA-3072,decrypt,32,29,2869988,,
+isolated,rsa3072-p256,RSA-3072,encrypt,32,30,112011,,
+isolated,rsa3072-p256,RSA-3072,decrypt,32,30,3363879,,
+isolated,rsa3072-p256,P-256,keygen,,1,956803,,
+isolated,rsa3072-p256,P-256,keygen,,2,418549,,
+isolated,rsa3072-p256,P-256,keygen,,3,442053,,
+isolated,rsa3072-p256,P-256,keygen,,4,307109,,
+isolated,rsa3072-p256,P-256,keygen,,5,303843,,
+isolated,rsa3072-p256,P-256,keygen,,6,289115,,
+isolated,rsa3072-p256,P-256,keygen,,7,322768,,
+isolated,rsa3072-p256,P-256,keygen,,8,268676,,
+isolated,rsa3072-p256,P-256,keygen,,9,214113,,
+isolated,rsa3072-p256,P-256,keygen,,10,207722,,
+isolated,rsa3072-p256,P-256,keygen,,11,217951,,
+isolated,rsa3072-p256,P-256,keygen,,12,206539,,
+isolated,rsa3072-p256,P-256,keygen,,13,209545,,
+isolated,rsa3072-p256,P-256,keygen,,14,206419,,
+isolated,rsa3072-p256,P-256,keygen,,15,232999,,
+isolated,rsa3072-p256,P-256,keygen,,16,206228,,
+isolated,rsa3072-p256,P-256,keygen,,17,203834,,
+isolated,rsa3072-p256,P-256,keygen,,18,202321,,
+isolated,rsa3072-p256,P-256,keygen,,19,206759,,
+isolated,rsa3072-p256,P-256,keygen,,20,217720,,
+isolated,rsa3072-p256,P-256,keygen,,21,206029,,
+isolated,rsa3072-p256,P-256,keygen,,22,214174,,
+isolated,rsa3072-p256,P-256,keygen,,23,210436,,
+isolated,rsa3072-p256,P-256,keygen,,24,213543,,
+isolated,rsa3072-p256,P-256,keygen,,25,215136,,
+isolated,rsa3072-p256,P-256,keygen,,26,235353,,
+isolated,rsa3072-p256,P-256,keygen,,27,216248,,
+isolated,rsa3072-p256,P-256,keygen,,28,215586,,
+isolated,rsa3072-p256,P-256,keygen,,29,235023,,
+isolated,rsa3072-p256,P-256,keygen,,30,234572,,
+isolated,rsa3072-p256,P-256,encrypt,,1,326386,,
+isolated,rsa3072-p256,P-256,decrypt,,1,327306,,
+isolated,rsa3072-p256,P-256,encrypt,,2,327257,,
+isolated,rsa3072-p256,P-256,decrypt,,2,341724,,
+isolated,rsa3072-p256,P-256,encrypt,,3,323239,,
+isolated,rsa3072-p256,P-256,decrypt,,3,348096,,
+isolated,rsa3072-p256,P-256,encrypt,,4,309703,,
+isolated,rsa3072-p256,P-256,decrypt,,4,306297,,
+isolated,rsa3072-p256,P-256,encrypt,,5,305225,,
+isolated,rsa3072-p256,P-256,decrypt,,5,328509,,
+isolated,rsa3072-p256,P-256,encrypt,,6,303652,,
+isolated,rsa3072-p256,P-256,decrypt,,6,305045,,
+isolated,rsa3072-p256,P-256,encrypt,,7,311407,,
+isolated,rsa3072-p256,P-256,decrypt,,7,302931,,
+isolated,rsa3072-p256,P-256,encrypt,,8,312569,,
+isolated,rsa3072-p256,P-256,decrypt,,8,307680,,
+isolated,rsa3072-p256,P-256,encrypt,,9,313892,,
+isolated,rsa3072-p256,P-256,decrypt,,9,333418,,
+isolated,rsa3072-p256,P-256,encrypt,,10,272403,,
+isolated,rsa3072-p256,P-256,decrypt,,10,279006,,
+isolated,rsa3072-p256,P-256,encrypt,,11,279737,,
+isolated,rsa3072-p256,P-256,decrypt,,11,272814,,
+isolated,rsa3072-p256,P-256,encrypt,,12,266071,,
+isolated,rsa3072-p256,P-256,decrypt,,12,268425,,
+isolated,rsa3072-p256,P-256,encrypt,,13,270259,,
+isolated,rsa3072-p256,P-256,decrypt,,13,268286,,
+isolated,rsa3072-p256,P-256,encrypt,,14,264538,,
+isolated,rsa3072-p256,P-256,decrypt,,14,302651,,
+isolated,rsa3072-p256,P-256,encrypt,,15,491135,,
+isolated,rsa3072-p256,P-256,decrypt,,15,279226,,
+isolated,rsa3072-p256,P-256,encrypt,,16,280248,,
+isolated,rsa3072-p256,P-256,decrypt,,16,277483,,
+isolated,rsa3072-p256,P-256,encrypt,,17,275009,,
+isolated,rsa3072-p256,P-256,decrypt,,17,306047,,
+isolated,rsa3072-p256,P-256,encrypt,,18,399382,,
+isolated,rsa3072-p256,P-256,decrypt,,18,289806,,
+isolated,rsa3072-p256,P-256,encrypt,,19,283815,,
+isolated,rsa3072-p256,P-256,decrypt,,19,255772,,
+isolated,rsa3072-p256,P-256,encrypt,,20,251604,,
+isolated,rsa3072-p256,P-256,decrypt,,20,270580,,
+isolated,rsa3072-p256,P-256,encrypt,,21,260721,,
+isolated,rsa3072-p256,P-256,decrypt,,21,244571,,
+isolated,rsa3072-p256,P-256,encrypt,,22,247336,,
+isolated,rsa3072-p256,P-256,decrypt,,22,253077,,
+isolated,rsa3072-p256,P-256,encrypt,,23,243989,,
+isolated,rsa3072-p256,P-256,decrypt,,23,263808,,
+isolated,rsa3072-p256,P-256,encrypt,,24,256574,,
+isolated,rsa3072-p256,P-256,decrypt,,24,241405,,
+isolated,rsa3072-p256,P-256,encrypt,,25,246193,,
+isolated,rsa3072-p256,P-256,decrypt,,25,248688,,
+isolated,rsa3072-p256,P-256,encrypt,,26,241345,,
+isolated,rsa3072-p256,P-256,decrypt,,26,252656,,
+isolated,rsa3072-p256,P-256,encrypt,,27,242106,,
+isolated,rsa3072-p256,P-256,decrypt,,27,232327,,
+isolated,rsa3072-p256,P-256,encrypt,,28,246995,,
+isolated,rsa3072-p256,P-256,decrypt,,28,230113,,
+isolated,rsa3072-p256,P-256,encrypt,,29,329130,,
+isolated,rsa3072-p256,P-256,decrypt,,29,254840,,
+isolated,rsa3072-p256,P-256,encrypt,,30,281661,,
+isolated,rsa3072-p256,P-256,decrypt,,30,549716,,
+isolated,rsa7680-p384,RSA-7680,keygen,,1,27916576530,,
+isolated,rsa7680-p384,RSA-7680,keygen,,2,38752112325,,
+isolated,rsa7680-p384,RSA-7680,keygen,,3,15800843570,,
+isolated,rsa7680-p384,RSA-7680,keygen,,4,7682861025,,
+isolated,rsa7680-p384,RSA-7680,keygen,,5,4781338382,,
+isolated,rsa7680-p384,RSA-7680,keygen,,6,5813820622,,
+isolated,rsa7680-p384,RSA-7680,keygen,,7,14261942768,,
+isolated,rsa7680-p384,RSA-7680,keygen,,8,51775486508,,
+isolated,rsa7680-p384,RSA-7680,keygen,,9,12503232150,,
+isolated,rsa7680-p384,RSA-7680,keygen,,10,15801063778,,
+isolated,rsa7680-p384,RSA-7680,keygen,,11,3772670730,,
+isolated,rsa7680-p384,RSA-7680,keygen,,12,8332734837,,
+isolated,rsa7680-p384,RSA-7680,keygen,,13,16314924246,,
+isolated,rsa7680-p384,RSA-7680,keygen,,14,18762599424,,
+isolated,rsa7680-p384,RSA-7680,keygen,,15,13694398373,,
+isolated,rsa7680-p384,RSA-7680,keygen,,16,8225650723,,
+isolated,rsa7680-p384,RSA-7680,keygen,,17,21942694863,,
+isolated,rsa7680-p384,RSA-7680,keygen,,18,5225483432,,
+isolated,rsa7680-p384,RSA-7680,keygen,,19,5067838910,,
+isolated,rsa7680-p384,RSA-7680,keygen,,20,19279608979,,
+isolated,rsa7680-p384,RSA-7680,keygen,,21,61370033571,,
+isolated,rsa7680-p384,RSA-7680,keygen,,22,12894695916,,
+isolated,rsa7680-p384,RSA-7680,keygen,,23,19499644437,,
+isolated,rsa7680-p384,RSA-7680,keygen,,24,8023271198,,
+isolated,rsa7680-p384,RSA-7680,keygen,,25,11764011595,,
+isolated,rsa7680-p384,RSA-7680,keygen,,26,17663924921,,
+isolated,rsa7680-p384,RSA-7680,keygen,,27,7607766035,,
+isolated,rsa7680-p384,RSA-7680,keygen,,28,9601259032,,
+isolated,rsa7680-p384,RSA-7680,keygen,,29,9342446302,,
+isolated,rsa7680-p384,RSA-7680,keygen,,30,49507739578,,
+isolated,rsa7680-p384,RSA-7680,encrypt,32,1,476534,,
+isolated,rsa7680-p384,RSA-7680,decrypt,32,1,35565329,,
+isolated,rsa7680-p384,RSA-7680,encrypt,32,2,477756,,
+isolated,rsa7680-p384,RSA-7680,decrypt,32,2,35512430,,
+isolated,rsa7680-p384,RSA-7680,encrypt,32,3,489238,,
+isolated,rsa7680-p384,RSA-7680,decrypt,32,3,35586870,,
+isolated,rsa7680-p384,RSA-7680,encrypt,32,4,454964,,
+isolated,rsa7680-p384,RSA-7680,decrypt,32,4,35421720,,
+isolated,rsa7680-p384,RSA-7680,encrypt,32,5,448993,,
+isolated,rsa7680-p384,RSA-7680,decrypt,32,5,35461945,,
+isolated,rsa7680-p384,RSA-7680,encrypt,32,6,430258,,
+isolated,rsa7680-p384,RSA-7680,decrypt,32,6,35381334,,
+isolated,rsa7680-p384,RSA-7680,encrypt,32,7,425238,,
+isolated,rsa7680-p384,RSA-7680,decrypt,32,7,35326071,,
+isolated,rsa7680-p384,RSA-7680,encrypt,32,8,437451,,
+isolated,rsa7680-p384,RSA-7680,decrypt,32,8,35417111,,
+isolated,rsa7680-p384,RSA-7680,encrypt,32,9,455104,,
+isolated,rsa7680-p384,RSA-7680,decrypt,32,9,35453880,,
+isolated,rsa7680-p384,RSA-7680,encrypt,32,10,439965,,
+isolated,rsa7680-p384,RSA-7680,decrypt,32,10,35367427,,
+isolated,rsa7680-p384,RSA-7680,encrypt,32,11,426341,,
+isolated,rsa7680-p384,RSA-7680,decrypt,32,11,35370554,,
+isolated,rsa7680-p384,RSA-7680,encrypt,32,12,448060,,
+isolated,rsa7680-p384,RSA-7680,decrypt,32,12,35494997,,
+isolated,rsa7680-p384,RSA-7680,encrypt,32,13,430237,,
+isolated,rsa7680-p384,RSA-7680,decrypt,32,13,35366947,,
+isolated,rsa7680-p384,RSA-7680,encrypt,32,14,417293,,
+isolated,rsa7680-p384,RSA-7680,decrypt,32,14,35414466,,
+isolated,rsa7680-p384,RSA-7680,encrypt,32,15,424597,,
+isolated,rsa7680-p384,RSA-7680,decrypt,32,15,35461325,,
+isolated,rsa7680-p384,RSA-7680,encrypt,32,16,434415,,
+isolated,rsa7680-p384,RSA-7680,decrypt,32,16,35372337,,
+isolated,rsa7680-p384,RSA-7680,encrypt,32,17,434515,,
+isolated,rsa7680-p384,RSA-7680,decrypt,32,17,35346389,,
+isolated,rsa7680-p384,RSA-7680,encrypt,32,18,422533,,
+isolated,rsa7680-p384,RSA-7680,decrypt,32,18,35512140,,
+isolated,rsa7680-p384,RSA-7680,encrypt,32,19,454463,,
+isolated,rsa7680-p384,RSA-7680,decrypt,32,19,35456395,,
+isolated,rsa7680-p384,RSA-7680,encrypt,32,20,441649,,
+isolated,rsa7680-p384,RSA-7680,decrypt,32,20,35438772,,
+isolated,rsa7680-p384,RSA-7680,encrypt,32,21,436038,,
+isolated,rsa7680-p384,RSA-7680,decrypt,32,21,35480641,,
+isolated,rsa7680-p384,RSA-7680,encrypt,32,22,476915,,
+isolated,rsa7680-p384,RSA-7680,decrypt,32,22,35373139,,
+isolated,rsa7680-p384,RSA-7680,encrypt,32,23,425359,,
+isolated,rsa7680-p384,RSA-7680,decrypt,32,23,35349845,,
+isolated,rsa7680-p384,RSA-7680,encrypt,32,24,436439,,
+isolated,rsa7680-p384,RSA-7680,decrypt,32,24,35329447,,
+isolated,rsa7680-p384,RSA-7680,encrypt,32,25,452679,,
+isolated,rsa7680-p384,RSA-7680,decrypt,32,25,35448921,,
+isolated,rsa7680-p384,RSA-7680,encrypt,32,26,423615,,
+isolated,rsa7680-p384,RSA-7680,decrypt,32,26,35359984,,
+isolated,rsa7680-p384,RSA-7680,encrypt,32,27,420419,,
+isolated,rsa7680-p384,RSA-7680,decrypt,32,27,35371055,,
+isolated,rsa7680-p384,RSA-7680,encrypt,32,28,421391,,
+isolated,rsa7680-p384,RSA-7680,decrypt,32,28,35478065,,
+isolated,rsa7680-p384,RSA-7680,encrypt,32,29,451948,,
+isolated,rsa7680-p384,RSA-7680,decrypt,32,29,35420297,,
+isolated,rsa7680-p384,RSA-7680,encrypt,32,30,439484,,
+isolated,rsa7680-p384,RSA-7680,decrypt,32,30,35470391,,
+isolated,rsa7680-p384,P-384,keygen,,1,686588,,
+isolated,rsa7680-p384,P-384,keygen,,2,666782,,
+isolated,rsa7680-p384,P-384,keygen,,3,652224,,
+isolated,rsa7680-p384,P-384,keygen,,4,569058,,
+isolated,rsa7680-p384,P-384,keygen,,5,524084,,
+isolated,rsa7680-p384,P-384,keygen,,6,509977,,
+isolated,rsa7680-p384,P-384,keygen,,7,521979,,
+isolated,rsa7680-p384,P-384,keygen,,8,514255,,
+isolated,rsa7680-p384,P-384,keygen,,9,524214,,
+isolated,rsa7680-p384,P-384,keygen,,10,516900,,
+isolated,rsa7680-p384,P-384,keygen,,11,516018,,
+isolated,rsa7680-p384,P-384,keygen,,12,513584,,
+isolated,rsa7680-p384,P-384,keygen,,13,513704,,
+isolated,rsa7680-p384,P-384,keygen,,14,510869,,
+isolated,rsa7680-p384,P-384,keygen,,15,516138,,
+isolated,rsa7680-p384,P-384,keygen,,16,524855,,
+isolated,rsa7680-p384,P-384,keygen,,17,515347,,
+isolated,rsa7680-p384,P-384,keygen,,18,620334,,
+isolated,rsa7680-p384,P-384,keygen,,19,673043,,
+isolated,rsa7680-p384,P-384,keygen,,20,612670,,
+isolated,rsa7680-p384,P-384,keygen,,21,642225,,
+isolated,rsa7680-p384,P-384,keygen,,22,640071,,
+isolated,rsa7680-p384,P-384,keygen,,23,693702,,
+isolated,rsa7680-p384,P-384,keygen,,24,635132,,
+isolated,rsa7680-p384,P-384,keygen,,25,684835,,
+isolated,rsa7680-p384,P-384,keygen,,26,676369,,
+isolated,rsa7680-p384,P-384,keygen,,27,686117,,
+isolated,rsa7680-p384,P-384,keygen,,28,640562,,
+isolated,rsa7680-p384,P-384,keygen,,29,636534,,
+isolated,rsa7680-p384,P-384,keygen,,30,622619,,
+isolated,rsa7680-p384,P-384,encrypt,,1,1025054,,
+isolated,rsa7680-p384,P-384,decrypt,,1,999776,,
+isolated,rsa7680-p384,P-384,encrypt,,2,1059599,,
+isolated,rsa7680-p384,P-384,decrypt,,2,1004826,,
+isolated,rsa7680-p384,P-384,encrypt,,3,986050,,
+isolated,rsa7680-p384,P-384,decrypt,,3,956745,,
+isolated,rsa7680-p384,P-384,encrypt,,4,944763,,
+isolated,rsa7680-p384,P-384,decrypt,,4,952718,,
+isolated,rsa7680-p384,P-384,encrypt,,5,967316,,
+isolated,rsa7680-p384,P-384,decrypt,,5,973136,,
+isolated,rsa7680-p384,P-384,encrypt,,6,979819,,
+isolated,rsa7680-p384,P-384,decrypt,,6,977605,,
+isolated,rsa7680-p384,P-384,encrypt,,7,935586,,
+isolated,rsa7680-p384,P-384,decrypt,,7,907894,,
+isolated,rsa7680-p384,P-384,encrypt,,8,910208,,
+isolated,rsa7680-p384,P-384,decrypt,,8,906270,,
+isolated,rsa7680-p384,P-384,encrypt,,9,905799,,
+isolated,rsa7680-p384,P-384,decrypt,,9,899968,,
+isolated,rsa7680-p384,P-384,encrypt,,10,906882,,
+isolated,rsa7680-p384,P-384,decrypt,,10,917241,,
+isolated,rsa7680-p384,P-384,encrypt,,11,885472,,
+isolated,rsa7680-p384,P-384,decrypt,,11,879560,,
+isolated,rsa7680-p384,P-384,encrypt,,12,880863,,
+isolated,rsa7680-p384,P-384,decrypt,,12,842621,,
+isolated,rsa7680-p384,P-384,encrypt,,13,823706,,
+isolated,rsa7680-p384,P-384,decrypt,,13,820390,,
+isolated,rsa7680-p384,P-384,encrypt,,14,832061,,
+isolated,rsa7680-p384,P-384,decrypt,,14,815651,,
+isolated,rsa7680-p384,P-384,encrypt,,15,819387,,
+isolated,rsa7680-p384,P-384,decrypt,,15,827253,,
+isolated,rsa7680-p384,P-384,encrypt,,16,789562,,
+isolated,rsa7680-p384,P-384,decrypt,,16,767290,,
+isolated,rsa7680-p384,P-384,encrypt,,17,745970,,
+isolated,rsa7680-p384,P-384,decrypt,,17,746300,,
+isolated,rsa7680-p384,P-384,encrypt,,18,745709,,
+isolated,rsa7680-p384,P-384,decrypt,,18,780053,,
+isolated,rsa7680-p384,P-384,encrypt,,19,702228,,
+isolated,rsa7680-p384,P-384,decrypt,,19,693521,,
+isolated,rsa7680-p384,P-384,encrypt,,20,697308,,
+isolated,rsa7680-p384,P-384,decrypt,,20,1420385,,
+isolated,rsa7680-p384,P-384,encrypt,,21,732585,,
+isolated,rsa7680-p384,P-384,decrypt,,21,708249,,
+isolated,rsa7680-p384,P-384,encrypt,,22,697880,,
+isolated,rsa7680-p384,P-384,decrypt,,22,702498,,
+isolated,rsa7680-p384,P-384,encrypt,,23,704743,,
+isolated,rsa7680-p384,P-384,decrypt,,23,720993,,
+isolated,rsa7680-p384,P-384,encrypt,,24,705924,,
+isolated,rsa7680-p384,P-384,decrypt,,24,698611,,
+isolated,rsa7680-p384,P-384,encrypt,,25,716344,,
+isolated,rsa7680-p384,P-384,decrypt,,25,691908,,
+isolated,rsa7680-p384,P-384,encrypt,,26,697970,,
+isolated,rsa7680-p384,P-384,decrypt,,26,706987,,
+isolated,rsa7680-p384,P-384,encrypt,,27,717225,,
+isolated,rsa7680-p384,P-384,decrypt,,27,711575,,
+isolated,rsa7680-p384,P-384,encrypt,,28,744117,,
+isolated,rsa7680-p384,P-384,decrypt,,28,648497,,
+isolated,rsa7680-p384,P-384,encrypt,,29,659317,,
+isolated,rsa7680-p384,P-384,decrypt,,29,645371,,
+isolated,rsa7680-p384,P-384,encrypt,,30,650341,,
+isolated,rsa7680-p384,P-384,decrypt,,30,663826,,

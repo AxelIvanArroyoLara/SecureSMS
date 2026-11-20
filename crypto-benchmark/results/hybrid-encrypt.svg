@@ -1,0 +1,45 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="560" viewBox="0 0 960.0 560.0">
+<rect width="100%" height="100%" fill="#ffffff"/>
+<text x="480.0" y="32" text-anchor="middle" font-family="sans-serif" font-size="18">Hybrid encryption, median of 30 runs</text>
+<text x="18" y="242.0" text-anchor="middle" transform="rotate(-90 18 242.0)" font-family="sans-serif" font-size="13">Median time (ms)</text>
+<line x1="88.0" y1="56.0" x2="88.0" y2="428.0" stroke="#222" stroke-width="1"/>
+<line x1="88.0" y1="428.0" x2="936.0" y2="428.0" stroke="#222" stroke-width="1"/>
+<line x1="88.0" y1="428.0" x2="936.0" y2="428.0" stroke="#dddddd"/>
+<text x="80.0" y="432.0" text-anchor="end" font-family="sans-serif" font-size="11">0.000</text>
+<line x1="88.0" y1="335.0" x2="936.0" y2="335.0" stroke="#dddddd"/>
+<text x="80.0" y="339.0" text-anchor="end" font-family="sans-serif" font-size="11">1.40</text>
+<line x1="88.0" y1="242.0" x2="936.0" y2="242.0" stroke="#dddddd"/>
+<text x="80.0" y="246.0" text-anchor="end" font-family="sans-serif" font-size="11">2.79</text>
+<line x1="88.0" y1="149.00000000000006" x2="936.0" y2="149.00000000000006" stroke="#dddddd"/>
+<text x="80.0" y="153.00000000000006" text-anchor="end" font-family="sans-serif" font-size="11">4.19</text>
+<line x1="88.0" y1="56.0" x2="936.0" y2="56.0" stroke="#dddddd"/>
+<text x="80.0" y="60.0" text-anchor="end" font-family="sans-serif" font-size="11">5.59</text>
+<text x="194.0" y="450.0" text-anchor="middle" font-family="sans-serif" font-size="12">RSA-2048</text>
+<rect x="109.2" y="415.6043228244593" width="33.92" height="12.395677175540698" fill="#1b4f72"/>
+<rect x="151.6" y="418.77074049736797" width="33.92" height="9.229259502632033" fill="#148f77"/>
+<rect x="194.0" y="419.52781376310236" width="33.92" height="8.472186236897642" fill="#b9770e"/>
+<rect x="236.39999999999998" y="417.87697344754264" width="33.92" height="10.123026552457361" fill="#6c3483"/>
+<text x="406.0" y="450.0" text-anchor="middle" font-family="sans-serif" font-size="12">RSA-3072</text>
+<rect x="321.2" y="418.65434447576376" width="33.92" height="9.345655524236236" fill="#1b4f72"/>
+<rect x="363.59999999999997" y="419.59985418241996" width="33.92" height="8.40014581758004" fill="#148f77"/>
+<rect x="406.0" y="419.60388045989686" width="33.92" height="8.396119540103143" fill="#b9770e"/>
+<rect x="448.4" y="419.70553564743284" width="33.92" height="8.29446435256716" fill="#6c3483"/>
+<text x="618.0" y="450.0" text-anchor="middle" font-family="sans-serif" font-size="12">ECC P-256</text>
+<rect x="533.2" y="340.71878943157014" width="33.92" height="87.28121056842986" fill="#1b4f72"/>
+<rect x="575.6" y="346.22590514442334" width="33.92" height="81.77409485557666" fill="#148f77"/>
+<rect x="618.0" y="350.1640703670937" width="33.92" height="77.8359296329063" fill="#b9770e"/>
+<rect x="660.4000000000001" y="353.4831871089394" width="33.92" height="74.51681289106062" fill="#6c3483"/>
+<text x="830.0" y="450.0" text-anchor="middle" font-family="sans-serif" font-size="12">ECC P-384</text>
+<rect x="745.2" y="83.55555555555554" width="33.92" height="344.44444444444446" fill="#1b4f72"/>
+<rect x="787.6" y="220.78886082838613" width="33.92" height="207.21113917161387" fill="#148f77"/>
+<rect x="830.0" y="233.07622781229685" width="33.92" height="194.92377218770315" fill="#b9770e"/>
+<rect x="872.4000000000001" y="231.93772298691442" width="33.92" height="196.06227701308558" fill="#6c3483"/>
+<rect x="88.0" y="524.0" width="14" height="14" fill="#1b4f72"/>
+<text x="108.0" y="536.0" font-family="sans-serif" font-size="12">0 bytes</text>
+<rect x="238.0" y="524.0" width="14" height="14" fill="#148f77"/>
+<text x="258.0" y="536.0" font-family="sans-serif" font-size="12">5 bytes</text>
+<rect x="388.0" y="524.0" width="14" height="14" fill="#b9770e"/>
+<text x="408.0" y="536.0" font-family="sans-serif" font-size="12">200 bytes</text>
+<rect x="538.0" y="524.0" width="14" height="14" fill="#6c3483"/>
+<text x="558.0" y="536.0" font-family="sans-serif" font-size="12">1024 bytes</text>
+</svg>

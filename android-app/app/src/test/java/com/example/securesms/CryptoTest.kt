@@ -72,13 +72,87 @@ class CryptoTest {
         assertEquals(CryptoResult.Failure(CryptoError.INVALID_CIPHERTEXT), engine.decrypt(context, "Alice", first))
     }
 
+    @Test
+    fun emilioInteroperatesWithReferenceInBothDirections() = runBlocking {
+        val hello = "hello".encodeToByteArray()
+        assertArrayEquals(byteArrayOf(0x68, 0x65, 0x6c, 0x6c, 0x6f), hello)
+        val messages = listOf(ByteArray(0), hello, ByteArray(1024) { 'x'.code.toByte() })
+        for (profile in KeyProfile.entries) {
+            exchange(emilioEngine(profile, TestVault()), referenceEngine(profile, TestVault()), profile, messages)
+            exchange(referenceEngine(profile, TestVault()), emilioEngine(profile, TestVault()), profile, messages)
+        }
+        val rsa = EmilioRsaEngine(TestVault(), setOf(KeyProfile.RSA_2048))
+        val p256 = EmilioEccEngine(TestVault(), setOf(KeyProfile.P256))
+            .generate(KeyProfile.P256, "peer").ok().value
+        assertEquals(
+            CryptoResult.Failure(CryptoError.INVALID_KEY),
+            rsa.validatePublicKey(KeyProfile.RSA_2048, p256.publicKey)
+        )
+        assertEquals(
+            CryptoResult.Failure(CryptoError.INVALID_KEY),
+            rsa.validatePublicKey(KeyProfile.RSA_2048, byteArrayOf(0))
+        )
+    }
+
+    private fun emilioEngine(profile: KeyProfile, vault: IdentityVault): CryptoEngine = when (profile.algorithm) {
+        Algorithm.RSA -> EmilioRsaEngine(vault, setOf(profile))
+        Algorithm.ECC -> EmilioEccEngine(vault, setOf(profile))
+    }
+
+    private fun referenceEngine(profile: KeyProfile, vault: IdentityVault): CryptoEngine =
+        HybridCrypto(profile.algorithm, vault, setOf(profile))
+
+    private suspend fun exchange(
+        sender: CryptoEngine,
+        receiver: CryptoEngine,
+        profile: KeyProfile,
+        messages: List<ByteArray>
+    ) {
+        val identity = receiver.generate(profile, "receiver").ok().value
+        val context = CryptoContext(UUID.randomUUID(), Suite.HYBRID_V1, profile, fingerprint(identity.publicKey))
+        for (text in messages) {
+            val cipher = sender.encrypt(context, identity.publicKey, text).ok()
+            assertTrue(cipher.elapsedNanos > 0)
+            val wire = SmsProtocol.segment(Envelope(context, cipher.value))
+            val incoming = SmsProtocol.reassemble(wire.map { SmsProtocol.parse(it)!! })!!
+            val opened = receiver.decrypt(incoming.context, identity.alias, incoming.payload).ok()
+            assertArrayEquals(text, opened.value)
+            assertTrue(opened.elapsedNanos > 0)
+            if (text.size != 5) continue
+            assertEquals(
+                CryptoResult.Failure(CryptoError.INVALID_CIPHERTEXT),
+                receiver.decrypt(context.copy(id = UUID.randomUUID()), identity.alias, incoming.payload)
+            )
+            assertEquals(
+                CryptoResult.Failure(CryptoError.INVALID_CIPHERTEXT),
+                receiver.decrypt(context, identity.alias, incoming.payload.copy(
+                    metadata = incoming.payload.metadata.copyOf().also { it[0] = (it[0].toInt() xor 1).toByte() }
+                ))
+            )
+            assertEquals(
+                CryptoResult.Failure(CryptoError.INVALID_CIPHERTEXT),
+                receiver.decrypt(context, identity.alias, incoming.payload.copy(
+                    ciphertext = incoming.payload.ciphertext.copyOf().also { it[0] = (it[0].toInt() xor 1).toByte() }
+                ))
+            )
+            assertEquals(
+                CryptoResult.Failure(CryptoError.INVALID_KEY),
+                sender.encrypt(context.copy(recipientFingerprint = ByteArray(32)), identity.publicKey, text)
+            )
+            assertEquals(
+                CryptoResult.Failure(CryptoError.INVALID_CIPHERTEXT),
+                receiver.decrypt(context, "missing", incoming.payload)
+            )
+        }
+    }
+
     private fun <T> CryptoResult<T>.ok(): CryptoResult.Ok<T> {
         assertTrue(toString(), this is CryptoResult.Ok)
         return this as CryptoResult.Ok<T>
     }
 }
 
-private class TestVault : IdentityVault {
+internal class TestVault : IdentityVault {
     private val keys = mutableMapOf<String, KeyPair>()
 
     override fun create(profile: KeyProfile, alias: String): PublicKey {

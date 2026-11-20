@@ -96,7 +96,7 @@ class AndroidPipelineTest {
             val store = RoomStore(database)
             val profile = KeyProfile.P256
             org.junit.Assume.assumeTrue(Build.VERSION.SDK_INT >= 31)
-            val engine = HybridCrypto(Algorithm.ECC, AndroidIdentityVault(), setOf(profile))
+            val engine = EmilioEccEngine(AndroidIdentityVault(), setOf(profile))
             val batches = mutableListOf<OutboundBatch>()
             val service = Messaging(store, CryptoRegistry(engine), HistoryVault(), Assembler(store)) {
                 batches.add(it)
@@ -142,7 +142,10 @@ class AndroidPipelineTest {
         val privateStore = KeyStore.getInstance("AndroidKeyStore").apply { load(null) }
         for (profile in KeyProfile.entries) {
             if (Build.VERSION.SDK_INT < 31 && profile.algorithm == Algorithm.ECC) continue
-            val engine = HybridCrypto(profile.algorithm, AndroidIdentityVault(), setOf(profile))
+            val engine = when (profile.algorithm) {
+                Algorithm.RSA -> EmilioRsaEngine(AndroidIdentityVault(), setOf(profile))
+                Algorithm.ECC -> EmilioEccEngine(AndroidIdentityVault(), setOf(profile))
+            }
             val alias = "securesms.test.${UUID.randomUUID()}"
             try {
                 val generated = engine.generate(profile, alias)

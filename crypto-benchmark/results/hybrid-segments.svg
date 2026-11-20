@@ -1,0 +1,45 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="560" viewBox="0 0 960.0 560.0">
+<rect width="100%" height="100%" fill="#ffffff"/>
+<text x="480.0" y="32" text-anchor="middle" font-family="sans-serif" font-size="18">SMS segments for the hybrid envelope</text>
+<text x="18" y="242.0" text-anchor="middle" transform="rotate(-90 18 242.0)" font-family="sans-serif" font-size="13">Median segment count</text>
+<line x1="88.0" y1="56.0" x2="88.0" y2="428.0" stroke="#222" stroke-width="1"/>
+<line x1="88.0" y1="428.0" x2="936.0" y2="428.0" stroke="#222" stroke-width="1"/>
+<line x1="88.0" y1="428.0" x2="936.0" y2="428.0" stroke="#dddddd"/>
+<text x="80.0" y="432.0" text-anchor="end" font-family="sans-serif" font-size="11">0.000</text>
+<line x1="88.0" y1="335.0" x2="936.0" y2="335.0" stroke="#dddddd"/>
+<text x="80.0" y="339.0" text-anchor="end" font-family="sans-serif" font-size="11">4.32</text>
+<line x1="88.0" y1="242.0" x2="936.0" y2="242.0" stroke="#dddddd"/>
+<text x="80.0" y="246.0" text-anchor="end" font-family="sans-serif" font-size="11">8.64</text>
+<line x1="88.0" y1="149.0" x2="936.0" y2="149.0" stroke="#dddddd"/>
+<text x="80.0" y="153.0" text-anchor="end" font-family="sans-serif" font-size="11">13.0</text>
+<line x1="88.0" y1="56.0" x2="936.0" y2="56.0" stroke="#dddddd"/>
+<text x="80.0" y="60.0" text-anchor="end" font-family="sans-serif" font-size="11">17.3</text>
+<text x="194.0" y="450.0" text-anchor="middle" font-family="sans-serif" font-size="12">RSA-2048</text>
+<rect x="109.2" y="341.8888888888889" width="33.92" height="86.11111111111109" fill="#1b4f72"/>
+<rect x="151.6" y="341.8888888888889" width="33.92" height="86.11111111111109" fill="#148f77"/>
+<rect x="194.0" y="298.83333333333337" width="33.92" height="129.16666666666663" fill="#b9770e"/>
+<rect x="236.39999999999998" y="105.08333333333337" width="33.92" height="322.91666666666663" fill="#6c3483"/>
+<text x="406.0" y="450.0" text-anchor="middle" font-family="sans-serif" font-size="12">RSA-3072</text>
+<rect x="321.2" y="320.3611111111111" width="33.92" height="107.63888888888891" fill="#1b4f72"/>
+<rect x="363.59999999999997" y="320.3611111111111" width="33.92" height="107.63888888888891" fill="#148f77"/>
+<rect x="406.0" y="277.30555555555554" width="33.92" height="150.69444444444446" fill="#b9770e"/>
+<rect x="448.4" y="83.5555555555556" width="33.92" height="344.4444444444444" fill="#6c3483"/>
+<text x="618.0" y="450.0" text-anchor="middle" font-family="sans-serif" font-size="12">ECC P-256</text>
+<rect x="533.2" y="384.94444444444446" width="33.92" height="43.05555555555554" fill="#1b4f72"/>
+<rect x="575.6" y="384.94444444444446" width="33.92" height="43.05555555555554" fill="#148f77"/>
+<rect x="618.0" y="341.8888888888889" width="33.92" height="86.11111111111109" fill="#b9770e"/>
+<rect x="660.4000000000001" y="148.1388888888889" width="33.92" height="279.8611111111111" fill="#6c3483"/>
+<text x="830.0" y="450.0" text-anchor="middle" font-family="sans-serif" font-size="12">ECC P-384</text>
+<rect x="745.2" y="363.4166666666667" width="33.92" height="64.58333333333331" fill="#1b4f72"/>
+<rect x="787.6" y="363.4166666666667" width="33.92" height="64.58333333333331" fill="#148f77"/>
+<rect x="830.0" y="320.3611111111111" width="33.92" height="107.63888888888891" fill="#b9770e"/>
+<rect x="872.4000000000001" y="148.1388888888889" width="33.92" height="279.8611111111111" fill="#6c3483"/>
+<rect x="88.0" y="524.0" width="14" height="14" fill="#1b4f72"/>
+<text x="108.0" y="536.0" font-family="sans-serif" font-size="12">0 bytes</text>
+<rect x="238.0" y="524.0" width="14" height="14" fill="#148f77"/>
+<text x="258.0" y="536.0" font-family="sans-serif" font-size="12">5 bytes</text>
+<rect x="388.0" y="524.0" width="14" height="14" fill="#b9770e"/>
+<text x="408.0" y="536.0" font-family="sans-serif" font-size="12">200 bytes</text>
+<rect x="538.0" y="524.0" width="14" height="14" fill="#6c3483"/>
+<text x="558.0" y="536.0" font-family="sans-serif" font-size="12">1024 bytes</text>
+</svg>
