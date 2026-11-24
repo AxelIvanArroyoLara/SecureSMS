@@ -49,6 +49,7 @@ dependencies {
     implementation(libs.androidx.core.ktx)
     implementation(libs.androidx.lifecycle.runtime.ktx)
     testImplementation(libs.junit)
+    testImplementation("org.bouncycastle:bcprov-jdk18on:1.78.1")
     androidTestImplementation(platform(libs.androidx.compose.bom))
     androidTestImplementation(libs.androidx.compose.ui.test.junit4)
     androidTestImplementation(libs.androidx.espresso.core)
@@ -58,4 +59,11 @@ dependencies {
 }
 ksp {
     arg("room.schemaLocation", "$projectDir/schemas")
+}
+
+tasks.withType<org.gradle.api.tasks.testing.Test>().configureEach {
+    val runBenchmark = providers.gradleProperty("benchmark").orNull == "true"
+    environment("SECURESMS_BENCHMARK", if (runBenchmark) "1" else "0")
+    systemProperty("securesms.benchmark", if (runBenchmark) "1" else "0")
+    if (runBenchmark) testLogging.showStandardStreams = true
 }

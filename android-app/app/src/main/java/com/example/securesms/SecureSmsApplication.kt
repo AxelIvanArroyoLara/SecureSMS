@@ -8,8 +8,9 @@ import com.example.securesms.crypto.Algorithm
 import com.example.securesms.crypto.AndroidIdentityVault
 import com.example.securesms.crypto.CryptoRegistry
 import com.example.securesms.crypto.DemoCrypto
+import com.example.securesms.crypto.EmilioEccEngine
+import com.example.securesms.crypto.EmilioRsaEngine
 import com.example.securesms.crypto.HistoryVault
-import com.example.securesms.crypto.HybridCrypto
 import com.example.securesms.crypto.KeyProfile
 import com.example.securesms.data.RoomStore
 import com.example.securesms.data.SecureDatabase
@@ -34,8 +35,8 @@ class SecureSmsApplication : Application() {
         val registry = CryptoRegistry(
             DemoCrypto(Algorithm.RSA),
             DemoCrypto(Algorithm.ECC),
-            HybridCrypto(Algorithm.RSA, vault, setOf(KeyProfile.RSA_2048, KeyProfile.RSA_3072)),
-            HybridCrypto(Algorithm.ECC, vault, if (Build.VERSION.SDK_INT >= 31) {
+            EmilioRsaEngine(vault, setOf(KeyProfile.RSA_2048, KeyProfile.RSA_3072)),
+            EmilioEccEngine(vault, if (Build.VERSION.SDK_INT >= 31) {
                 setOf(KeyProfile.P256, KeyProfile.P384)
             } else {
                 emptySet()

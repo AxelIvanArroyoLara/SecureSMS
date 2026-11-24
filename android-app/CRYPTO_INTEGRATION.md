@@ -1,5 +1,7 @@
 # Crypto adapter integration
 
+`EmilioRsaEngine` and `EmilioEccEngine` are the Hybrid v1 engines registered by `SecureSmsApplication`. `HybridCrypto` remains the interoperability reference and is not registered for carrier SMS.
+
 Implement `CryptoEngine` in the Android app. Each engine advertises one algorithm and suite and a set of profiles from RSA-2048, RSA-3072, P-256 and P-384. Register it inside the `CryptoRegistry` constructed by `SecureSmsApplication`. Replace the reference entry for its algorithm. A suite ID names a wire format, so coordinate and version any wire change on both endpoints before registering a different format.
 
 `generate(profile, alias)` returns an opaque alias and DER SubjectPublicKeyInfo bytes. Keep the private key behind that alias. `validatePublicKey` validates the whole public key and the requested profile. A public key is exported as `SSK1.<profile wire ID>.<unpadded canonical Base64URL SPKI>`. Users compare the full hex SHA-256 SPKI fingerprint through a trusted channel before marking a contact key verified. For example, importing a P-256 share into an RSA-2048 association must return an invalid-key error.

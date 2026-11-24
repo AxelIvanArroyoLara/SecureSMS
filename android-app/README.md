@@ -38,7 +38,7 @@ Physical-device carrier operation is pending validation. There is no sender sign
 
 ## Code and specifications
 
-The Kotlin app uses Jetpack Compose and Material 3, an Android ViewModel and StateFlow, Room, Android Keystore, and explicit app-level dependency wiring. `domain/` coordinates messaging, `crypto/` contains the engine contract and adapters, `protocol/` validates and reconstructs envelopes, `transport/` wraps SMS and simulation, and `data/` persists records and receipts.
+The Kotlin app uses Jetpack Compose and Material 3, an Android ViewModel and StateFlow, Room, Android Keystore, and explicit app-level dependency wiring. `domain/` coordinates messaging, `crypto/` contains the engine contract and adapters, `protocol/` validates and reconstructs envelopes, `transport/` wraps SMS and simulation, and `data/` persists records and receipts. Carrier SMS uses `EmilioRsaEngine` and `EmilioEccEngine`. The offline demo still uses the reversible test transform. The RSA/ECC timing study is in `../crypto-benchmark/`.
 
 - [Crypto integration](CRYPTO_INTEGRATION.md)
 - [SMS wire protocol](SMS_PROTOCOL.md)

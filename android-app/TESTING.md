@@ -27,7 +27,8 @@ The first Compose run caught a reentrant list-layout crash while switching demo 
 | Suite | Coverage |
 | --- | --- |
 | `ProtocolTest` | Maximum-size round trip, canonical frames, malformed input, unsupported version/suite, reordering, duplicates, mixed routes and expiration |
-| `CryptoTest` | Registry and missing engines, RSA-2048/3072 and P-256/P-384, invalid keys and ciphertext, authenticated metadata, measured timings and the deterministic mock |
+| `CryptoTest` | Registry and missing engines, reference hybrid profiles, Emilio engines against that reference in both directions, invalid keys and ciphertext, authenticated metadata, and the deterministic mock |
+| `HybridBenchmarkTest` | Skipped unless `-Pbenchmark=true`. Writes the 30-repetition CSV under `crypto-benchmark/results/` |
 | `SimulationTest` | Incoming fragments, ordering, duplicate receipts, dropped fragment and failed send |
 | `AndroidPipelineTest` | Room reopen, contact associations, status aggregation, simulation loopback, local history protection and the carrier transport's mock rejection, verified-key gate, decryption failures, Android Keystore round trips |
 | `DemoUiTest` | Start a conversation, compose and send, switch recipients, read the recovered message and inspect diagnostics |
@@ -40,4 +41,6 @@ Test reports are under `app/build/reports/tests/testDebugUnitTest/` and `app/bui
 - Repeat with **Missing segment** and **Send failure**. The outgoing record should report a failure and Bob should receive no new complete message.
 - For physical testing, follow the carrier setup in [README](README.md). Test RSA and ECC on two compatible devices, both directions, including a long message and a denied-permission case. Compare both payloads and callback statuses. An emulator can validate the application and Keystore but cannot establish carrier delivery behavior.
 
-Carrier sending, reception and delivery reports on physical SIMs remain unverified. External interoperability awaits Emilio's adapter.
+On 19 November 2026, `./gradlew testDebugUnitTest` on Linux passed 11 tests and skipped `HybridBenchmarkTest`. `./gradlew assembleDebug` produced the debug APK. `connectedDebugAndroidTest` was not repeated: `adb devices` listed no handset or emulator. The benchmark was run separately with `-Pbenchmark=true` and is summarized in `crypto-benchmark/RESULTS.md`.
+
+Carrier sending, reception and delivery reports on physical SIMs remain unverified. JVM interoperability between Emilio's engines and the reference hybrid is covered by `CryptoTest`. A Keystore run on a device is still outstanding.
