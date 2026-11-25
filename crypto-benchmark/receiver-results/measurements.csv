@@ -1,0 +1,721 @@
+block,profile,operation,plaintext_bytes,repetition,elapsed_ns,plaintext_matches,manufacturer,model,android_release,sdk_int
+receiver-keystore,RSA-2048,encrypt,15,1,426042,true,motorola,moto g32,15,35
+receiver-keystore,RSA-2048,decrypt,15,1,34236045,true,motorola,moto g32,15,35
+receiver-keystore,RSA-2048,encrypt,15,2,433073,true,motorola,moto g32,15,35
+receiver-keystore,RSA-2048,decrypt,15,2,33878389,true,motorola,moto g32,15,35
+receiver-keystore,RSA-2048,encrypt,15,3,417083,true,motorola,moto g32,15,35
+receiver-keystore,RSA-2048,decrypt,15,3,33467920,true,motorola,moto g32,15,35
+receiver-keystore,RSA-2048,encrypt,15,4,465469,true,motorola,moto g32,15,35
+receiver-keystore,RSA-2048,decrypt,15,4,33449586,true,motorola,moto g32,15,35
+receiver-keystore,RSA-2048,encrypt,15,5,442239,true,motorola,moto g32,15,35
+receiver-keystore,RSA-2048,decrypt,15,5,34041722,true,motorola,moto g32,15,35
+receiver-keystore,RSA-2048,encrypt,15,6,425730,true,motorola,moto g32,15,35
+receiver-keystore,RSA-2048,decrypt,15,6,33329327,true,motorola,moto g32,15,35
+receiver-keystore,RSA-2048,encrypt,15,7,407239,true,motorola,moto g32,15,35
+receiver-keystore,RSA-2048,decrypt,15,7,33289639,true,motorola,moto g32,15,35
+receiver-keystore,RSA-2048,encrypt,15,8,404219,true,motorola,moto g32,15,35
+receiver-keystore,RSA-2048,decrypt,15,8,33355004,true,motorola,moto g32,15,35
+receiver-keystore,RSA-2048,encrypt,15,9,412188,true,motorola,moto g32,15,35
+receiver-keystore,RSA-2048,decrypt,15,9,33024013,true,motorola,moto g32,15,35
+receiver-keystore,RSA-2048,encrypt,15,10,408438,true,motorola,moto g32,15,35
+receiver-keystore,RSA-2048,decrypt,15,10,33464951,true,motorola,moto g32,15,35
+receiver-keystore,RSA-2048,encrypt,15,11,417396,true,motorola,moto g32,15,35
+receiver-keystore,RSA-2048,decrypt,15,11,34647660,true,motorola,moto g32,15,35
+receiver-keystore,RSA-2048,encrypt,15,12,418541,true,motorola,moto g32,15,35
+receiver-keystore,RSA-2048,decrypt,15,12,33808233,true,motorola,moto g32,15,35
+receiver-keystore,RSA-2048,encrypt,15,13,420469,true,motorola,moto g32,15,35
+receiver-keystore,RSA-2048,decrypt,15,13,33097660,true,motorola,moto g32,15,35
+receiver-keystore,RSA-2048,encrypt,15,14,408907,true,motorola,moto g32,15,35
+receiver-keystore,RSA-2048,decrypt,15,14,33577347,true,motorola,moto g32,15,35
+receiver-keystore,RSA-2048,encrypt,15,15,447552,true,motorola,moto g32,15,35
+receiver-keystore,RSA-2048,decrypt,15,15,33756149,true,motorola,moto g32,15,35
+receiver-keystore,RSA-2048,encrypt,15,16,451979,true,motorola,moto g32,15,35
+receiver-keystore,RSA-2048,decrypt,15,16,34050784,true,motorola,moto g32,15,35
+receiver-keystore,RSA-2048,encrypt,15,17,408802,true,motorola,moto g32,15,35
+receiver-keystore,RSA-2048,decrypt,15,17,34223388,true,motorola,moto g32,15,35
+receiver-keystore,RSA-2048,encrypt,15,18,410989,true,motorola,moto g32,15,35
+receiver-keystore,RSA-2048,decrypt,15,18,33382191,true,motorola,moto g32,15,35
+receiver-keystore,RSA-2048,encrypt,15,19,548489,true,motorola,moto g32,15,35
+receiver-keystore,RSA-2048,decrypt,15,19,33389639,true,motorola,moto g32,15,35
+receiver-keystore,RSA-2048,encrypt,15,20,434532,true,motorola,moto g32,15,35
+receiver-keystore,RSA-2048,decrypt,15,20,33199379,true,motorola,moto g32,15,35
+receiver-keystore,RSA-2048,encrypt,15,21,458385,true,motorola,moto g32,15,35
+receiver-keystore,RSA-2048,decrypt,15,21,33565732,true,motorola,moto g32,15,35
+receiver-keystore,RSA-2048,encrypt,15,22,414584,true,motorola,moto g32,15,35
+receiver-keystore,RSA-2048,decrypt,15,22,34359430,true,motorola,moto g32,15,35
+receiver-keystore,RSA-2048,encrypt,15,23,418021,true,motorola,moto g32,15,35
+receiver-keystore,RSA-2048,decrypt,15,23,33473128,true,motorola,moto g32,15,35
+receiver-keystore,RSA-2048,encrypt,15,24,465886,true,motorola,moto g32,15,35
+receiver-keystore,RSA-2048,decrypt,15,24,34163910,true,motorola,moto g32,15,35
+receiver-keystore,RSA-2048,encrypt,15,25,427500,true,motorola,moto g32,15,35
+receiver-keystore,RSA-2048,decrypt,15,25,34245681,true,motorola,moto g32,15,35
+receiver-keystore,RSA-2048,encrypt,15,26,421823,true,motorola,moto g32,15,35
+receiver-keystore,RSA-2048,decrypt,15,26,33181879,true,motorola,moto g32,15,35
+receiver-keystore,RSA-2048,encrypt,15,27,443854,true,motorola,moto g32,15,35
+receiver-keystore,RSA-2048,decrypt,15,27,34723025,true,motorola,moto g32,15,35
+receiver-keystore,RSA-2048,encrypt,15,28,426094,true,motorola,moto g32,15,35
+receiver-keystore,RSA-2048,decrypt,15,28,33456409,true,motorola,moto g32,15,35
+receiver-keystore,RSA-2048,encrypt,15,29,419010,true,motorola,moto g32,15,35
+receiver-keystore,RSA-2048,decrypt,15,29,33165108,true,motorola,moto g32,15,35
+receiver-keystore,RSA-2048,encrypt,15,30,392240,true,motorola,moto g32,15,35
+receiver-keystore,RSA-2048,decrypt,15,30,30620003,true,motorola,moto g32,15,35
+receiver-keystore,RSA-2048,encrypt,200,1,458125,true,motorola,moto g32,15,35
+receiver-keystore,RSA-2048,decrypt,200,1,33040524,true,motorola,moto g32,15,35
+receiver-keystore,RSA-2048,encrypt,200,2,411823,true,motorola,moto g32,15,35
+receiver-keystore,RSA-2048,decrypt,200,2,32070629,true,motorola,moto g32,15,35
+receiver-keystore,RSA-2048,encrypt,200,3,402240,true,motorola,moto g32,15,35
+receiver-keystore,RSA-2048,decrypt,200,3,29192139,true,motorola,moto g32,15,35
+receiver-keystore,RSA-2048,encrypt,200,4,405782,true,motorola,moto g32,15,35
+receiver-keystore,RSA-2048,decrypt,200,4,30001931,true,motorola,moto g32,15,35
+receiver-keystore,RSA-2048,encrypt,200,5,418646,true,motorola,moto g32,15,35
+receiver-keystore,RSA-2048,decrypt,200,5,34184222,true,motorola,moto g32,15,35
+receiver-keystore,RSA-2048,encrypt,200,6,445625,true,motorola,moto g32,15,35
+receiver-keystore,RSA-2048,decrypt,200,6,32286045,true,motorola,moto g32,15,35
+receiver-keystore,RSA-2048,encrypt,200,7,425521,true,motorola,moto g32,15,35
+receiver-keystore,RSA-2048,decrypt,200,7,33764118,true,motorola,moto g32,15,35
+receiver-keystore,RSA-2048,encrypt,200,8,441094,true,motorola,moto g32,15,35
+receiver-keystore,RSA-2048,decrypt,200,8,34049274,true,motorola,moto g32,15,35
+receiver-keystore,RSA-2048,encrypt,200,9,476458,true,motorola,moto g32,15,35
+receiver-keystore,RSA-2048,decrypt,200,9,33909899,true,motorola,moto g32,15,35
+receiver-keystore,RSA-2048,encrypt,200,10,429896,true,motorola,moto g32,15,35
+receiver-keystore,RSA-2048,decrypt,200,10,35389795,true,motorola,moto g32,15,35
+receiver-keystore,RSA-2048,encrypt,200,11,511771,true,motorola,moto g32,15,35
+receiver-keystore,RSA-2048,decrypt,200,11,35211514,true,motorola,moto g32,15,35
+receiver-keystore,RSA-2048,encrypt,200,12,409479,true,motorola,moto g32,15,35
+receiver-keystore,RSA-2048,decrypt,200,12,33228129,true,motorola,moto g32,15,35
+receiver-keystore,RSA-2048,encrypt,200,13,416250,true,motorola,moto g32,15,35
+receiver-keystore,RSA-2048,decrypt,200,13,34147608,true,motorola,moto g32,15,35
+receiver-keystore,RSA-2048,encrypt,200,14,460000,true,motorola,moto g32,15,35
+receiver-keystore,RSA-2048,decrypt,200,14,35090941,true,motorola,moto g32,15,35
+receiver-keystore,RSA-2048,encrypt,200,15,871407,true,motorola,moto g32,15,35
+receiver-keystore,RSA-2048,decrypt,200,15,32126618,true,motorola,moto g32,15,35
+receiver-keystore,RSA-2048,encrypt,200,16,502291,true,motorola,moto g32,15,35
+receiver-keystore,RSA-2048,decrypt,200,16,32332399,true,motorola,moto g32,15,35
+receiver-keystore,RSA-2048,encrypt,200,17,419896,true,motorola,moto g32,15,35
+receiver-keystore,RSA-2048,decrypt,200,17,33665993,true,motorola,moto g32,15,35
+receiver-keystore,RSA-2048,encrypt,200,18,425625,true,motorola,moto g32,15,35
+receiver-keystore,RSA-2048,decrypt,200,18,35222191,true,motorola,moto g32,15,35
+receiver-keystore,RSA-2048,encrypt,200,19,425104,true,motorola,moto g32,15,35
+receiver-keystore,RSA-2048,decrypt,200,19,33444326,true,motorola,moto g32,15,35
+receiver-keystore,RSA-2048,encrypt,200,20,418437,true,motorola,moto g32,15,35
+receiver-keystore,RSA-2048,decrypt,200,20,33150003,true,motorola,moto g32,15,35
+receiver-keystore,RSA-2048,encrypt,200,21,452761,true,motorola,moto g32,15,35
+receiver-keystore,RSA-2048,decrypt,200,21,32188076,true,motorola,moto g32,15,35
+receiver-keystore,RSA-2048,encrypt,200,22,424062,true,motorola,moto g32,15,35
+receiver-keystore,RSA-2048,decrypt,200,22,33035524,true,motorola,moto g32,15,35
+receiver-keystore,RSA-2048,encrypt,200,23,429948,true,motorola,moto g32,15,35
+receiver-keystore,RSA-2048,decrypt,200,23,31859118,true,motorola,moto g32,15,35
+receiver-keystore,RSA-2048,encrypt,200,24,417083,true,motorola,moto g32,15,35
+receiver-keystore,RSA-2048,decrypt,200,24,32601514,true,motorola,moto g32,15,35
+receiver-keystore,RSA-2048,encrypt,200,25,450677,true,motorola,moto g32,15,35
+receiver-keystore,RSA-2048,decrypt,200,25,35452504,true,motorola,moto g32,15,35
+receiver-keystore,RSA-2048,encrypt,200,26,424010,true,motorola,moto g32,15,35
+receiver-keystore,RSA-2048,decrypt,200,26,33710264,true,motorola,moto g32,15,35
+receiver-keystore,RSA-2048,encrypt,200,27,834323,true,motorola,moto g32,15,35
+receiver-keystore,RSA-2048,decrypt,200,27,42672556,true,motorola,moto g32,15,35
+receiver-keystore,RSA-2048,encrypt,200,28,458489,true,motorola,moto g32,15,35
+receiver-keystore,RSA-2048,decrypt,200,28,31491670,true,motorola,moto g32,15,35
+receiver-keystore,RSA-2048,encrypt,200,29,394479,true,motorola,moto g32,15,35
+receiver-keystore,RSA-2048,decrypt,200,29,32878701,true,motorola,moto g32,15,35
+receiver-keystore,RSA-2048,encrypt,200,30,433334,true,motorola,moto g32,15,35
+receiver-keystore,RSA-2048,decrypt,200,30,34038857,true,motorola,moto g32,15,35
+receiver-keystore,RSA-2048,encrypt,1024,1,454323,true,motorola,moto g32,15,35
+receiver-keystore,RSA-2048,decrypt,1024,1,31317295,true,motorola,moto g32,15,35
+receiver-keystore,RSA-2048,encrypt,1024,2,456511,true,motorola,moto g32,15,35
+receiver-keystore,RSA-2048,decrypt,1024,2,30502712,true,motorola,moto g32,15,35
+receiver-keystore,RSA-2048,encrypt,1024,3,443021,true,motorola,moto g32,15,35
+receiver-keystore,RSA-2048,decrypt,1024,3,31990472,true,motorola,moto g32,15,35
+receiver-keystore,RSA-2048,encrypt,1024,4,440521,true,motorola,moto g32,15,35
+receiver-keystore,RSA-2048,decrypt,1024,4,33774795,true,motorola,moto g32,15,35
+receiver-keystore,RSA-2048,encrypt,1024,5,435365,true,motorola,moto g32,15,35
+receiver-keystore,RSA-2048,decrypt,1024,5,33569900,true,motorola,moto g32,15,35
+receiver-keystore,RSA-2048,encrypt,1024,6,435990,true,motorola,moto g32,15,35
+receiver-keystore,RSA-2048,decrypt,1024,6,32493129,true,motorola,moto g32,15,35
+receiver-keystore,RSA-2048,encrypt,1024,7,424219,true,motorola,moto g32,15,35
+receiver-keystore,RSA-2048,decrypt,1024,7,31227920,true,motorola,moto g32,15,35
+receiver-keystore,RSA-2048,encrypt,1024,8,477239,true,motorola,moto g32,15,35
+receiver-keystore,RSA-2048,decrypt,1024,8,33298337,true,motorola,moto g32,15,35
+receiver-keystore,RSA-2048,encrypt,1024,9,466771,true,motorola,moto g32,15,35
+receiver-keystore,RSA-2048,decrypt,1024,9,33470316,true,motorola,moto g32,15,35
+receiver-keystore,RSA-2048,encrypt,1024,10,452761,true,motorola,moto g32,15,35
+receiver-keystore,RSA-2048,decrypt,1024,10,31861722,true,motorola,moto g32,15,35
+receiver-keystore,RSA-2048,encrypt,1024,11,418541,true,motorola,moto g32,15,35
+receiver-keystore,RSA-2048,decrypt,1024,11,33483284,true,motorola,moto g32,15,35
+receiver-keystore,RSA-2048,encrypt,1024,12,438281,true,motorola,moto g32,15,35
+receiver-keystore,RSA-2048,decrypt,1024,12,31333440,true,motorola,moto g32,15,35
+receiver-keystore,RSA-2048,encrypt,1024,13,446250,true,motorola,moto g32,15,35
+receiver-keystore,RSA-2048,decrypt,1024,13,32966566,true,motorola,moto g32,15,35
+receiver-keystore,RSA-2048,encrypt,1024,14,472239,true,motorola,moto g32,15,35
+receiver-keystore,RSA-2048,decrypt,1024,14,33620108,true,motorola,moto g32,15,35
+receiver-keystore,RSA-2048,encrypt,1024,15,437969,true,motorola,moto g32,15,35
+receiver-keystore,RSA-2048,decrypt,1024,15,32131149,true,motorola,moto g32,15,35
+receiver-keystore,RSA-2048,encrypt,1024,16,442709,true,motorola,moto g32,15,35
+receiver-keystore,RSA-2048,decrypt,1024,16,33732399,true,motorola,moto g32,15,35
+receiver-keystore,RSA-2048,encrypt,1024,17,423645,true,motorola,moto g32,15,35
+receiver-keystore,RSA-2048,decrypt,1024,17,33193701,true,motorola,moto g32,15,35
+receiver-keystore,RSA-2048,encrypt,1024,18,422188,true,motorola,moto g32,15,35
+receiver-keystore,RSA-2048,decrypt,1024,18,32354431,true,motorola,moto g32,15,35
+receiver-keystore,RSA-2048,encrypt,1024,19,432187,true,motorola,moto g32,15,35
+receiver-keystore,RSA-2048,decrypt,1024,19,34368441,true,motorola,moto g32,15,35
+receiver-keystore,RSA-2048,encrypt,1024,20,436667,true,motorola,moto g32,15,35
+receiver-keystore,RSA-2048,decrypt,1024,20,30629535,true,motorola,moto g32,15,35
+receiver-keystore,RSA-2048,encrypt,1024,21,507708,true,motorola,moto g32,15,35
+receiver-keystore,RSA-2048,decrypt,1024,21,34979014,true,motorola,moto g32,15,35
+receiver-keystore,RSA-2048,encrypt,1024,22,460156,true,motorola,moto g32,15,35
+receiver-keystore,RSA-2048,decrypt,1024,22,33601305,true,motorola,moto g32,15,35
+receiver-keystore,RSA-2048,encrypt,1024,23,441979,true,motorola,moto g32,15,35
+receiver-keystore,RSA-2048,decrypt,1024,23,31174430,true,motorola,moto g32,15,35
+receiver-keystore,RSA-2048,encrypt,1024,24,514010,true,motorola,moto g32,15,35
+receiver-keystore,RSA-2048,decrypt,1024,24,34483389,true,motorola,moto g32,15,35
+receiver-keystore,RSA-2048,encrypt,1024,25,428541,true,motorola,moto g32,15,35
+receiver-keystore,RSA-2048,decrypt,1024,25,33962451,true,motorola,moto g32,15,35
+receiver-keystore,RSA-2048,encrypt,1024,26,425209,true,motorola,moto g32,15,35
+receiver-keystore,RSA-2048,decrypt,1024,26,31365732,true,motorola,moto g32,15,35
+receiver-keystore,RSA-2048,encrypt,1024,27,475885,true,motorola,moto g32,15,35
+receiver-keystore,RSA-2048,decrypt,1024,27,33674482,true,motorola,moto g32,15,35
+receiver-keystore,RSA-2048,encrypt,1024,28,448646,true,motorola,moto g32,15,35
+receiver-keystore,RSA-2048,decrypt,1024,28,33759587,true,motorola,moto g32,15,35
+receiver-keystore,RSA-2048,encrypt,1024,29,431666,true,motorola,moto g32,15,35
+receiver-keystore,RSA-2048,decrypt,1024,29,31564013,true,motorola,moto g32,15,35
+receiver-keystore,RSA-2048,encrypt,1024,30,445104,true,motorola,moto g32,15,35
+receiver-keystore,RSA-2048,decrypt,1024,30,33400420,true,motorola,moto g32,15,35
+receiver-keystore,RSA-3072,encrypt,15,1,540261,true,motorola,moto g32,15,35
+receiver-keystore,RSA-3072,decrypt,15,1,74513028,true,motorola,moto g32,15,35
+receiver-keystore,RSA-3072,encrypt,15,2,1186770,true,motorola,moto g32,15,35
+receiver-keystore,RSA-3072,decrypt,15,2,76081883,true,motorola,moto g32,15,35
+receiver-keystore,RSA-3072,encrypt,15,3,525000,true,motorola,moto g32,15,35
+receiver-keystore,RSA-3072,decrypt,15,3,72494851,true,motorola,moto g32,15,35
+receiver-keystore,RSA-3072,encrypt,15,4,755573,true,motorola,moto g32,15,35
+receiver-keystore,RSA-3072,decrypt,15,4,75940529,true,motorola,moto g32,15,35
+receiver-keystore,RSA-3072,encrypt,15,5,533021,true,motorola,moto g32,15,35
+receiver-keystore,RSA-3072,decrypt,15,5,73777039,true,motorola,moto g32,15,35
+receiver-keystore,RSA-3072,encrypt,15,6,565834,true,motorola,moto g32,15,35
+receiver-keystore,RSA-3072,decrypt,15,6,73652351,true,motorola,moto g32,15,35
+receiver-keystore,RSA-3072,encrypt,15,7,548438,true,motorola,moto g32,15,35
+receiver-keystore,RSA-3072,decrypt,15,7,73613028,true,motorola,moto g32,15,35
+receiver-keystore,RSA-3072,encrypt,15,8,582760,true,motorola,moto g32,15,35
+receiver-keystore,RSA-3072,decrypt,15,8,72220060,true,motorola,moto g32,15,35
+receiver-keystore,RSA-3072,encrypt,15,9,534271,true,motorola,moto g32,15,35
+receiver-keystore,RSA-3072,decrypt,15,9,73938028,true,motorola,moto g32,15,35
+receiver-keystore,RSA-3072,encrypt,15,10,518646,true,motorola,moto g32,15,35
+receiver-keystore,RSA-3072,decrypt,15,10,85747092,true,motorola,moto g32,15,35
+receiver-keystore,RSA-3072,encrypt,15,11,551823,true,motorola,moto g32,15,35
+receiver-keystore,RSA-3072,decrypt,15,11,70168601,true,motorola,moto g32,15,35
+receiver-keystore,RSA-3072,encrypt,15,12,519687,true,motorola,moto g32,15,35
+receiver-keystore,RSA-3072,decrypt,15,12,71548289,true,motorola,moto g32,15,35
+receiver-keystore,RSA-3072,encrypt,15,13,531615,true,motorola,moto g32,15,35
+receiver-keystore,RSA-3072,decrypt,15,13,72455268,true,motorola,moto g32,15,35
+receiver-keystore,RSA-3072,encrypt,15,14,596041,true,motorola,moto g32,15,35
+receiver-keystore,RSA-3072,decrypt,15,14,73843654,true,motorola,moto g32,15,35
+receiver-keystore,RSA-3072,encrypt,15,15,530990,true,motorola,moto g32,15,35
+receiver-keystore,RSA-3072,decrypt,15,15,74190580,true,motorola,moto g32,15,35
+receiver-keystore,RSA-3072,encrypt,15,16,546303,true,motorola,moto g32,15,35
+receiver-keystore,RSA-3072,decrypt,15,16,74766778,true,motorola,moto g32,15,35
+receiver-keystore,RSA-3072,encrypt,15,17,530000,true,motorola,moto g32,15,35
+receiver-keystore,RSA-3072,decrypt,15,17,73675737,true,motorola,moto g32,15,35
+receiver-keystore,RSA-3072,encrypt,15,18,543438,true,motorola,moto g32,15,35
+receiver-keystore,RSA-3072,decrypt,15,18,73389747,true,motorola,moto g32,15,35
+receiver-keystore,RSA-3072,encrypt,15,19,559636,true,motorola,moto g32,15,35
+receiver-keystore,RSA-3072,decrypt,15,19,74877559,true,motorola,moto g32,15,35
+receiver-keystore,RSA-3072,encrypt,15,20,596042,true,motorola,moto g32,15,35
+receiver-keystore,RSA-3072,decrypt,15,20,72650319,true,motorola,moto g32,15,35
+receiver-keystore,RSA-3072,encrypt,15,21,529740,true,motorola,moto g32,15,35
+receiver-keystore,RSA-3072,decrypt,15,21,73529070,true,motorola,moto g32,15,35
+receiver-keystore,RSA-3072,encrypt,15,22,546458,true,motorola,moto g32,15,35
+receiver-keystore,RSA-3072,decrypt,15,22,73514330,true,motorola,moto g32,15,35
+receiver-keystore,RSA-3072,encrypt,15,23,528125,true,motorola,moto g32,15,35
+receiver-keystore,RSA-3072,decrypt,15,23,92458498,true,motorola,moto g32,15,35
+receiver-keystore,RSA-3072,encrypt,15,24,558334,true,motorola,moto g32,15,35
+receiver-keystore,RSA-3072,decrypt,15,24,70792039,true,motorola,moto g32,15,35
+receiver-keystore,RSA-3072,encrypt,15,25,533334,true,motorola,moto g32,15,35
+receiver-keystore,RSA-3072,decrypt,15,25,73211153,true,motorola,moto g32,15,35
+receiver-keystore,RSA-3072,encrypt,15,26,534479,true,motorola,moto g32,15,35
+receiver-keystore,RSA-3072,decrypt,15,26,73211414,true,motorola,moto g32,15,35
+receiver-keystore,RSA-3072,encrypt,15,27,528230,true,motorola,moto g32,15,35
+receiver-keystore,RSA-3072,decrypt,15,27,73230893,true,motorola,moto g32,15,35
+receiver-keystore,RSA-3072,encrypt,15,28,573334,true,motorola,moto g32,15,35
+receiver-keystore,RSA-3072,decrypt,15,28,74004591,true,motorola,moto g32,15,35
+receiver-keystore,RSA-3072,encrypt,15,29,549740,true,motorola,moto g32,15,35
+receiver-keystore,RSA-3072,decrypt,15,29,73007767,true,motorola,moto g32,15,35
+receiver-keystore,RSA-3072,encrypt,15,30,567604,true,motorola,moto g32,15,35
+receiver-keystore,RSA-3072,decrypt,15,30,74302664,true,motorola,moto g32,15,35
+receiver-keystore,RSA-3072,encrypt,200,1,518542,true,motorola,moto g32,15,35
+receiver-keystore,RSA-3072,decrypt,200,1,73898705,true,motorola,moto g32,15,35
+receiver-keystore,RSA-3072,encrypt,200,2,530417,true,motorola,moto g32,15,35
+receiver-keystore,RSA-3072,decrypt,200,2,92343447,true,motorola,moto g32,15,35
+receiver-keystore,RSA-3072,encrypt,200,3,551875,true,motorola,moto g32,15,35
+receiver-keystore,RSA-3072,decrypt,200,3,73628862,true,motorola,moto g32,15,35
+receiver-keystore,RSA-3072,encrypt,200,4,557448,true,motorola,moto g32,15,35
+receiver-keystore,RSA-3072,decrypt,200,4,70997559,true,motorola,moto g32,15,35
+receiver-keystore,RSA-3072,encrypt,200,5,532604,true,motorola,moto g32,15,35
+receiver-keystore,RSA-3072,decrypt,200,5,73593080,true,motorola,moto g32,15,35
+receiver-keystore,RSA-3072,encrypt,200,6,523281,true,motorola,moto g32,15,35
+receiver-keystore,RSA-3072,decrypt,200,6,74039174,true,motorola,moto g32,15,35
+receiver-keystore,RSA-3072,encrypt,200,7,529062,true,motorola,moto g32,15,35
+receiver-keystore,RSA-3072,decrypt,200,7,74120997,true,motorola,moto g32,15,35
+receiver-keystore,RSA-3072,encrypt,200,8,549375,true,motorola,moto g32,15,35
+receiver-keystore,RSA-3072,decrypt,200,8,72051934,true,motorola,moto g32,15,35
+receiver-keystore,RSA-3072,encrypt,200,9,506979,true,motorola,moto g32,15,35
+receiver-keystore,RSA-3072,decrypt,200,9,74061205,true,motorola,moto g32,15,35
+receiver-keystore,RSA-3072,encrypt,200,10,535104,true,motorola,moto g32,15,35
+receiver-keystore,RSA-3072,decrypt,200,10,73154069,true,motorola,moto g32,15,35
+receiver-keystore,RSA-3072,encrypt,200,11,560001,true,motorola,moto g32,15,35
+receiver-keystore,RSA-3072,decrypt,200,11,73692090,true,motorola,moto g32,15,35
+receiver-keystore,RSA-3072,encrypt,200,12,525469,true,motorola,moto g32,15,35
+receiver-keystore,RSA-3072,decrypt,200,12,73114695,true,motorola,moto g32,15,35
+receiver-keystore,RSA-3072,encrypt,200,13,559219,true,motorola,moto g32,15,35
+receiver-keystore,RSA-3072,decrypt,200,13,73287559,true,motorola,moto g32,15,35
+receiver-keystore,RSA-3072,encrypt,200,14,553802,true,motorola,moto g32,15,35
+receiver-keystore,RSA-3072,decrypt,200,14,72647819,true,motorola,moto g32,15,35
+receiver-keystore,RSA-3072,encrypt,200,15,535052,true,motorola,moto g32,15,35
+receiver-keystore,RSA-3072,decrypt,200,15,73251830,true,motorola,moto g32,15,35
+receiver-keystore,RSA-3072,encrypt,200,16,568906,true,motorola,moto g32,15,35
+receiver-keystore,RSA-3072,decrypt,200,16,72613497,true,motorola,moto g32,15,35
+receiver-keystore,RSA-3072,encrypt,200,17,533855,true,motorola,moto g32,15,35
+receiver-keystore,RSA-3072,decrypt,200,17,74328028,true,motorola,moto g32,15,35
+receiver-keystore,RSA-3072,encrypt,200,18,595104,true,motorola,moto g32,15,35
+receiver-keystore,RSA-3072,decrypt,200,18,72022455,true,motorola,moto g32,15,35
+receiver-keystore,RSA-3072,encrypt,200,19,526927,true,motorola,moto g32,15,35
+receiver-keystore,RSA-3072,decrypt,200,19,92290947,true,motorola,moto g32,15,35
+receiver-keystore,RSA-3072,encrypt,200,20,546093,true,motorola,moto g32,15,35
+receiver-keystore,RSA-3072,decrypt,200,20,72083653,true,motorola,moto g32,15,35
+receiver-keystore,RSA-3072,encrypt,200,21,529792,true,motorola,moto g32,15,35
+receiver-keystore,RSA-3072,decrypt,200,21,74700268,true,motorola,moto g32,15,35
+receiver-keystore,RSA-3072,encrypt,200,22,528541,true,motorola,moto g32,15,35
+receiver-keystore,RSA-3072,decrypt,200,22,71798028,true,motorola,moto g32,15,35
+receiver-keystore,RSA-3072,encrypt,200,23,507083,true,motorola,moto g32,15,35
+receiver-keystore,RSA-3072,decrypt,200,23,84097664,true,motorola,moto g32,15,35
+receiver-keystore,RSA-3072,encrypt,200,24,540209,true,motorola,moto g32,15,35
+receiver-keystore,RSA-3072,decrypt,200,24,71901205,true,motorola,moto g32,15,35
+receiver-keystore,RSA-3072,encrypt,200,25,535208,true,motorola,moto g32,15,35
+receiver-keystore,RSA-3072,decrypt,200,25,79557300,true,motorola,moto g32,15,35
+receiver-keystore,RSA-3072,encrypt,200,26,539375,true,motorola,moto g32,15,35
+receiver-keystore,RSA-3072,decrypt,200,26,73336465,true,motorola,moto g32,15,35
+receiver-keystore,RSA-3072,encrypt,200,27,544531,true,motorola,moto g32,15,35
+receiver-keystore,RSA-3072,decrypt,200,27,73201309,true,motorola,moto g32,15,35
+receiver-keystore,RSA-3072,encrypt,200,28,522864,true,motorola,moto g32,15,35
+receiver-keystore,RSA-3072,decrypt,200,28,72543861,true,motorola,moto g32,15,35
+receiver-keystore,RSA-3072,encrypt,200,29,571771,true,motorola,moto g32,15,35
+receiver-keystore,RSA-3072,decrypt,200,29,73766206,true,motorola,moto g32,15,35
+receiver-keystore,RSA-3072,encrypt,200,30,584271,true,motorola,moto g32,15,35
+receiver-keystore,RSA-3072,decrypt,200,30,72217976,true,motorola,moto g32,15,35
+receiver-keystore,RSA-3072,encrypt,1024,1,640781,true,motorola,moto g32,15,35
+receiver-keystore,RSA-3072,decrypt,1024,1,73914070,true,motorola,moto g32,15,35
+receiver-keystore,RSA-3072,encrypt,1024,2,572084,true,motorola,moto g32,15,35
+receiver-keystore,RSA-3072,decrypt,1024,2,71539903,true,motorola,moto g32,15,35
+receiver-keystore,RSA-3072,encrypt,1024,3,547136,true,motorola,moto g32,15,35
+receiver-keystore,RSA-3072,decrypt,1024,3,73610944,true,motorola,moto g32,15,35
+receiver-keystore,RSA-3072,encrypt,1024,4,544688,true,motorola,moto g32,15,35
+receiver-keystore,RSA-3072,decrypt,1024,4,72942924,true,motorola,moto g32,15,35
+receiver-keystore,RSA-3072,encrypt,1024,5,539011,true,motorola,moto g32,15,35
+receiver-keystore,RSA-3072,decrypt,1024,5,72115788,true,motorola,moto g32,15,35
+receiver-keystore,RSA-3072,encrypt,1024,6,559271,true,motorola,moto g32,15,35
+receiver-keystore,RSA-3072,decrypt,1024,6,73398705,true,motorola,moto g32,15,35
+receiver-keystore,RSA-3072,encrypt,1024,7,578230,true,motorola,moto g32,15,35
+receiver-keystore,RSA-3072,decrypt,1024,7,71479382,true,motorola,moto g32,15,35
+receiver-keystore,RSA-3072,encrypt,1024,8,554063,true,motorola,moto g32,15,35
+receiver-keystore,RSA-3072,decrypt,1024,8,73917039,true,motorola,moto g32,15,35
+receiver-keystore,RSA-3072,encrypt,1024,9,585417,true,motorola,moto g32,15,35
+receiver-keystore,RSA-3072,decrypt,1024,9,78425164,true,motorola,moto g32,15,35
+receiver-keystore,RSA-3072,encrypt,1024,10,546146,true,motorola,moto g32,15,35
+receiver-keystore,RSA-3072,decrypt,1024,10,74075789,true,motorola,moto g32,15,35
+receiver-keystore,RSA-3072,encrypt,1024,11,534740,true,motorola,moto g32,15,35
+receiver-keystore,RSA-3072,decrypt,1024,11,75053288,true,motorola,moto g32,15,35
+receiver-keystore,RSA-3072,encrypt,1024,12,527656,true,motorola,moto g32,15,35
+receiver-keystore,RSA-3072,decrypt,1024,12,73061205,true,motorola,moto g32,15,35
+receiver-keystore,RSA-3072,encrypt,1024,13,600104,true,motorola,moto g32,15,35
+receiver-keystore,RSA-3072,decrypt,1024,13,74107090,true,motorola,moto g32,15,35
+receiver-keystore,RSA-3072,encrypt,1024,14,548125,true,motorola,moto g32,15,35
+receiver-keystore,RSA-3072,decrypt,1024,14,73906934,true,motorola,moto g32,15,35
+receiver-keystore,RSA-3072,encrypt,1024,15,541927,true,motorola,moto g32,15,35
+receiver-keystore,RSA-3072,decrypt,1024,15,71062663,true,motorola,moto g32,15,35
+receiver-keystore,RSA-3072,encrypt,1024,16,670209,true,motorola,moto g32,15,35
+receiver-keystore,RSA-3072,decrypt,1024,16,74469487,true,motorola,moto g32,15,35
+receiver-keystore,RSA-3072,encrypt,1024,17,547448,true,motorola,moto g32,15,35
+receiver-keystore,RSA-3072,decrypt,1024,17,73890737,true,motorola,moto g32,15,35
+receiver-keystore,RSA-3072,encrypt,1024,18,541875,true,motorola,moto g32,15,35
+receiver-keystore,RSA-3072,decrypt,1024,18,71672351,true,motorola,moto g32,15,35
+receiver-keystore,RSA-3072,encrypt,1024,19,609375,true,motorola,moto g32,15,35
+receiver-keystore,RSA-3072,decrypt,1024,19,73823757,true,motorola,moto g32,15,35
+receiver-keystore,RSA-3072,encrypt,1024,20,556510,true,motorola,moto g32,15,35
+receiver-keystore,RSA-3072,decrypt,1024,20,74633028,true,motorola,moto g32,15,35
+receiver-keystore,RSA-3072,encrypt,1024,21,553386,true,motorola,moto g32,15,35
+receiver-keystore,RSA-3072,decrypt,1024,21,71603080,true,motorola,moto g32,15,35
+receiver-keystore,RSA-3072,encrypt,1024,22,610521,true,motorola,moto g32,15,35
+receiver-keystore,RSA-3072,decrypt,1024,22,73993497,true,motorola,moto g32,15,35
+receiver-keystore,RSA-3072,encrypt,1024,23,515104,true,motorola,moto g32,15,35
+receiver-keystore,RSA-3072,decrypt,1024,23,72058496,true,motorola,moto g32,15,35
+receiver-keystore,RSA-3072,encrypt,1024,24,539115,true,motorola,moto g32,15,35
+receiver-keystore,RSA-3072,decrypt,1024,24,73912142,true,motorola,moto g32,15,35
+receiver-keystore,RSA-3072,encrypt,1024,25,550469,true,motorola,moto g32,15,35
+receiver-keystore,RSA-3072,decrypt,1024,25,73562976,true,motorola,moto g32,15,35
+receiver-keystore,RSA-3072,encrypt,1024,26,703959,true,motorola,moto g32,15,35
+receiver-keystore,RSA-3072,decrypt,1024,26,73331153,true,motorola,moto g32,15,35
+receiver-keystore,RSA-3072,encrypt,1024,27,540417,true,motorola,moto g32,15,35
+receiver-keystore,RSA-3072,decrypt,1024,27,70502611,true,motorola,moto g32,15,35
+receiver-keystore,RSA-3072,encrypt,1024,28,579948,true,motorola,moto g32,15,35
+receiver-keystore,RSA-3072,decrypt,1024,28,72701987,true,motorola,moto g32,15,35
+receiver-keystore,RSA-3072,encrypt,1024,29,556823,true,motorola,moto g32,15,35
+receiver-keystore,RSA-3072,decrypt,1024,29,72097767,true,motorola,moto g32,15,35
+receiver-keystore,RSA-3072,encrypt,1024,30,584115,true,motorola,moto g32,15,35
+receiver-keystore,RSA-3072,decrypt,1024,30,71635372,true,motorola,moto g32,15,35
+receiver-keystore,ECC P-256,encrypt,15,1,1306042,true,motorola,moto g32,15,35
+receiver-keystore,ECC P-256,decrypt,15,1,6036824,true,motorola,moto g32,15,35
+receiver-keystore,ECC P-256,encrypt,15,2,1320990,true,motorola,moto g32,15,35
+receiver-keystore,ECC P-256,decrypt,15,2,6052188,true,motorola,moto g32,15,35
+receiver-keystore,ECC P-256,encrypt,15,3,1007969,true,motorola,moto g32,15,35
+receiver-keystore,ECC P-256,decrypt,15,3,5015990,true,motorola,moto g32,15,35
+receiver-keystore,ECC P-256,encrypt,15,4,1072396,true,motorola,moto g32,15,35
+receiver-keystore,ECC P-256,decrypt,15,4,5029219,true,motorola,moto g32,15,35
+receiver-keystore,ECC P-256,encrypt,15,5,1074376,true,motorola,moto g32,15,35
+receiver-keystore,ECC P-256,decrypt,15,5,4678178,true,motorola,moto g32,15,35
+receiver-keystore,ECC P-256,encrypt,15,6,854010,true,motorola,moto g32,15,35
+receiver-keystore,ECC P-256,decrypt,15,6,4213542,true,motorola,moto g32,15,35
+receiver-keystore,ECC P-256,encrypt,15,7,852813,true,motorola,moto g32,15,35
+receiver-keystore,ECC P-256,decrypt,15,7,3830886,true,motorola,moto g32,15,35
+receiver-keystore,ECC P-256,encrypt,15,8,800209,true,motorola,moto g32,15,35
+receiver-keystore,ECC P-256,decrypt,15,8,4016719,true,motorola,moto g32,15,35
+receiver-keystore,ECC P-256,encrypt,15,9,737239,true,motorola,moto g32,15,35
+receiver-keystore,ECC P-256,decrypt,15,9,3571771,true,motorola,moto g32,15,35
+receiver-keystore,ECC P-256,encrypt,15,10,799688,true,motorola,moto g32,15,35
+receiver-keystore,ECC P-256,decrypt,15,10,3536615,true,motorola,moto g32,15,35
+receiver-keystore,ECC P-256,encrypt,15,11,732969,true,motorola,moto g32,15,35
+receiver-keystore,ECC P-256,decrypt,15,11,3559011,true,motorola,moto g32,15,35
+receiver-keystore,ECC P-256,encrypt,15,12,789687,true,motorola,moto g32,15,35
+receiver-keystore,ECC P-256,decrypt,15,12,3563438,true,motorola,moto g32,15,35
+receiver-keystore,ECC P-256,encrypt,15,13,732344,true,motorola,moto g32,15,35
+receiver-keystore,ECC P-256,decrypt,15,13,3599375,true,motorola,moto g32,15,35
+receiver-keystore,ECC P-256,encrypt,15,14,737605,true,motorola,moto g32,15,35
+receiver-keystore,ECC P-256,decrypt,15,14,3538646,true,motorola,moto g32,15,35
+receiver-keystore,ECC P-256,encrypt,15,15,730157,true,motorola,moto g32,15,35
+receiver-keystore,ECC P-256,decrypt,15,15,3558803,true,motorola,moto g32,15,35
+receiver-keystore,ECC P-256,encrypt,15,16,733594,true,motorola,moto g32,15,35
+receiver-keystore,ECC P-256,decrypt,15,16,3539115,true,motorola,moto g32,15,35
+receiver-keystore,ECC P-256,encrypt,15,17,737136,true,motorola,moto g32,15,35
+receiver-keystore,ECC P-256,decrypt,15,17,3510104,true,motorola,moto g32,15,35
+receiver-keystore,ECC P-256,encrypt,15,18,729270,true,motorola,moto g32,15,35
+receiver-keystore,ECC P-256,decrypt,15,18,3910208,true,motorola,moto g32,15,35
+receiver-keystore,ECC P-256,encrypt,15,19,812813,true,motorola,moto g32,15,35
+receiver-keystore,ECC P-256,decrypt,15,19,8217449,true,motorola,moto g32,15,35
+receiver-keystore,ECC P-256,encrypt,15,20,1109792,true,motorola,moto g32,15,35
+receiver-keystore,ECC P-256,decrypt,15,20,4711459,true,motorola,moto g32,15,35
+receiver-keystore,ECC P-256,encrypt,15,21,817709,true,motorola,moto g32,15,35
+receiver-keystore,ECC P-256,decrypt,15,21,4386928,true,motorola,moto g32,15,35
+receiver-keystore,ECC P-256,encrypt,15,22,818646,true,motorola,moto g32,15,35
+receiver-keystore,ECC P-256,decrypt,15,22,4070417,true,motorola,moto g32,15,35
+receiver-keystore,ECC P-256,encrypt,15,23,836406,true,motorola,moto g32,15,35
+receiver-keystore,ECC P-256,decrypt,15,23,3922605,true,motorola,moto g32,15,35
+receiver-keystore,ECC P-256,encrypt,15,24,802812,true,motorola,moto g32,15,35
+receiver-keystore,ECC P-256,decrypt,15,24,3879844,true,motorola,moto g32,15,35
+receiver-keystore,ECC P-256,encrypt,15,25,802031,true,motorola,moto g32,15,35
+receiver-keystore,ECC P-256,decrypt,15,25,3943126,true,motorola,moto g32,15,35
+receiver-keystore,ECC P-256,encrypt,15,26,806302,true,motorola,moto g32,15,35
+receiver-keystore,ECC P-256,decrypt,15,26,3905730,true,motorola,moto g32,15,35
+receiver-keystore,ECC P-256,encrypt,15,27,863229,true,motorola,moto g32,15,35
+receiver-keystore,ECC P-256,decrypt,15,27,4036719,true,motorola,moto g32,15,35
+receiver-keystore,ECC P-256,encrypt,15,28,794479,true,motorola,moto g32,15,35
+receiver-keystore,ECC P-256,decrypt,15,28,3808334,true,motorola,moto g32,15,35
+receiver-keystore,ECC P-256,encrypt,15,29,802604,true,motorola,moto g32,15,35
+receiver-keystore,ECC P-256,decrypt,15,29,3727865,true,motorola,moto g32,15,35
+receiver-keystore,ECC P-256,encrypt,15,30,757969,true,motorola,moto g32,15,35
+receiver-keystore,ECC P-256,decrypt,15,30,3540469,true,motorola,moto g32,15,35
+receiver-keystore,ECC P-256,encrypt,200,1,732396,true,motorola,moto g32,15,35
+receiver-keystore,ECC P-256,decrypt,200,1,3644115,true,motorola,moto g32,15,35
+receiver-keystore,ECC P-256,encrypt,200,2,784583,true,motorola,moto g32,15,35
+receiver-keystore,ECC P-256,decrypt,200,2,3577344,true,motorola,moto g32,15,35
+receiver-keystore,ECC P-256,encrypt,200,3,742864,true,motorola,moto g32,15,35
+receiver-keystore,ECC P-256,decrypt,200,3,3561824,true,motorola,moto g32,15,35
+receiver-keystore,ECC P-256,encrypt,200,4,743438,true,motorola,moto g32,15,35
+receiver-keystore,ECC P-256,decrypt,200,4,3602969,true,motorola,moto g32,15,35
+receiver-keystore,ECC P-256,encrypt,200,5,842448,true,motorola,moto g32,15,35
+receiver-keystore,ECC P-256,decrypt,200,5,3534271,true,motorola,moto g32,15,35
+receiver-keystore,ECC P-256,encrypt,200,6,740416,true,motorola,moto g32,15,35
+receiver-keystore,ECC P-256,decrypt,200,6,3527032,true,motorola,moto g32,15,35
+receiver-keystore,ECC P-256,encrypt,200,7,743959,true,motorola,moto g32,15,35
+receiver-keystore,ECC P-256,decrypt,200,7,3480313,true,motorola,moto g32,15,35
+receiver-keystore,ECC P-256,encrypt,200,8,733125,true,motorola,moto g32,15,35
+receiver-keystore,ECC P-256,decrypt,200,8,3591094,true,motorola,moto g32,15,35
+receiver-keystore,ECC P-256,encrypt,200,9,738385,true,motorola,moto g32,15,35
+receiver-keystore,ECC P-256,decrypt,200,9,3558802,true,motorola,moto g32,15,35
+receiver-keystore,ECC P-256,encrypt,200,10,737188,true,motorola,moto g32,15,35
+receiver-keystore,ECC P-256,decrypt,200,10,3515834,true,motorola,moto g32,15,35
+receiver-keystore,ECC P-256,encrypt,200,11,735781,true,motorola,moto g32,15,35
+receiver-keystore,ECC P-256,decrypt,200,11,3551875,true,motorola,moto g32,15,35
+receiver-keystore,ECC P-256,encrypt,200,12,739011,true,motorola,moto g32,15,35
+receiver-keystore,ECC P-256,decrypt,200,12,3670312,true,motorola,moto g32,15,35
+receiver-keystore,ECC P-256,encrypt,200,13,764166,true,motorola,moto g32,15,35
+receiver-keystore,ECC P-256,decrypt,200,13,3561563,true,motorola,moto g32,15,35
+receiver-keystore,ECC P-256,encrypt,200,14,733229,true,motorola,moto g32,15,35
+receiver-keystore,ECC P-256,decrypt,200,14,3559949,true,motorola,moto g32,15,35
+receiver-keystore,ECC P-256,encrypt,200,15,737812,true,motorola,moto g32,15,35
+receiver-keystore,ECC P-256,decrypt,200,15,3623230,true,motorola,moto g32,15,35
+receiver-keystore,ECC P-256,encrypt,200,16,829895,true,motorola,moto g32,15,35
+receiver-keystore,ECC P-256,decrypt,200,16,3535105,true,motorola,moto g32,15,35
+receiver-keystore,ECC P-256,encrypt,200,17,743177,true,motorola,moto g32,15,35
+receiver-keystore,ECC P-256,decrypt,200,17,3543750,true,motorola,moto g32,15,35
+receiver-keystore,ECC P-256,encrypt,200,18,738698,true,motorola,moto g32,15,35
+receiver-keystore,ECC P-256,decrypt,200,18,3533334,true,motorola,moto g32,15,35
+receiver-keystore,ECC P-256,encrypt,200,19,808907,true,motorola,moto g32,15,35
+receiver-keystore,ECC P-256,decrypt,200,19,3588750,true,motorola,moto g32,15,35
+receiver-keystore,ECC P-256,encrypt,200,20,740000,true,motorola,moto g32,15,35
+receiver-keystore,ECC P-256,decrypt,200,20,3553542,true,motorola,moto g32,15,35
+receiver-keystore,ECC P-256,encrypt,200,21,745313,true,motorola,moto g32,15,35
+receiver-keystore,ECC P-256,decrypt,200,21,3501354,true,motorola,moto g32,15,35
+receiver-keystore,ECC P-256,encrypt,200,22,737864,true,motorola,moto g32,15,35
+receiver-keystore,ECC P-256,decrypt,200,22,3514584,true,motorola,moto g32,15,35
+receiver-keystore,ECC P-256,encrypt,200,23,742604,true,motorola,moto g32,15,35
+receiver-keystore,ECC P-256,decrypt,200,23,3614011,true,motorola,moto g32,15,35
+receiver-keystore,ECC P-256,encrypt,200,24,765626,true,motorola,moto g32,15,35
+receiver-keystore,ECC P-256,decrypt,200,24,3523490,true,motorola,moto g32,15,35
+receiver-keystore,ECC P-256,encrypt,200,25,745052,true,motorola,moto g32,15,35
+receiver-keystore,ECC P-256,decrypt,200,25,3577083,true,motorola,moto g32,15,35
+receiver-keystore,ECC P-256,encrypt,200,26,744062,true,motorola,moto g32,15,35
+receiver-keystore,ECC P-256,decrypt,200,26,3656250,true,motorola,moto g32,15,35
+receiver-keystore,ECC P-256,encrypt,200,27,837760,true,motorola,moto g32,15,35
+receiver-keystore,ECC P-256,decrypt,200,27,3530989,true,motorola,moto g32,15,35
+receiver-keystore,ECC P-256,encrypt,200,28,736354,true,motorola,moto g32,15,35
+receiver-keystore,ECC P-256,decrypt,200,28,3530886,true,motorola,moto g32,15,35
+receiver-keystore,ECC P-256,encrypt,200,29,736511,true,motorola,moto g32,15,35
+receiver-keystore,ECC P-256,decrypt,200,29,3475990,true,motorola,moto g32,15,35
+receiver-keystore,ECC P-256,encrypt,200,30,933906,true,motorola,moto g32,15,35
+receiver-keystore,ECC P-256,decrypt,200,30,4045886,true,motorola,moto g32,15,35
+receiver-keystore,ECC P-256,encrypt,1024,1,832708,true,motorola,moto g32,15,35
+receiver-keystore,ECC P-256,decrypt,1024,1,4089688,true,motorola,moto g32,15,35
+receiver-keystore,ECC P-256,encrypt,1024,2,879010,true,motorola,moto g32,15,35
+receiver-keystore,ECC P-256,decrypt,1024,2,4125938,true,motorola,moto g32,15,35
+receiver-keystore,ECC P-256,encrypt,1024,3,817135,true,motorola,moto g32,15,35
+receiver-keystore,ECC P-256,decrypt,1024,3,4014584,true,motorola,moto g32,15,35
+receiver-keystore,ECC P-256,encrypt,1024,4,749896,true,motorola,moto g32,15,35
+receiver-keystore,ECC P-256,decrypt,1024,4,3791458,true,motorola,moto g32,15,35
+receiver-keystore,ECC P-256,encrypt,1024,5,750886,true,motorola,moto g32,15,35
+receiver-keystore,ECC P-256,decrypt,1024,5,3667292,true,motorola,moto g32,15,35
+receiver-keystore,ECC P-256,encrypt,1024,6,749739,true,motorola,moto g32,15,35
+receiver-keystore,ECC P-256,decrypt,1024,6,3678281,true,motorola,moto g32,15,35
+receiver-keystore,ECC P-256,encrypt,1024,7,748073,true,motorola,moto g32,15,35
+receiver-keystore,ECC P-256,decrypt,1024,7,3669480,true,motorola,moto g32,15,35
+receiver-keystore,ECC P-256,encrypt,1024,8,747135,true,motorola,moto g32,15,35
+receiver-keystore,ECC P-256,decrypt,1024,8,3638647,true,motorola,moto g32,15,35
+receiver-keystore,ECC P-256,encrypt,1024,9,763282,true,motorola,moto g32,15,35
+receiver-keystore,ECC P-256,decrypt,1024,9,3720469,true,motorola,moto g32,15,35
+receiver-keystore,ECC P-256,encrypt,1024,10,743281,true,motorola,moto g32,15,35
+receiver-keystore,ECC P-256,decrypt,1024,10,3685209,true,motorola,moto g32,15,35
+receiver-keystore,ECC P-256,encrypt,1024,11,748959,true,motorola,moto g32,15,35
+receiver-keystore,ECC P-256,decrypt,1024,11,3661198,true,motorola,moto g32,15,35
+receiver-keystore,ECC P-256,encrypt,1024,12,744323,true,motorola,moto g32,15,35
+receiver-keystore,ECC P-256,decrypt,1024,12,3806719,true,motorola,moto g32,15,35
+receiver-keystore,ECC P-256,encrypt,1024,13,757083,true,motorola,moto g32,15,35
+receiver-keystore,ECC P-256,decrypt,1024,13,3745990,true,motorola,moto g32,15,35
+receiver-keystore,ECC P-256,encrypt,1024,14,746979,true,motorola,moto g32,15,35
+receiver-keystore,ECC P-256,decrypt,1024,14,3683750,true,motorola,moto g32,15,35
+receiver-keystore,ECC P-256,encrypt,1024,15,744584,true,motorola,moto g32,15,35
+receiver-keystore,ECC P-256,decrypt,1024,15,3683803,true,motorola,moto g32,15,35
+receiver-keystore,ECC P-256,encrypt,1024,16,743229,true,motorola,moto g32,15,35
+receiver-keystore,ECC P-256,decrypt,1024,16,3638594,true,motorola,moto g32,15,35
+receiver-keystore,ECC P-256,encrypt,1024,17,745521,true,motorola,moto g32,15,35
+receiver-keystore,ECC P-256,decrypt,1024,17,5619064,true,motorola,moto g32,15,35
+receiver-keystore,ECC P-256,encrypt,1024,18,810625,true,motorola,moto g32,15,35
+receiver-keystore,ECC P-256,decrypt,1024,18,9697084,true,motorola,moto g32,15,35
+receiver-keystore,ECC P-256,encrypt,1024,19,828489,true,motorola,moto g32,15,35
+receiver-keystore,ECC P-256,decrypt,1024,19,4336198,true,motorola,moto g32,15,35
+receiver-keystore,ECC P-256,encrypt,1024,20,820729,true,motorola,moto g32,15,35
+receiver-keystore,ECC P-256,decrypt,1024,20,3930677,true,motorola,moto g32,15,35
+receiver-keystore,ECC P-256,encrypt,1024,21,806615,true,motorola,moto g32,15,35
+receiver-keystore,ECC P-256,decrypt,1024,21,4019792,true,motorola,moto g32,15,35
+receiver-keystore,ECC P-256,encrypt,1024,22,838386,true,motorola,moto g32,15,35
+receiver-keystore,ECC P-256,decrypt,1024,22,3996980,true,motorola,moto g32,15,35
+receiver-keystore,ECC P-256,encrypt,1024,23,883333,true,motorola,moto g32,15,35
+receiver-keystore,ECC P-256,decrypt,1024,23,6018178,true,motorola,moto g32,15,35
+receiver-keystore,ECC P-256,encrypt,1024,24,762657,true,motorola,moto g32,15,35
+receiver-keystore,ECC P-256,decrypt,1024,24,4708750,true,motorola,moto g32,15,35
+receiver-keystore,ECC P-256,encrypt,1024,25,866719,true,motorola,moto g32,15,35
+receiver-keystore,ECC P-256,decrypt,1024,25,6047552,true,motorola,moto g32,15,35
+receiver-keystore,ECC P-256,encrypt,1024,26,833437,true,motorola,moto g32,15,35
+receiver-keystore,ECC P-256,decrypt,1024,26,6325105,true,motorola,moto g32,15,35
+receiver-keystore,ECC P-256,encrypt,1024,27,834636,true,motorola,moto g32,15,35
+receiver-keystore,ECC P-256,decrypt,1024,27,5295365,true,motorola,moto g32,15,35
+receiver-keystore,ECC P-256,encrypt,1024,28,805000,true,motorola,moto g32,15,35
+receiver-keystore,ECC P-256,decrypt,1024,28,4955417,true,motorola,moto g32,15,35
+receiver-keystore,ECC P-256,encrypt,1024,29,804635,true,motorola,moto g32,15,35
+receiver-keystore,ECC P-256,decrypt,1024,29,4956042,true,motorola,moto g32,15,35
+receiver-keystore,ECC P-256,encrypt,1024,30,842604,true,motorola,moto g32,15,35
+receiver-keystore,ECC P-256,decrypt,1024,30,5245781,true,motorola,moto g32,15,35
+receiver-keystore,ECC P-384,encrypt,15,1,3795261,true,motorola,moto g32,15,35
+receiver-keystore,ECC P-384,decrypt,15,1,9899585,true,motorola,moto g32,15,35
+receiver-keystore,ECC P-384,encrypt,15,2,3840781,true,motorola,moto g32,15,35
+receiver-keystore,ECC P-384,decrypt,15,2,9888438,true,motorola,moto g32,15,35
+receiver-keystore,ECC P-384,encrypt,15,3,4042084,true,motorola,moto g32,15,35
+receiver-keystore,ECC P-384,decrypt,15,3,10063803,true,motorola,moto g32,15,35
+receiver-keystore,ECC P-384,encrypt,15,4,3852813,true,motorola,moto g32,15,35
+receiver-keystore,ECC P-384,decrypt,15,4,10891563,true,motorola,moto g32,15,35
+receiver-keystore,ECC P-384,encrypt,15,5,4342813,true,motorola,moto g32,15,35
+receiver-keystore,ECC P-384,decrypt,15,5,9730522,true,motorola,moto g32,15,35
+receiver-keystore,ECC P-384,encrypt,15,6,3544271,true,motorola,moto g32,15,35
+receiver-keystore,ECC P-384,decrypt,15,6,7661876,true,motorola,moto g32,15,35
+receiver-keystore,ECC P-384,encrypt,15,7,3539844,true,motorola,moto g32,15,35
+receiver-keystore,ECC P-384,decrypt,15,7,7371147,true,motorola,moto g32,15,35
+receiver-keystore,ECC P-384,encrypt,15,8,3505886,true,motorola,moto g32,15,35
+receiver-keystore,ECC P-384,decrypt,15,8,7371407,true,motorola,moto g32,15,35
+receiver-keystore,ECC P-384,encrypt,15,9,3542188,true,motorola,moto g32,15,35
+receiver-keystore,ECC P-384,decrypt,15,9,8188439,true,motorola,moto g32,15,35
+receiver-keystore,ECC P-384,encrypt,15,10,6042344,true,motorola,moto g32,15,35
+receiver-keystore,ECC P-384,decrypt,15,10,8424324,true,motorola,moto g32,15,35
+receiver-keystore,ECC P-384,encrypt,15,11,3528802,true,motorola,moto g32,15,35
+receiver-keystore,ECC P-384,decrypt,15,11,7624376,true,motorola,moto g32,15,35
+receiver-keystore,ECC P-384,encrypt,15,12,3531980,true,motorola,moto g32,15,35
+receiver-keystore,ECC P-384,decrypt,15,12,7498022,true,motorola,moto g32,15,35
+receiver-keystore,ECC P-384,encrypt,15,13,3529740,true,motorola,moto g32,15,35
+receiver-keystore,ECC P-384,decrypt,15,13,7366563,true,motorola,moto g32,15,35
+receiver-keystore,ECC P-384,encrypt,15,14,3505990,true,motorola,moto g32,15,35
+receiver-keystore,ECC P-384,decrypt,15,14,7385001,true,motorola,moto g32,15,35
+receiver-keystore,ECC P-384,encrypt,15,15,3513542,true,motorola,moto g32,15,35
+receiver-keystore,ECC P-384,decrypt,15,15,7573387,true,motorola,moto g32,15,35
+receiver-keystore,ECC P-384,encrypt,15,16,3532708,true,motorola,moto g32,15,35
+receiver-keystore,ECC P-384,decrypt,15,16,8301042,true,motorola,moto g32,15,35
+receiver-keystore,ECC P-384,encrypt,15,17,3587292,true,motorola,moto g32,15,35
+receiver-keystore,ECC P-384,decrypt,15,17,7368126,true,motorola,moto g32,15,35
+receiver-keystore,ECC P-384,encrypt,15,18,3486511,true,motorola,moto g32,15,35
+receiver-keystore,ECC P-384,decrypt,15,18,7416303,true,motorola,moto g32,15,35
+receiver-keystore,ECC P-384,encrypt,15,19,3507605,true,motorola,moto g32,15,35
+receiver-keystore,ECC P-384,decrypt,15,19,7475314,true,motorola,moto g32,15,35
+receiver-keystore,ECC P-384,encrypt,15,20,3535522,true,motorola,moto g32,15,35
+receiver-keystore,ECC P-384,decrypt,15,20,7493073,true,motorola,moto g32,15,35
+receiver-keystore,ECC P-384,encrypt,15,21,3518282,true,motorola,moto g32,15,35
+receiver-keystore,ECC P-384,decrypt,15,21,7355157,true,motorola,moto g32,15,35
+receiver-keystore,ECC P-384,encrypt,15,22,3502396,true,motorola,moto g32,15,35
+receiver-keystore,ECC P-384,decrypt,15,22,7401719,true,motorola,moto g32,15,35
+receiver-keystore,ECC P-384,encrypt,15,23,3526771,true,motorola,moto g32,15,35
+receiver-keystore,ECC P-384,decrypt,15,23,9596147,true,motorola,moto g32,15,35
+receiver-keystore,ECC P-384,encrypt,15,24,3539739,true,motorola,moto g32,15,35
+receiver-keystore,ECC P-384,decrypt,15,24,9845522,true,motorola,moto g32,15,35
+receiver-keystore,ECC P-384,encrypt,15,25,3501094,true,motorola,moto g32,15,35
+receiver-keystore,ECC P-384,decrypt,15,25,10812501,true,motorola,moto g32,15,35
+receiver-keystore,ECC P-384,encrypt,15,26,3605156,true,motorola,moto g32,15,35
+receiver-keystore,ECC P-384,decrypt,15,26,7836719,true,motorola,moto g32,15,35
+receiver-keystore,ECC P-384,encrypt,15,27,3498959,true,motorola,moto g32,15,35
+receiver-keystore,ECC P-384,decrypt,15,27,7370209,true,motorola,moto g32,15,35
+receiver-keystore,ECC P-384,encrypt,15,28,3499532,true,motorola,moto g32,15,35
+receiver-keystore,ECC P-384,decrypt,15,28,7379063,true,motorola,moto g32,15,35
+receiver-keystore,ECC P-384,encrypt,15,29,3533542,true,motorola,moto g32,15,35
+receiver-keystore,ECC P-384,decrypt,15,29,7445418,true,motorola,moto g32,15,35
+receiver-keystore,ECC P-384,encrypt,15,30,3513333,true,motorola,moto g32,15,35
+receiver-keystore,ECC P-384,decrypt,15,30,7306511,true,motorola,moto g32,15,35
+receiver-keystore,ECC P-384,encrypt,200,1,3524584,true,motorola,moto g32,15,35
+receiver-keystore,ECC P-384,decrypt,200,1,7390626,true,motorola,moto g32,15,35
+receiver-keystore,ECC P-384,encrypt,200,2,3523803,true,motorola,moto g32,15,35
+receiver-keystore,ECC P-384,decrypt,200,2,7395157,true,motorola,moto g32,15,35
+receiver-keystore,ECC P-384,encrypt,200,3,3524531,true,motorola,moto g32,15,35
+receiver-keystore,ECC P-384,decrypt,200,3,7591980,true,motorola,moto g32,15,35
+receiver-keystore,ECC P-384,encrypt,200,4,3512917,true,motorola,moto g32,15,35
+receiver-keystore,ECC P-384,decrypt,200,4,7513595,true,motorola,moto g32,15,35
+receiver-keystore,ECC P-384,encrypt,200,5,3535365,true,motorola,moto g32,15,35
+receiver-keystore,ECC P-384,decrypt,200,5,7438022,true,motorola,moto g32,15,35
+receiver-keystore,ECC P-384,encrypt,200,6,3564584,true,motorola,moto g32,15,35
+receiver-keystore,ECC P-384,decrypt,200,6,7373647,true,motorola,moto g32,15,35
+receiver-keystore,ECC P-384,encrypt,200,7,3625261,true,motorola,moto g32,15,35
+receiver-keystore,ECC P-384,decrypt,200,7,7407084,true,motorola,moto g32,15,35
+receiver-keystore,ECC P-384,encrypt,200,8,3521094,true,motorola,moto g32,15,35
+receiver-keystore,ECC P-384,decrypt,200,8,7432084,true,motorola,moto g32,15,35
+receiver-keystore,ECC P-384,encrypt,200,9,3526510,true,motorola,moto g32,15,35
+receiver-keystore,ECC P-384,decrypt,200,9,7301511,true,motorola,moto g32,15,35
+receiver-keystore,ECC P-384,encrypt,200,10,3576928,true,motorola,moto g32,15,35
+receiver-keystore,ECC P-384,decrypt,200,10,7351042,true,motorola,moto g32,15,35
+receiver-keystore,ECC P-384,encrypt,200,11,3525053,true,motorola,moto g32,15,35
+receiver-keystore,ECC P-384,decrypt,200,11,7479168,true,motorola,moto g32,15,35
+receiver-keystore,ECC P-384,encrypt,200,12,3507813,true,motorola,moto g32,15,35
+receiver-keystore,ECC P-384,decrypt,200,12,7428646,true,motorola,moto g32,15,35
+receiver-keystore,ECC P-384,encrypt,200,13,3538594,true,motorola,moto g32,15,35
+receiver-keystore,ECC P-384,decrypt,200,13,7406824,true,motorola,moto g32,15,35
+receiver-keystore,ECC P-384,encrypt,200,14,3514219,true,motorola,moto g32,15,35
+receiver-keystore,ECC P-384,decrypt,200,14,7348594,true,motorola,moto g32,15,35
+receiver-keystore,ECC P-384,encrypt,200,15,3639792,true,motorola,moto g32,15,35
+receiver-keystore,ECC P-384,decrypt,200,15,7404220,true,motorola,moto g32,15,35
+receiver-keystore,ECC P-384,encrypt,200,16,3513802,true,motorola,moto g32,15,35
+receiver-keystore,ECC P-384,decrypt,200,16,7424324,true,motorola,moto g32,15,35
+receiver-keystore,ECC P-384,encrypt,200,17,3536146,true,motorola,moto g32,15,35
+receiver-keystore,ECC P-384,decrypt,200,17,7335886,true,motorola,moto g32,15,35
+receiver-keystore,ECC P-384,encrypt,200,18,3574323,true,motorola,moto g32,15,35
+receiver-keystore,ECC P-384,decrypt,200,18,11652553,true,motorola,moto g32,15,35
+receiver-keystore,ECC P-384,encrypt,200,19,5874011,true,motorola,moto g32,15,35
+receiver-keystore,ECC P-384,decrypt,200,19,9318438,true,motorola,moto g32,15,35
+receiver-keystore,ECC P-384,encrypt,200,20,3870157,true,motorola,moto g32,15,35
+receiver-keystore,ECC P-384,decrypt,200,20,8538230,true,motorola,moto g32,15,35
+receiver-keystore,ECC P-384,encrypt,200,21,3644479,true,motorola,moto g32,15,35
+receiver-keystore,ECC P-384,decrypt,200,21,8266147,true,motorola,moto g32,15,35
+receiver-keystore,ECC P-384,encrypt,200,22,3578959,true,motorola,moto g32,15,35
+receiver-keystore,ECC P-384,decrypt,200,22,8238803,true,motorola,moto g32,15,35
+receiver-keystore,ECC P-384,encrypt,200,23,3635417,true,motorola,moto g32,15,35
+receiver-keystore,ECC P-384,decrypt,200,23,8326772,true,motorola,moto g32,15,35
+receiver-keystore,ECC P-384,encrypt,200,24,3581042,true,motorola,moto g32,15,35
+receiver-keystore,ECC P-384,decrypt,200,24,9845783,true,motorola,moto g32,15,35
+receiver-keystore,ECC P-384,encrypt,200,25,3592917,true,motorola,moto g32,15,35
+receiver-keystore,ECC P-384,decrypt,200,25,8218282,true,motorola,moto g32,15,35
+receiver-keystore,ECC P-384,encrypt,200,26,3680886,true,motorola,moto g32,15,35
+receiver-keystore,ECC P-384,decrypt,200,26,8056355,true,motorola,moto g32,15,35
+receiver-keystore,ECC P-384,encrypt,200,27,3610364,true,motorola,moto g32,15,35
+receiver-keystore,ECC P-384,decrypt,200,27,8135209,true,motorola,moto g32,15,35
+receiver-keystore,ECC P-384,encrypt,200,28,3637032,true,motorola,moto g32,15,35
+receiver-keystore,ECC P-384,decrypt,200,28,8108542,true,motorola,moto g32,15,35
+receiver-keystore,ECC P-384,encrypt,200,29,3686563,true,motorola,moto g32,15,35
+receiver-keystore,ECC P-384,decrypt,200,29,7730209,true,motorola,moto g32,15,35
+receiver-keystore,ECC P-384,encrypt,200,30,3532136,true,motorola,moto g32,15,35
+receiver-keystore,ECC P-384,decrypt,200,30,7440417,true,motorola,moto g32,15,35
+receiver-keystore,ECC P-384,encrypt,1024,1,3573334,true,motorola,moto g32,15,35
+receiver-keystore,ECC P-384,decrypt,1024,1,7420261,true,motorola,moto g32,15,35
+receiver-keystore,ECC P-384,encrypt,1024,2,3514115,true,motorola,moto g32,15,35
+receiver-keystore,ECC P-384,decrypt,1024,2,7452188,true,motorola,moto g32,15,35
+receiver-keystore,ECC P-384,encrypt,1024,3,3526302,true,motorola,moto g32,15,35
+receiver-keystore,ECC P-384,decrypt,1024,3,7486095,true,motorola,moto g32,15,35
+receiver-keystore,ECC P-384,encrypt,1024,4,3513646,true,motorola,moto g32,15,35
+receiver-keystore,ECC P-384,decrypt,1024,4,7441563,true,motorola,moto g32,15,35
+receiver-keystore,ECC P-384,encrypt,1024,5,3499532,true,motorola,moto g32,15,35
+receiver-keystore,ECC P-384,decrypt,1024,5,7487136,true,motorola,moto g32,15,35
+receiver-keystore,ECC P-384,encrypt,1024,6,3541510,true,motorola,moto g32,15,35
+receiver-keystore,ECC P-384,decrypt,1024,6,7615782,true,motorola,moto g32,15,35
+receiver-keystore,ECC P-384,encrypt,1024,7,3529740,true,motorola,moto g32,15,35
+receiver-keystore,ECC P-384,decrypt,1024,7,7715209,true,motorola,moto g32,15,35
+receiver-keystore,ECC P-384,encrypt,1024,8,3506771,true,motorola,moto g32,15,35
+receiver-keystore,ECC P-384,decrypt,1024,8,7576615,true,motorola,moto g32,15,35
+receiver-keystore,ECC P-384,encrypt,1024,9,3536667,true,motorola,moto g32,15,35
+receiver-keystore,ECC P-384,decrypt,1024,9,7456511,true,motorola,moto g32,15,35
+receiver-keystore,ECC P-384,encrypt,1024,10,3529688,true,motorola,moto g32,15,35
+receiver-keystore,ECC P-384,decrypt,1024,10,8892241,true,motorola,moto g32,15,35
+receiver-keystore,ECC P-384,encrypt,1024,11,5043178,true,motorola,moto g32,15,35
+receiver-keystore,ECC P-384,decrypt,1024,11,8279584,true,motorola,moto g32,15,35
+receiver-keystore,ECC P-384,encrypt,1024,12,3521459,true,motorola,moto g32,15,35
+receiver-keystore,ECC P-384,decrypt,1024,12,7661563,true,motorola,moto g32,15,35
+receiver-keystore,ECC P-384,encrypt,1024,13,3546251,true,motorola,moto g32,15,35
+receiver-keystore,ECC P-384,decrypt,1024,13,7586459,true,motorola,moto g32,15,35
+receiver-keystore,ECC P-384,encrypt,1024,14,3520469,true,motorola,moto g32,15,35
+receiver-keystore,ECC P-384,decrypt,1024,14,7801407,true,motorola,moto g32,15,35
+receiver-keystore,ECC P-384,encrypt,1024,15,3805469,true,motorola,moto g32,15,35
+receiver-keystore,ECC P-384,decrypt,1024,15,7973751,true,motorola,moto g32,15,35
+receiver-keystore,ECC P-384,encrypt,1024,16,3882083,true,motorola,moto g32,15,35
+receiver-keystore,ECC P-384,decrypt,1024,16,7480001,true,motorola,moto g32,15,35
+receiver-keystore,ECC P-384,encrypt,1024,17,3499271,true,motorola,moto g32,15,35
+receiver-keystore,ECC P-384,decrypt,1024,17,7477605,true,motorola,moto g32,15,35
+receiver-keystore,ECC P-384,encrypt,1024,18,3542760,true,motorola,moto g32,15,35
+receiver-keystore,ECC P-384,decrypt,1024,18,7497448,true,motorola,moto g32,15,35
+receiver-keystore,ECC P-384,encrypt,1024,19,3614115,true,motorola,moto g32,15,35
+receiver-keystore,ECC P-384,decrypt,1024,19,7541199,true,motorola,moto g32,15,35
+receiver-keystore,ECC P-384,encrypt,1024,20,3522709,true,motorola,moto g32,15,35
+receiver-keystore,ECC P-384,decrypt,1024,20,7518647,true,motorola,moto g32,15,35
+receiver-keystore,ECC P-384,encrypt,1024,21,3535157,true,motorola,moto g32,15,35
+receiver-keystore,ECC P-384,decrypt,1024,21,7465574,true,motorola,moto g32,15,35
+receiver-keystore,ECC P-384,encrypt,1024,22,3581875,true,motorola,moto g32,15,35
+receiver-keystore,ECC P-384,decrypt,1024,22,7475365,true,motorola,moto g32,15,35
+receiver-keystore,ECC P-384,encrypt,1024,23,3507761,true,motorola,moto g32,15,35
+receiver-keystore,ECC P-384,decrypt,1024,23,9733282,true,motorola,moto g32,15,35
+receiver-keystore,ECC P-384,encrypt,1024,24,3520989,true,motorola,moto g32,15,35
+receiver-keystore,ECC P-384,decrypt,1024,24,7724480,true,motorola,moto g32,15,35
+receiver-keystore,ECC P-384,encrypt,1024,25,3503334,true,motorola,moto g32,15,35
+receiver-keystore,ECC P-384,decrypt,1024,25,7428491,true,motorola,moto g32,15,35
+receiver-keystore,ECC P-384,encrypt,1024,26,3538438,true,motorola,moto g32,15,35
+receiver-keystore,ECC P-384,decrypt,1024,26,7711459,true,motorola,moto g32,15,35
+receiver-keystore,ECC P-384,encrypt,1024,27,3695677,true,motorola,moto g32,15,35
+receiver-keystore,ECC P-384,decrypt,1024,27,13276824,true,motorola,moto g32,15,35
+receiver-keystore,ECC P-384,encrypt,1024,28,3875313,true,motorola,moto g32,15,35
+receiver-keystore,ECC P-384,decrypt,1024,28,7841355,true,motorola,moto g32,15,35
+receiver-keystore,ECC P-384,encrypt,1024,29,3529427,true,motorola,moto g32,15,35
+receiver-keystore,ECC P-384,decrypt,1024,29,7393959,true,motorola,moto g32,15,35
+receiver-keystore,ECC P-384,encrypt,1024,30,3584636,true,motorola,moto g32,15,35
+receiver-keystore,ECC P-384,decrypt,1024,30,7539584,true,motorola,moto g32,15,35
