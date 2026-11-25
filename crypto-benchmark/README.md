@@ -12,4 +12,4 @@ From the repository root:
 
 That command runs `HybridBenchmarkTest` with `-Pbenchmark=true`. A normal `./gradlew testDebugUnitTest` skips that test. The run takes several minutes because RSA-7680 key generation is part of the isolated block.
 
-The committed numbers are a JVM run with in-memory keys. They are not Android Keystore timings. A later phone run has to be stored separately and labeled with the device.
+The numbers in `results/` are a JVM run with in-memory keys. The receiver comparison, measured on a physical moto g32 with Android Keystore, is kept separately in `receiver-results/` and [RECEIVER_RESULTS.md](RECEIVER_RESULTS.md). Do not average the two runs together.
